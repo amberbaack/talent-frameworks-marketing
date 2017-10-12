@@ -5,6 +5,8 @@ The widget fits into a discover-trial-buy experience.
 Using the widget, site visitors can search for jobs to determine if Talent Frameworks has the desired content.
 A partner can add functionality to progress discovery to whitepapers or similar gated marketing material.
 
+![Sample Image](./sample.gif)
+
 ## Usage
 
 Add the Javascript widget to your website in a few lines of code.
