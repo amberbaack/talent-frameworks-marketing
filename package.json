@@ -1,0 +1,14 @@
+{
+  "name": "talent-frameworks-marketing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server -c=bs-config.json"
+  },
+  "author": "van_staub@us.ibm.com",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
