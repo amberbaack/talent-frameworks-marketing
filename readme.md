@@ -18,4 +18,4 @@ Add the Javascript widget to your website in a few lines of code.
 
 The sample `index.html` uses [Bootstrap](http://getbootstrap.com/)/[Bootswatch](http://http://bootswatch.com/) as styling.
 
-You are free to build your own HTML.  Simply ensure that the search textbox has `id=search` and the location of search results has `searchResults`.
+You are free to build your own HTML.  Simply ensure that the search textbox has `id='search'` and the location of search results has `id='searchResults'`.
