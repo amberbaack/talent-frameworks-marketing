@@ -39,7 +39,7 @@
       // append the results
       jobs.forEach(job => {
         if (job.jobTitle.toLowerCase().indexOf(keyword.toLowerCase()) > -1) {
-          results.insertAdjacentHTML('afterbegin', `<tr><td>${frameworks[job.framework]}</td><td>${job.jobTitle}</td></tr>`)
+          results.insertAdjacentHTML('afterbegin', `<tr><td>${job.framework}</td><td>${job.jobTitle}</td></tr>`)
         }
       })
     }

@@ -1,12438 +1,12390 @@
 var jobs = [
   {
-    "jobTitle": "Compliance Director - Bank Services",
-    "framework": "BFS60"
+   "jobTitle": "Compliance Director - Bank Services",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Compliance Manager - Bank Services",
-    "framework": "BFS60"
+   "jobTitle": "Compliance Manager - Bank Services",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Commercial Banking Compliance Specialist",
-    "framework": "BFS60"
+   "jobTitle": "Commercial Banking Compliance Specialist",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Compliance Specialist - Bank Services",
-    "framework": "BFS60"
+   "jobTitle": "Compliance Specialist - Bank Services",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Investment Banking Compliance Specialist",
-    "framework": "BFS60"
+   "jobTitle": "Investment Banking Compliance Specialist",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Investment Management Compliance Specialist",
-    "framework": "BFS60"
+   "jobTitle": "Investment Management Compliance Specialist",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Private Banking Compliance Specialist",
-    "framework": "BFS60"
+   "jobTitle": "Private Banking Compliance Specialist",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Managing Officer (Credit Risk)",
-    "framework": "BFS60"
+   "jobTitle": "Branch Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Managing Officer (Integrated Risk)",
-    "framework": "BFS60"
+   "jobTitle": "Community Banker",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Managing Officer (Market Risk)",
-    "framework": "BFS60"
+   "jobTitle": "Fraud Investigation Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Regional Officer - Integrated Risk",
-    "framework": "BFS60"
+   "jobTitle": "Vault Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Risk Manager - Integrated Risk",
-    "framework": "BFS60"
+   "jobTitle": "Account Services Representative, Senior",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Risk Analyst, Senior - Credit Risk",
-    "framework": "BFS60"
+   "jobTitle": "Business Banking Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Risk Specialist, Senior (Credit Risk)",
-    "framework": "BFS60"
+   "jobTitle": "Business Banking Officer",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Risk Analyst, Senior - Integrated Risk",
-    "framework": "BFS60"
+   "jobTitle": "Assistant Branch Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Risk Analyst, Senior (Market Risk)",
-    "framework": "BFS60"
+   "jobTitle": "Investment Consultant",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Market Risk Specialist, Senior",
-    "framework": "BFS60"
+   "jobTitle": "Teller Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "System Security Specialist",
-    "framework": "BFS60"
+   "jobTitle": "Account Services Representative",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Risk Analyst (Credit Risk)",
-    "framework": "BFS60"
+   "jobTitle": "Business Banking Development Officer",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Risk Analyst (Integrated Risk)",
-    "framework": "BFS60"
+   "jobTitle": "Banking Direct Sales Representative",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Risk Analyst (Market Risk)",
-    "framework": "BFS60"
+   "jobTitle": "Branch Review Specialist",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Chief Lending Officer",
-    "framework": "BFS60"
+   "jobTitle": "Security Supervisor",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Retail Loan Officer",
-    "framework": "BFS60"
+   "jobTitle": "Head Teller",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Retail Loan Review Director",
-    "framework": "BFS60"
+   "jobTitle": "Banking Client Services Representative",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Credit Evaluation Manager - BFS",
-    "framework": "BFS60"
+   "jobTitle": "IRA Services Representative",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Collateral Manager - BFS",
-    "framework": "BFS60"
+   "jobTitle": "New Accounts Representative",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Collection Manager - BFS",
-    "framework": "BFS60"
+   "jobTitle": "Security Guard",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Retail Loan Service Manager",
-    "framework": "BFS60"
+   "jobTitle": "Safe Deposit Clerk",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Consumer Loan Underwriter, Senior",
-    "framework": "BFS60"
+   "jobTitle": "Teller",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Retail Loan Specialist, Senior",
-    "framework": "BFS60"
+   "jobTitle": "Vault Clerk",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Bankruptcy Specialist",
-    "framework": "BFS60"
+   "jobTitle": "Checking/Debit Card Business Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Consumer Loan Underwriter",
-    "framework": "BFS60"
+   "jobTitle": "Product Manager, Credit Card",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Mortgage Closer - BFS",
-    "framework": "BFS60"
+   "jobTitle": "Credit Services Unit Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Mortgage Compliance Specialist - BFS",
-    "framework": "BFS60"
+   "jobTitle": "Credit Risk Analyst - Consumer",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Mortgage Loan Originator - BFS",
-    "framework": "BFS60"
+   "jobTitle": "Credit Services Representative",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Mortgage Loan Processor - BFS",
-    "framework": "BFS60"
+   "jobTitle": "Fraud Investigator",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Mortgage Loan Underwriter - BFS",
-    "framework": "BFS60"
+   "jobTitle": "Merchant Services Sales Representative",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Retail Loan Specialist",
-    "framework": "BFS60"
+   "jobTitle": "Systems Quality Analyst (Credit Card)",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Retail Operations Director - BFS",
-    "framework": "BFS60"
+   "jobTitle": "Merchant Chargeback Analyst",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "ATM Functionality Manager",
-    "framework": "BFS60"
+   "jobTitle": "Sales Assistant",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Check Processing Manager",
-    "framework": "BFS60"
+   "jobTitle": "Group Operations Director",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Retail Operations Manager",
-    "framework": "BFS60"
+   "jobTitle": "Letter of Credit Officer",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "ATM Service Manager",
-    "framework": "BFS60"
+   "jobTitle": "Loan Operations Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Compliance Analyst, Senior - BRO",
-    "framework": "BFS60"
+   "jobTitle": "Loan Processing Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Mortgage Operations Specialist",
-    "framework": "BFS60"
+   "jobTitle": "Letter of Credit Specialist",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Card Production Manager",
-    "framework": "BFS60"
+   "jobTitle": "Loan Processing Supervisor",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Card Production Quality Supervisor",
-    "framework": "BFS60"
+   "jobTitle": "Loan Workout Officer",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Retail Branch Trainer",
-    "framework": "BFS60"
+   "jobTitle": "Commercial Credit Analyst, Senior",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "ATM Service Team Leader",
-    "framework": "BFS60"
+   "jobTitle": "Commercial Loan Review Officer, Senior",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Compliance Analyst - BRO",
-    "framework": "BFS60"
+   "jobTitle": "International Trade Specialist",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Collections Team Leader",
-    "framework": "BFS60"
+   "jobTitle": "Letter of Credit Coordinator",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Fraud Prevention Associate, Senior",
-    "framework": "BFS60"
+   "jobTitle": "Loan Operations Analyst",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Lockbox Processor",
-    "framework": "BFS60"
+   "jobTitle": "Loan Processing Coordinator",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Online Banking Specialist",
-    "framework": "BFS60"
+   "jobTitle": "Data Entry Clerk",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Card Production Quality Analyst",
-    "framework": "BFS60"
+   "jobTitle": "Letter of Credit Clerk",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "ATM Service Technician",
-    "framework": "BFS60"
+   "jobTitle": "Loan Processing Clerk",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Collections Agent",
-    "framework": "BFS60"
+   "jobTitle": "Foreign Exchange Director",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Proof Operator",
-    "framework": "BFS60"
+   "jobTitle": "Investment Banking Director",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Card Production Associate",
-    "framework": "BFS60"
+   "jobTitle": "Mergers and Acquisitions Director",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Branch Manager",
-    "framework": "BFS60"
+   "jobTitle": "Asset/Liability Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Community Banker",
-    "framework": "BFS60"
+   "jobTitle": "Investment Operations Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Fraud Investigation Manager",
-    "framework": "BFS60"
+   "jobTitle": "Portfolio Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Vault Manager",
-    "framework": "BFS60"
+   "jobTitle": "Bond Trading Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Account Services Representative, Senior",
-    "framework": "BFS60"
+   "jobTitle": "Corporate Advisory Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Business Banking Manager",
-    "framework": "BFS60"
+   "jobTitle": "Discount Brokerage Operations Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Business Banking Officer",
-    "framework": "BFS60"
+   "jobTitle": "Foreign Exchange Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Assistant Branch Manager",
-    "framework": "BFS60"
+   "jobTitle": "Pricing Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Investment Consultant",
-    "framework": "BFS60"
+   "jobTitle": "Mergers & Acquisitions Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Teller Manager",
-    "framework": "BFS60"
+   "jobTitle": "Market Intelligence Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Account Services Representative",
-    "framework": "BFS60"
+   "jobTitle": "Asset/Liability Analyst",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Business Banking Development Officer",
-    "framework": "BFS60"
+   "jobTitle": "Bond Sales Officer",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Banking Direct Sales Representative",
-    "framework": "BFS60"
+   "jobTitle": "Block Trader",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Branch Review Specialist",
-    "framework": "BFS60"
+   "jobTitle": "Discount Brokerage Sales Representative",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Security Supervisor",
-    "framework": "BFS60"
+   "jobTitle": "Floor Broker",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Head Teller",
-    "framework": "BFS60"
+   "jobTitle": "Foreign Exchange Trader",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Banking Client Services Representative",
-    "framework": "BFS60"
+   "jobTitle": "Fixed Income Analyst",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "IRA Services Representative",
-    "framework": "BFS60"
+   "jobTitle": "Investment Analyst",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "New Accounts Representative",
-    "framework": "BFS60"
+   "jobTitle": "Investment Banking Analyst",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Security Guard",
-    "framework": "BFS60"
+   "jobTitle": "Mergers & Acquisitions Analyst",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Safe Deposit Clerk",
-    "framework": "BFS60"
+   "jobTitle": "Secondary Market Analyst",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Teller",
-    "framework": "BFS60"
+   "jobTitle": "Trader (Corporate Bonds)",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Vault Clerk",
-    "framework": "BFS60"
+   "jobTitle": "Trader (Government Securities)",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Debt Advisory/Restructuring Director",
-    "framework": "BFS60"
+   "jobTitle": "Trader (Institutional Municipal Bonds)",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Credit Risk Analyst - Investments",
-    "framework": "BFS60"
+   "jobTitle": "Trader (Options)",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Capital Market Structuring Associate",
-    "framework": "BFS60"
+   "jobTitle": "Trader (OTC)",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Quantitative Specialist",
-    "framework": "BFS60"
+   "jobTitle": "Trader (Retail Municipal Bonds)",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Equity Sales Trader",
-    "framework": "BFS60"
+   "jobTitle": "Bond Interest Clerk",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Checking/Debit Card Business Manager",
-    "framework": "BFS60"
+   "jobTitle": "Margin Clerk",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Product Manager, Credit Card",
-    "framework": "BFS60"
+   "jobTitle": "OTC Clerk",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Credit Services Unit Manager",
-    "framework": "BFS60"
+   "jobTitle": "Securities Analyst",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Credit Risk Analyst - Consumer",
-    "framework": "BFS60"
+   "jobTitle": "Stock Records Clerk",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Credit Services Representative",
-    "framework": "BFS60"
+   "jobTitle": "Stock Transfer Clerk",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Fraud Investigator",
-    "framework": "BFS60"
+   "jobTitle": "Managing Officer (Credit Risk)",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Merchant Services Sales Representative",
-    "framework": "BFS60"
+   "jobTitle": "Managing Officer (Integrated Risk)",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Systems Quality Analyst (Credit Card)",
-    "framework": "BFS60"
+   "jobTitle": "Managing Officer (Market Risk)",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Merchant Chargeback Analyst",
-    "framework": "BFS60"
+   "jobTitle": "Regional Officer - Integrated Risk",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Sales Assistant",
-    "framework": "BFS60"
+   "jobTitle": "Risk Manager - Integrated Risk",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Group Operations Director",
-    "framework": "BFS60"
+   "jobTitle": "Risk Analyst, Senior - Credit Risk",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Letter of Credit Officer",
-    "framework": "BFS60"
+   "jobTitle": "Risk Specialist, Senior (Credit Risk)",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Loan Operations Manager",
-    "framework": "BFS60"
+   "jobTitle": "Risk Analyst, Senior - Integrated Risk",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Loan Processing Manager",
-    "framework": "BFS60"
+   "jobTitle": "Risk Analyst, Senior (Market Risk)",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Letter of Credit Specialist",
-    "framework": "BFS60"
+   "jobTitle": "Market Risk Specialist, Senior",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Loan Processing Supervisor",
-    "framework": "BFS60"
+   "jobTitle": "System Security Specialist",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Loan Workout Officer",
-    "framework": "BFS60"
+   "jobTitle": "Risk Analyst (Credit Risk)",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Commercial Credit Analyst, Senior",
-    "framework": "BFS60"
+   "jobTitle": "Risk Analyst (Integrated Risk)",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Commercial Loan Review Officer, Senior",
-    "framework": "BFS60"
+   "jobTitle": "Risk Analyst (Market Risk)",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "International Trade Specialist",
-    "framework": "BFS60"
+   "jobTitle": "Chief Lending Officer",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Letter of Credit Coordinator",
-    "framework": "BFS60"
+   "jobTitle": "Retail Loan Officer",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Loan Operations Analyst",
-    "framework": "BFS60"
+   "jobTitle": "Retail Loan Review Director",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Loan Processing Coordinator",
-    "framework": "BFS60"
+   "jobTitle": "Credit Evaluation Manager - BFS",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Data Entry Clerk",
-    "framework": "BFS60"
+   "jobTitle": "Collateral Manager - BFS",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Letter of Credit Clerk",
-    "framework": "BFS60"
+   "jobTitle": "Collection Manager - BFS",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Loan Processing Clerk",
-    "framework": "BFS60"
+   "jobTitle": "Retail Loan Service Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Foreign Exchange Director",
-    "framework": "BFS60"
+   "jobTitle": "Consumer Loan Underwriter, Senior",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Mergers and Acquisitions Director",
-    "framework": "BFS60"
+   "jobTitle": "Retail Loan Specialist, Senior",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Investment Banking Director",
-    "framework": "BFS60"
+   "jobTitle": "Bankruptcy Specialist",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Asset/Liability Manager",
-    "framework": "BFS60"
+   "jobTitle": "Consumer Loan Underwriter",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Investment Operations Manager",
-    "framework": "BFS60"
+   "jobTitle": "Mortgage Closer - BFS",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Portfolio Manager",
-    "framework": "BFS60"
+   "jobTitle": "Mortgage Compliance Specialist - BFS",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Bond Trading Manager",
-    "framework": "BFS60"
+   "jobTitle": "Mortgage Loan Originator - BFS",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Corporate Advisory Manager",
-    "framework": "BFS60"
+   "jobTitle": "Mortgage Loan Processor - BFS",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Discount Brokerage Operations Manager",
-    "framework": "BFS60"
+   "jobTitle": "Mortgage Loan Underwriter - BFS",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Foreign Exchange Manager",
-    "framework": "BFS60"
+   "jobTitle": "Retail Loan Specialist",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Pricing Manager",
-    "framework": "BFS60"
+   "jobTitle": "Retail Operations Director - BFS",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Mergers & Acquisitions Manager",
-    "framework": "BFS60"
+   "jobTitle": "ATM Functionality Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Market Intelligence Manager",
-    "framework": "BFS60"
+   "jobTitle": "Check Processing Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Asset/Liability Analyst",
-    "framework": "BFS60"
+   "jobTitle": "Retail Operations Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Bond Sales Officer",
-    "framework": "BFS60"
+   "jobTitle": "ATM Service Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Block Trader",
-    "framework": "BFS60"
+   "jobTitle": "Compliance Analyst, Senior - BRO",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Discount Brokerage Sales Representative",
-    "framework": "BFS60"
+   "jobTitle": "Mortgage Operations Specialist",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Floor Broker",
-    "framework": "BFS60"
+   "jobTitle": "Card Production Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Foreign Exchange Trader",
-    "framework": "BFS60"
+   "jobTitle": "Card Production Quality Supervisor",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Fixed Income Analyst",
-    "framework": "BFS60"
+   "jobTitle": "Retail Branch Trainer",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Investment Analyst",
-    "framework": "BFS60"
+   "jobTitle": "ATM Service Team Leader",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Investment Banking Analyst",
-    "framework": "BFS60"
+   "jobTitle": "Compliance Analyst - BRO",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Mergers & Acquisitions Analyst",
-    "framework": "BFS60"
+   "jobTitle": "Collections Team Leader",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Secondary Market Analyst",
-    "framework": "BFS60"
+   "jobTitle": "Fraud Prevention Associate, Senior",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Trader (Corporate Bonds)",
-    "framework": "BFS60"
+   "jobTitle": "Lockbox Processor",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Trader (Government Securities)",
-    "framework": "BFS60"
+   "jobTitle": "Online Banking Specialist",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Trader (Institutional Municipal Bonds)",
-    "framework": "BFS60"
+   "jobTitle": "Card Production Quality Analyst",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Trader (Options)",
-    "framework": "BFS60"
+   "jobTitle": "ATM Service Technician",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Trader (OTC)",
-    "framework": "BFS60"
+   "jobTitle": "Collections Agent",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Trader (Retail Municipal Bonds)",
-    "framework": "BFS60"
+   "jobTitle": "Proof Operator",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Bond Interest Clerk",
-    "framework": "BFS60"
+   "jobTitle": "Card Production Associate",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Margin Clerk",
-    "framework": "BFS60"
+   "jobTitle": "Investor Reporting Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "OTC Clerk",
-    "framework": "BFS60"
+   "jobTitle": "Treasury Operations Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Securities Analyst",
-    "framework": "BFS60"
+   "jobTitle": "Capital Markets Manager - Securitization",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Stock Records Clerk",
-    "framework": "BFS60"
+   "jobTitle": "Capital Markets Manager - Trading",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Stock Transfer Clerk",
-    "framework": "BFS60"
+   "jobTitle": "Treasury Management Sales Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Chief Investment Risk Officer",
-    "framework": "BFS60"
+   "jobTitle": "Financial Analyst",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Fund Administrator",
-    "framework": "BFS60"
+   "jobTitle": "Treasury Operations Supervisor",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Performance Analyst",
-    "framework": "BFS60"
+   "jobTitle": "Treasury Analyst, Senior",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Investment Management Analyst, Senior",
-    "framework": "BFS60"
+   "jobTitle": "Electronic Funds Transfer Specialist",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Quantitative Analyst, Senior",
-    "framework": "BFS60"
+   "jobTitle": "Treasury Analyst",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Research Analyst, Senior",
-    "framework": "BFS60"
+   "jobTitle": "Trading Support Analyst",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Cash Desk Supervisor/Trade Support",
-    "framework": "BFS60"
+   "jobTitle": "Wire Room Analyst",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Client Services Reporting Analyst",
-    "framework": "BFS60"
+   "jobTitle": "Operations Project Coordinator",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Investment Management Analyst, Junior",
-    "framework": "BFS60"
+   "jobTitle": "Chief Trust Officer",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Product Development Associate",
-    "framework": "BFS60"
+   "jobTitle": "Private Bank Investment Executive",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Small Business Account Advisor",
-    "framework": "BFS60"
+   "jobTitle": "Estate Planning Director",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Small Business Banker, Senior",
-    "framework": "BFS60"
+   "jobTitle": "Private Banking Director",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Small Business Development Manager",
-    "framework": "BFS60"
+   "jobTitle": "Business Development Director",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Cash Management Service Manager",
-    "framework": "BFS60"
+   "jobTitle": "Trust Operations Director",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Small Business Relationship Manager",
-    "framework": "BFS60"
+   "jobTitle": "Private Banking Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Small Business Banking Account Executive",
-    "framework": "BFS60"
+   "jobTitle": "Trust Operations Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Small Business Banker",
-    "framework": "BFS60"
+   "jobTitle": "Trust Portfolio Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Small Business Credit Analyst",
-    "framework": "BFS60"
+   "jobTitle": "Private Banking Specialist, Senior",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Cash Management Officer",
-    "framework": "BFS60"
+   "jobTitle": "Trust Officer",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Cash Management Service Supervisor",
-    "framework": "BFS60"
+   "jobTitle": "Private Banking Advisor",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Small Business Banking Sales Representative",
-    "framework": "BFS60"
+   "jobTitle": "Trust Administrator",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Tax Specialist",
-    "framework": "BFS60"
+   "jobTitle": "Trust Administrative Assistant",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Small Business Underwriter",
-    "framework": "BFS60"
+   "jobTitle": "Debt Advisory/Restructuring Director",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Investor Reporting Manager",
-    "framework": "BFS60"
+   "jobTitle": "Credit Risk Analyst - Investments",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Treasury Operations Manager",
-    "framework": "BFS60"
+   "jobTitle": "Capital Market Structuring Associate",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Capital Markets Manager - Securitization",
-    "framework": "BFS60"
+   "jobTitle": "Quantitative Specialist",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Capital Markets Manager - Trading",
-    "framework": "BFS60"
+   "jobTitle": "Equity Sales Trader",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Treasury Management Sales Manager",
-    "framework": "BFS60"
+   "jobTitle": "Chief Investment Risk Officer",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Financial Analyst",
-    "framework": "BFS60"
+   "jobTitle": "Fund Administrator",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Treasury Operations Supervisor",
-    "framework": "BFS60"
+   "jobTitle": "Performance Analyst",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Treasury Analyst, Senior",
-    "framework": "BFS60"
+   "jobTitle": "Investment Management Analyst, Senior",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Electronic Funds Transfer Specialist",
-    "framework": "BFS60"
+   "jobTitle": "Quantitative Analyst, Senior",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Treasury Analyst",
-    "framework": "BFS60"
+   "jobTitle": "Research Analyst, Senior",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Trading Support Analyst",
-    "framework": "BFS60"
+   "jobTitle": "Cash Desk Supervisor/Trade Support",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Wire Room Analyst",
-    "framework": "BFS60"
+   "jobTitle": "Client Services Reporting Analyst",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Operations Project Coordinator",
-    "framework": "BFS60"
+   "jobTitle": "Investment Management Analyst, Junior",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Chief Trust Officer",
-    "framework": "BFS60"
+   "jobTitle": "Product Development Associate",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Private Bank Investment Executive",
-    "framework": "BFS60"
+   "jobTitle": "QA Production Release Test",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Estate Planning Director",
-    "framework": "BFS60"
+   "jobTitle": "Small Business Account Advisor",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Private Banking Director",
-    "framework": "BFS60"
+   "jobTitle": "Small Business Banker, Senior",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Business Development Director",
-    "framework": "BFS60"
+   "jobTitle": "Small Business Development Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Trust Operations Director",
-    "framework": "BFS60"
+   "jobTitle": "Cash Management Service Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Private Banking Manager",
-    "framework": "BFS60"
+   "jobTitle": "Small Business Relationship Manager",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Trust Operations Manager",
-    "framework": "BFS60"
+   "jobTitle": "Small Business Banking Account Executive",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Trust Portfolio Manager",
-    "framework": "BFS60"
+   "jobTitle": "Small Business Banker",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Private Banking Specialist, Senior",
-    "framework": "BFS60"
+   "jobTitle": "Small Business Credit Analyst",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Trust Officer",
-    "framework": "BFS60"
+   "jobTitle": "Cash Management Officer",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Private Banking Advisor",
-    "framework": "BFS60"
+   "jobTitle": "Cash Management Service Supervisor",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Trust Administrator",
-    "framework": "BFS60"
+   "jobTitle": "Small Business Banking Sales Representative",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Trust Administrative Assistant",
-    "framework": "BFS60"
+   "jobTitle": "Tax Specialist",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "",
-    "framework": ""
+   "jobTitle": "Small Business Underwriter",
+   "framework": "Banking and Financial Services"
   },
   {
-    "jobTitle": "Construction Executive",
-    "framework": "CON 1.0"
+   "jobTitle": "Cost Manager",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Construction Management Director",
-    "framework": "CON 1.0"
+   "jobTitle": "Contracts Manager",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Corporate Construction Manager",
-    "framework": "CON 1.0"
+   "jobTitle": "Construction Finance Manager",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Construction Manager",
-    "framework": "CON 1.0"
+   "jobTitle": "Bid Manager",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Cost Manager",
-    "framework": "CON 1.0"
+   "jobTitle": "Cost Estimator",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Contracts Manager",
-    "framework": "CON 1.0"
+   "jobTitle": "Quantity Surveyor, Senior",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Construction Finance Manager",
-    "framework": "CON 1.0"
+   "jobTitle": "Quantity Surveyor",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Bid Manager",
-    "framework": "CON 1.0"
+   "jobTitle": "Tender Estimator",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Master Planner",
-    "framework": "CON 1.0"
+   "jobTitle": "Land Surveyors Manager",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Construction Coordinator",
-    "framework": "CON 1.0"
+   "jobTitle": "Architect, Senior – Construction",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Cost Estimator",
-    "framework": "CON 1.0"
+   "jobTitle": "Civil Engineer, Senior – Construction",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Quantity Surveyor, Senior",
-    "framework": "CON 1.0"
+   "jobTitle": "Land Surveyors Supervisor",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Quantity Surveyor",
-    "framework": "CON 1.0"
+   "jobTitle": "Structural Engineer, Senior – Construction",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Tender Estimator",
-    "framework": "CON 1.0"
+   "jobTitle": "Architect – Construction",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Land Surveyors Manager",
-    "framework": "CON 1.0"
+   "jobTitle": "Civil Engineer – Construction",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Architect, Senior - Construction",
-    "framework": "CON 1.0"
+   "jobTitle": "Electrical Engineer – Construction",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Civil Engineer, Senior - Construction",
-    "framework": "CON 1.0"
+   "jobTitle": "Fire Protection Engineer",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Land Surveyors Supervisor",
-    "framework": "CON 1.0"
+   "jobTitle": "Land Surveyor",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Structural Engineer, Senior - Construction",
-    "framework": "CON 1.0"
+   "jobTitle": "Mechanical Engineer – Construction",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Architect - Construction",
-    "framework": "CON 1.0"
+   "jobTitle": "Structural Engineer – Construction",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Civil Engineer - Construction",
-    "framework": "CON 1.0"
+   "jobTitle": "Water Supply and Sewerage Engineer",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Electrical Engineer - Construction",
-    "framework": "CON 1.0"
+   "jobTitle": "Architect, Junior – Construction",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Fire Protection Engineer",
-    "framework": "CON 1.0"
+   "jobTitle": "Civil Engineer, Junior – Construction",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Land Surveyor",
-    "framework": "CON 1.0"
+   "jobTitle": "Land Surveyor, Junior",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Mechanical Engineer - Construction",
-    "framework": "CON 1.0"
+   "jobTitle": "Structural Engineer, Junior – Construction",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Structural Engineer - Construction",
-    "framework": "CON 1.0"
+   "jobTitle": "Construction Inspection Services Manager",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Water Supply and Sewerage Engineer",
-    "framework": "CON 1.0"
+   "jobTitle": "Construction Representative, Senior",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Architect, Junior - Construction",
-    "framework": "CON 1.0"
+   "jobTitle": "Building Inspector, Senior",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Civil Engineer, Junior - Construction",
-    "framework": "CON 1.0"
+   "jobTitle": "Construction Representative",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Land Surveyor, Junior",
-    "framework": "CON 1.0"
+   "jobTitle": "Building Inspector",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Structural Engineer, Junior - Construction",
-    "framework": "CON 1.0"
+   "jobTitle": "Construction Representative, Junior",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Construction Inspection Services Manager",
-    "framework": "CON 1.0"
+   "jobTitle": "Project Manager, Senior - Construction",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Construction Representative, Senior",
-    "framework": "CON 1.0"
+   "jobTitle": "Resident Construction Manager",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Building Inspector, Senior",
-    "framework": "CON 1.0"
+   "jobTitle": "Electrician, Senior",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Construction Representative",
-    "framework": "CON 1.0"
+   "jobTitle": "Planner/Scheduler - Construction",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Building Inspector",
-    "framework": "CON 1.0"
+   "jobTitle": "Project Manager - Construction",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Construction Representative, Junior",
-    "framework": "CON 1.0"
+   "jobTitle": "Carpenter",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Project Manager, Senior - Construction",
-    "framework": "CON 1.0"
+   "jobTitle": "Concrete Craftsman",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Resident Construction Manager",
-    "framework": "CON 1.0"
+   "jobTitle": "Mechanical Technician",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Electrician, Senior",
-    "framework": "CON 1.0"
+   "jobTitle": "Plumber",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Planner/Scheduler - Construction",
-    "framework": "CON 1.0"
+   "jobTitle": "Scheduler, Junior – Construction",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Project Manager - Construction",
-    "framework": "CON 1.0"
+   "jobTitle": "Carpenter, Junior",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Carpenter",
-    "framework": "CON 1.0"
+   "jobTitle": "Electrician, Junior",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Concrete Craftsman",
-    "framework": "CON 1.0"
+   "jobTitle": "Plumber, Junior",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Mechanical Technician",
-    "framework": "CON 1.0"
+   "jobTitle": "Plasterer",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Plumber",
-    "framework": "CON 1.0"
+   "jobTitle": "Painter",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Scheduler, Junior - Construction",
-    "framework": "CON 1.0"
+   "jobTitle": "Welder",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Carpenter, Junior",
-    "framework": "CON 1.0"
+   "jobTitle": "Construction Safety Officer",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Electrician, Junior",
-    "framework": "CON 1.0"
+   "jobTitle": "Legal Advisor – Construction",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Plumber, Junior",
-    "framework": "CON 1.0"
+   "jobTitle": "Health, Safety & Environment (HSE) Specialist",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Plasterer",
-    "framework": "CON 1.0"
+   "jobTitle": "Safety Coordinator",
+   "framework": "Construction"
   },
   {
-    "jobTitle": "Painter",
-    "framework": "CON 1.0"
+   "jobTitle": "Compensation & Benefits Consulting Executive",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Welder",
-    "framework": "CON 1.0"
+   "jobTitle": "Compensation & Benefits Consulting Director",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Construction Safety Officer",
-    "framework": "CON 1.0"
+   "jobTitle": "Compensation & Benefits Engagement Manager",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Legal Advisor - Construction",
-    "framework": "CON 1.0"
+   "jobTitle": "Compensation & Benefits Consulting Services Manager",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Health, Safety & Environment (HSE) Specialist",
-    "framework": "CON 1.0"
+   "jobTitle": "Compensation & Benefits Consultant, Master",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Safety Coordinator",
-    "framework": "CON 1.0"
+   "jobTitle": "Compensation & Benefits Project Manager",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Customer Relationship Management Director",
-    "framework": "CRM 20"
+   "jobTitle": "Compensation & Benefits Consultant, Senior",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Customer Experience Manager",
-    "framework": "CRM 20"
+   "jobTitle": "Compensation & Benefits Consultant",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Customer Service Process Manager",
-    "framework": "CRM 20"
+   "jobTitle": "Compensation & Benefits Research Analyst",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Customer Experience Specialist",
-    "framework": "CRM 20"
+   "jobTitle": "Compensation & Benefits Software Consultant",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Process Specialist - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "Benefits Consultant, Junior",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Training Manager - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "Compensation Consultant, Junior",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Training Specialist",
-    "framework": "CRM 20"
+   "jobTitle": "Compensation & Benefits Research Specialist",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Call Center Director - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "HR Consulting Executive",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Call Center Architect - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "HR Consulting Director",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Call Center Manager - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "HR Engagement Manager",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Business Analyst",
-    "framework": "CRM 20"
+   "jobTitle": "HR Consulting Services Manager",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Call Center Consultant, Senior",
-    "framework": "CRM 20"
+   "jobTitle": "HR Consultant, Master",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Call Center Supervisor - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "HR Project Manager",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Infrastructure Specialist, Senior - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "HR Consultant, Senior",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Service Quality Assurance Specialist",
-    "framework": "CRM 20"
+   "jobTitle": "HR Consultant",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Workforce Scheduler",
-    "framework": "CRM 20"
+   "jobTitle": "HR Research Analyst",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Call Center Administration Analyst",
-    "framework": "CRM 20"
+   "jobTitle": "HRMS Software Consultant",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Dispatcher - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "HR Consultant, Junior",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Infrastructure Specialist - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "HR Research Specialist",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Call Center Administrator - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "IT Consulting Executive",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Account Manager - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "IT Consulting Director",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Channel Marketing Program Manager",
-    "framework": "CRM 20"
+   "jobTitle": "IT Engagement Manager - Consulting",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Collections Manager",
-    "framework": "CRM 20"
+   "jobTitle": "IT Consulting Services Manager - Consulting",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Sales Manager - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "IT Consultant, Master - Consulting",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Business Development Specialist",
-    "framework": "CRM 20"
+   "jobTitle": "IT Consulting Project Manager - Consulting",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Cross Sales Specialist, Senior - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "Decision Support Consultant - IT - Consulting",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Information Polling Supervisor - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "Information Services Consultant - Consulting",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Lead Qualification Representative",
-    "framework": "CRM 20"
+   "jobTitle": "IT Project Manager",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Online Sales Manager - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "SAP Business Consultant - Consulting",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Sales Representative, Senior - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "Systems Consultant/Engineer - Pre & Post Sales - Consulting",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Collections Specialist, Senior - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "IT Process Consultant, Senior - Consulting",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Information Polling Specialist - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "IT Technical Consultant, Senior - Consulting",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Product Specialist (Sales) - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "IT Research Analyst",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Sales Representative - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "IT Technical Consultant - Consulting",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Sales Support Representative - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "IT Consultant, Junior - Consulting",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Collections Specialist - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "IT Research Specialist",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Driver and Sales Representative - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "Organizational Change Consulting Executive",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Sales Administrator - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "Organizational Change Consulting Director",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Telemarketer - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "Organizational Change Engagement Manager",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Top Call Center Executive",
-    "framework": "CRM 20"
+   "jobTitle": "Organizational Change Consulting Services Manager",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Customer Services Director",
-    "framework": "CRM 20"
+   "jobTitle": "Organizational Change Consultant, Master",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Call Center Scheduling Manager",
-    "framework": "CRM 20"
+   "jobTitle": "Organizational Change Project Manager",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Customer Service Manager",
-    "framework": "CRM 20"
+   "jobTitle": "Organizational Change Consultant, Senior",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Hiring Manager",
-    "framework": "CRM 20"
+   "jobTitle": "Organizational Change Consultant",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Regional Customer Service Manager",
-    "framework": "CRM 20"
+   "jobTitle": "Organizational Change Research Analyst",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Call Center Sales Coach",
-    "framework": "CRM 20"
+   "jobTitle": "Organizational Change Consultant, Junior",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Call Center Traffic and Scheduling Analyst, Sr.",
-    "framework": "CRM 20"
+   "jobTitle": "Organizational Change Research Specialist",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Customer Service Representative, Senior - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "Strategy & Planning Consulting Executive",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Customer Service Supervisor",
-    "framework": "CRM 20"
+   "jobTitle": "Strategy & Planning Consulting Director",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Help Desk Manager - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "Strategy & Planning Engagement Manager",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Internet Customer Service Specialist, Senior",
-    "framework": "CRM 20"
+   "jobTitle": "Strategy & Planning Consulting Services Manager",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Product/Service Consultant",
-    "framework": "CRM 20"
+   "jobTitle": "Strategy & Planning Consultant, Master",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Shift Manager - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "Strategy & Planning Project Manager",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Customer Service Representative - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "Strategy & Planning Consultant, Senior",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Customer Service Team Leader - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "Strategy & Planning Consultant",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Help Desk Specialist - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "Strategy & Planning Research Analyst",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Inbound Call Center Representative, Senior",
-    "framework": "CRM 20"
+   "jobTitle": "Strategy & Planning Consultant, Junior",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Internet Customer Service Specialist",
-    "framework": "CRM 20"
+   "jobTitle": "Strategy & Planning Research Specialist",
+   "framework": "Consulting Services"
   },
   {
-    "jobTitle": "Outbound Call Center Representative, Senior",
-    "framework": "CRM 20"
+   "jobTitle": "Customer Relationship Management Director",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Product/Service Support Specialist",
-    "framework": "CRM 20"
+   "jobTitle": "Application Specialist, Master - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Customer Service Associate - CRM",
-    "framework": "CRM 20"
+   "jobTitle": "Customer Experience Manager",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Inbound Call Center Representative, Junior",
-    "framework": "CRM 20"
+   "jobTitle": "Project Manager - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Outbound Call Center Representative, Junior",
-    "framework": "CRM 20"
+   "jobTitle": "Customer Service Process Manager",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Compensation & Benefits Consulting Executive",
-    "framework": "CSS 100"
+   "jobTitle": "Retail Manager - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Compensation & Benefits Consulting Director",
-    "framework": "CSS 100"
+   "jobTitle": "Application Architect, Senior - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Compensation & Benefits Consultant, Master",
-    "framework": "CSS 100"
+   "jobTitle": "Customer Experience Specialist",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Compensation & Benefits Consulting Services Manager",
-    "framework": "CSS 100"
+   "jobTitle": "Integration Specialist, Senior - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Compensation & Benefits Engagement Manager",
-    "framework": "CSS 100"
+   "jobTitle": "Training Manager - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Compensation & Benefits Consultant, Senior",
-    "framework": "CSS 100"
+   "jobTitle": "Process Specialist - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Compensation & Benefits Project Manager",
-    "framework": "CSS 100"
+   "jobTitle": "Application Architect - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Compensation & Benefits Consultant",
-    "framework": "CSS 100"
+   "jobTitle": "Business Data Analyst - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Compensation & Benefits Research Analyst",
-    "framework": "CSS 100"
+   "jobTitle": "Integration Specialist - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Compensation & Benefits Software Consultant",
-    "framework": "CSS 100"
+   "jobTitle": "Training Specialist",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Benefits Consultant, Junior",
-    "framework": "CSS 100"
+   "jobTitle": "Application Administrator - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Compensation & Benefits Research Specialist",
-    "framework": "CSS 100"
+   "jobTitle": "Call Center Director - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Compensation Consultant, Junior",
-    "framework": "CSS 100"
+   "jobTitle": "Call Center Architect - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "HR Consulting Executive",
-    "framework": "CSS 100"
+   "jobTitle": "Call Center Manager - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "HR Consulting Director",
-    "framework": "CSS 100"
+   "jobTitle": "Service Quality Assurance Specialist",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "HR Consultant, Master",
-    "framework": "CSS 100"
+   "jobTitle": "Workforce Scheduler",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "HR Consulting Services Manager",
-    "framework": "CSS 100"
+   "jobTitle": "Business Analyst",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "HR Engagement Manager",
-    "framework": "CSS 100"
+   "jobTitle": "Call Center Supervisor - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "HR Consultant, Senior",
-    "framework": "CSS 100"
+   "jobTitle": "Infrastructure Specialist, Senior - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "HR Project Manager",
-    "framework": "CSS 100"
+   "jobTitle": "Call Center Consultant, Senior",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "HR Consultant",
-    "framework": "CSS 100"
+   "jobTitle": "Dispatcher - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "HR Research Analyst",
-    "framework": "CSS 100"
+   "jobTitle": "Call Center Administration Analyst",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "HRMS Software Consultant",
-    "framework": "CSS 100"
+   "jobTitle": "Infrastructure Specialist - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "HR Consultant, Junior",
-    "framework": "CSS 100"
+   "jobTitle": "Call Center Administrator - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "HR Research Specialist",
-    "framework": "CSS 100"
+   "jobTitle": "Account Manager - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "IT Consulting Executive",
-    "framework": "CSS 100"
+   "jobTitle": "Advertising Manager - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "IT Consulting Director",
-    "framework": "CSS 100"
+   "jobTitle": "Business Development Manager - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "IT Consultant, Master - Consulting",
-    "framework": "CSS 100"
+   "jobTitle": "Brand Manager - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "IT Consulting Services Manager - Consulting",
-    "framework": "CSS 100"
+   "jobTitle": "Channel Marketing Program Manager",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "IT Engagement Manager - Consulting",
-    "framework": "CSS 100"
+   "jobTitle": "Database Marketing Manager",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "IT Process Consultant, Senior - Consulting",
-    "framework": "CSS 100"
+   "jobTitle": "District Sales Manager",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "IT Project Manager",
-    "framework": "CSS 100"
+   "jobTitle": "Collections Manager",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "IT Technical Consultant, Senior - Consulting",
-    "framework": "CSS 100"
+   "jobTitle": "Marketing Program Manager",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "IT Research Analyst",
-    "framework": "CSS 100"
+   "jobTitle": "Sales Manager - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "IT Technical Consultant - Consulting",
-    "framework": "CSS 100"
+   "jobTitle": "Product Manager - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "IT Consultant, Junior - Consulting",
-    "framework": "CSS 100"
+   "jobTitle": "Advertising Specialist",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "IT Research Specialist",
-    "framework": "CSS 100"
+   "jobTitle": "Business Development Specialist",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Organizational Change Consulting Executive",
-    "framework": "CSS 100"
+   "jobTitle": "Cross Sales Specialist, Senior - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Organizational Change Consulting Director",
-    "framework": "CSS 100"
+   "jobTitle": "Lead Qualification Representative",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Organizational Change Consultant, Master",
-    "framework": "CSS 100"
+   "jobTitle": "Information Polling Supervisor - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Organizational Change Consulting Services Manager",
-    "framework": "CSS 100"
+   "jobTitle": "Marketing Specialist",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Organizational Change Engagement Manager",
-    "framework": "CSS 100"
+   "jobTitle": "Online Sales Manager - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Organizational Change Consultant, Senior",
-    "framework": "CSS 100"
+   "jobTitle": "Sales Representative, Senior - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Organizational Change Project Manager",
-    "framework": "CSS 100"
+   "jobTitle": "Information Polling Specialist - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Organizational Change Consultant",
-    "framework": "CSS 100"
+   "jobTitle": "Product Specialist (Sales) - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Organizational Change Research Analyst",
-    "framework": "CSS 100"
+   "jobTitle": "Sales Support Representative - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Organizational Change Consultant, Junior",
-    "framework": "CSS 100"
+   "jobTitle": "Collections Specialist, Senior - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Organizational Change Research Specialist",
-    "framework": "CSS 100"
+   "jobTitle": "Sales Representative - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Strategy & Planning Consulting Executive",
-    "framework": "CSS 100"
+   "jobTitle": "Driver and Sales Representative - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Strategy & Planning Consulting Director",
-    "framework": "CSS 100"
+   "jobTitle": "Sales Administrator - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Strategy & Planning Consultant, Master",
-    "framework": "CSS 100"
+   "jobTitle": "Collections Specialist - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Strategy & Planning Consulting Services Manager",
-    "framework": "CSS 100"
+   "jobTitle": "Telemarketer - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Strategy & Planning Engagement Manager",
-    "framework": "CSS 100"
+   "jobTitle": "Call Center Executive",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Strategy & Planning Consultant, Senior",
-    "framework": "CSS 100"
+   "jobTitle": "Customer Services Director",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Strategy & Planning Project Manager",
-    "framework": "CSS 100"
+   "jobTitle": "Customer Service Manager",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Strategy & Planning Consultant",
-    "framework": "CSS 100"
+   "jobTitle": "Regional Customer Service Manager",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Strategy & Planning Research Analyst",
-    "framework": "CSS 100"
+   "jobTitle": "Call Center Scheduling Manager",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Strategy & Planning Consultant, Junior",
-    "framework": "CSS 100"
+   "jobTitle": "Hiring Manager",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Strategy & Planning Research Specialist",
-    "framework": "CSS 100"
+   "jobTitle": "Call Center Sales Coach",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Chief Enrollment Management Officer",
-    "framework": "EDU 10"
+   "jobTitle": "Customer Service Supervisor",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Chief Admissions Officer",
-    "framework": "EDU 10"
+   "jobTitle": "Call Center Traffic and Scheduling Analyst, Senior",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Bursar",
-    "framework": "EDU 10"
+   "jobTitle": "Help Desk Manager - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Ceremony Co-coordinator",
-    "framework": "EDU 10"
+   "jobTitle": "Shift Manager - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Examination Co-coordinator",
-    "framework": "EDU 10"
+   "jobTitle": "Customer Service Representative, Senior - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Registrar",
-    "framework": "EDU 10"
+   "jobTitle": "Internet Customer Service Specialist, Senior",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Scheduling Officer",
-    "framework": "EDU 10"
+   "jobTitle": "Product/Service Consultant",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Admissions Representative - Higher Ed.",
-    "framework": "EDU 10"
+   "jobTitle": "Inbound Call Center Representative, Senior",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Financial Aid Counselor - Higher Ed.",
-    "framework": "EDU 10"
+   "jobTitle": "Outbound Call Center Representative, Senior",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Campus Police Lieutenant",
-    "framework": "EDU 10"
+   "jobTitle": "Customer Service Team Leader - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Campus Security Director",
-    "framework": "EDU 10"
+   "jobTitle": "Customer Service Representative - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Res. Hall Manager (Incl. Room, Board)",
-    "framework": "EDU 10"
+   "jobTitle": "Help Desk Specialist - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "General Maintenance Worker II",
-    "framework": "EDU 10"
+   "jobTitle": "Internet Customer Service Specialist",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Premises Officer",
-    "framework": "EDU 10"
+   "jobTitle": "Product/Service Support Specialist",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Security Officer",
-    "framework": "EDU 10"
+   "jobTitle": "Inbound Call Center Representative, Junior",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "School Superintendent",
-    "framework": "EDU 10"
+   "jobTitle": "Outbound Call Center Representative, Junior",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "School Principal",
-    "framework": "EDU 10"
+   "jobTitle": "Customer Service Associate - CRM",
+   "framework": "Customer Relationship Management"
   },
   {
-    "jobTitle": "Dining Facility Supervisor",
-    "framework": "EDU 10"
+   "jobTitle": "Chief Enrollment Management Officer",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Academic Mentor",
-    "framework": "EDU 10"
+   "jobTitle": "Chief Admissions Officer",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Early Childhood Education Professional Development Coordinator & Lecturer",
-    "framework": "EDU 10"
+   "jobTitle": "Bursar",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Education Administrator, Elementary and Secondary School",
-    "framework": "EDU 10"
+   "jobTitle": "Ceremony Co-coordinator",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Educational, Vocational, and School Counselor",
-    "framework": "EDU 10"
+   "jobTitle": "Examination Co-coordinator",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Elementary School Teacher",
-    "framework": "EDU 10"
+   "jobTitle": "Registrar",
+   "framework": "Education"
   },
   {
-    "jobTitle": "K-12 Teacher",
-    "framework": "EDU 10"
+   "jobTitle": "Scheduling Officer",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Kindergarten Teacher",
-    "framework": "EDU 10"
+   "jobTitle": "Admissions Representative - Higher Ed.",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Middle School Teacher",
-    "framework": "EDU 10"
+   "jobTitle": "Financial Aid Counselor - Higher Ed.",
+   "framework": "Education"
   },
   {
-    "jobTitle": "School Nurse",
-    "framework": "EDU 10"
+   "jobTitle": "Athletics Director - Higher Ed.",
+   "framework": "Education"
   },
   {
-    "jobTitle": "School Psychologist",
-    "framework": "EDU 10"
+   "jobTitle": "Bookstore Director - Higher Ed.",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Self-Enrichment Education Teacher",
-    "framework": "EDU 10"
+   "jobTitle": "Annual Gift Coordinator - Higher Ed.",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Chief Academic Officer",
-    "framework": "EDU 10"
+   "jobTitle": "Career Counselor - Higher Ed.",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Dean",
-    "framework": "EDU 10"
+   "jobTitle": "Counseling Psychologist - Higher Ed.",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Associate Dean",
-    "framework": "EDU 10"
+   "jobTitle": "Laboratory Coordinator - Higher Ed.",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Professor",
-    "framework": "EDU 10"
+   "jobTitle": "Librarian - Higher Ed.",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Assoc. Professor",
-    "framework": "EDU 10"
+   "jobTitle": "Student Activities Officer",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Academic Advisor",
-    "framework": "EDU 10"
+   "jobTitle": "School Superintendent",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Academic Support Coordinator",
-    "framework": "EDU 10"
+   "jobTitle": "School Principal",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Post-Secondary Teacher",
-    "framework": "EDU 10"
+   "jobTitle": "Academic Mentor",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Athletics Director - Higher Ed.",
-    "framework": "EDU 10"
+   "jobTitle": "Early Childhood Education Professional Development Coordinator & Lecturer",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Bookstore Director - Higher Ed.",
-    "framework": "EDU 10"
+   "jobTitle": "Education Administrator, Elementary and Secondary School",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Annual Gift Coordinator - Higher Ed.",
-    "framework": "EDU 10"
+   "jobTitle": "Elementary School Teacher",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Career Counselor - Higher Ed.",
-    "framework": "EDU 10"
+   "jobTitle": "Educational, Vocational, and School Counselor",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Counseling Psychologist - Higher Ed.",
-    "framework": "EDU 10"
+   "jobTitle": "Kindergarten Teacher",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Laboratory Coordinator - Higher Ed.",
-    "framework": "EDU 10"
+   "jobTitle": "K-12 Teacher",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Librarian - Higher Ed.",
-    "framework": "EDU 10"
+   "jobTitle": "Middle School Teacher",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Student Activities Officer",
-    "framework": "EDU 10"
+   "jobTitle": "Self-Enrichment Education Teacher",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Business Development Manager, Hydro and Turbine",
-    "framework": "ENE20"
+   "jobTitle": "School Nurse",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Hydroelectric Production Manager",
-    "framework": "ENE20"
+   "jobTitle": "School Psychologist",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Power Plant Maintenance Manager",
-    "framework": "ENE20"
+   "jobTitle": "Dining Facility Supervisor",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Hydro Engineering Supervisor",
-    "framework": "ENE20"
+   "jobTitle": "Campus Police Lieutenant",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Fossil and Hydro Project Manager",
-    "framework": "ENE20"
+   "jobTitle": "Campus Security Director",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Fossil Mechanical Engineer",
-    "framework": "ENE20"
+   "jobTitle": "Res. Hall Manager (Incl. Room, Board)",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Fossil Power Plant Performance Engineer",
-    "framework": "ENE20"
+   "jobTitle": "General Maintenance Worker II",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Safety Engineer, Hydro",
-    "framework": "ENE20"
+   "jobTitle": "Premises Officer",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Hydroelectric Plant Technician",
-    "framework": "ENE20"
+   "jobTitle": "Security Officer",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Nuclear Waste Project Director",
-    "framework": "ENE20"
+   "jobTitle": "Chief Academic Officer",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Nuclear Operations Manager",
-    "framework": "ENE20"
+   "jobTitle": "Dean",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Nuclear Quality Assurance Manager",
-    "framework": "ENE20"
+   "jobTitle": "Associate Dean",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Senior Nuclear Engineer",
-    "framework": "ENE20"
+   "jobTitle": "Professor",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Nuclear Engineer",
-    "framework": "ENE20"
+   "jobTitle": "Assoc. Professor",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Nuclear Electrical Engineer",
-    "framework": "ENE20"
+   "jobTitle": "Academic Advisor",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Nuclear Facilities Engineer",
-    "framework": "ENE20"
+   "jobTitle": "Academic Support Coordinator",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Nuclear Mechanical Engineer",
-    "framework": "ENE20"
+   "jobTitle": "Post-Secondary Teacher",
+   "framework": "Education"
   },
   {
-    "jobTitle": "Nuclear Safety Engineer",
-    "framework": "ENE20"
+   "jobTitle": "Business Development Manager, Hydro and Turbine",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Nuclear Test Engineer",
-    "framework": "ENE20"
+   "jobTitle": "Hydroelectric Production Manager",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Nuclear Monitoring Technician",
-    "framework": "ENE20"
+   "jobTitle": "Power Plant Maintenance Manager",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Energy Services Sales Executive",
-    "framework": "ENE20"
+   "jobTitle": "Hydro Engineering Supervisor",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Power Generation Services Director",
-    "framework": "ENE20"
+   "jobTitle": "Fossil and Hydro Project Manager",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Energy Business Development Manager",
-    "framework": "ENE20"
+   "jobTitle": "Fossil Mechanical Engineer",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Attorney, Energy",
-    "framework": "ENE20"
+   "jobTitle": "Fossil Power Plant Performance Engineer",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Energy Business Project Manager",
-    "framework": "ENE20"
+   "jobTitle": "Safety Engineer, Hydro",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Energy Business Analyst, Senior",
-    "framework": "ENE20"
+   "jobTitle": "Hydroelectric Plant Technician",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Energy Business Consultant, Senior",
-    "framework": "ENE20"
+   "jobTitle": "Nuclear Waste Project Director",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Energy Auditor",
-    "framework": "ENE20"
+   "jobTitle": "Nuclear Operations Manager",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Energy Administrator",
-    "framework": "ENE20"
+   "jobTitle": "Nuclear Quality Assurance Manager",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Power Supply Manager",
-    "framework": "ENE20"
+   "jobTitle": "Senior Nuclear Engineer",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Power Supply System Technician",
-    "framework": "ENE20"
+   "jobTitle": "Nuclear Engineer",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Engineering Services Supervisor",
-    "framework": "ENE20"
+   "jobTitle": "Nuclear Electrical Engineer",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Power Supply and Transmission Services Supervisor",
-    "framework": "ENE20"
+   "jobTitle": "Nuclear Facilities Engineer",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Power Distribution Supervisor",
-    "framework": "ENE20"
+   "jobTitle": "Nuclear Mechanical Engineer",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Power Distribution System Designer",
-    "framework": "ENE20"
+   "jobTitle": "Nuclear Safety Engineer",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Power Supply Technician, Senior",
-    "framework": "ENE20"
+   "jobTitle": "Nuclear Test Engineer",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Load Dispatcher",
-    "framework": "ENE20"
+   "jobTitle": "Nuclear Monitoring Technician",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Energy Retail General Manager",
-    "framework": "ENE20"
+   "jobTitle": "Energy Services Sales Executive",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Energy Retail Account Manager",
-    "framework": "ENE20"
+   "jobTitle": "Power Generation Services Director",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Energy Retail Customer Service Manager",
-    "framework": "ENE20"
+   "jobTitle": "Energy Business Development Manager",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Energy Retail Marketing Manager",
-    "framework": "ENE20"
+   "jobTitle": "Attorney, Energy",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Energy Retail Product Manager",
-    "framework": "ENE20"
+   "jobTitle": "Energy Business Project Manager",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Energy Retail Sales Manager",
-    "framework": "ENE20"
+   "jobTitle": "Energy Business Analyst, Senior",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Energy Retail Customer Service Representative, Senior",
-    "framework": "ENE20"
+   "jobTitle": "Energy Business Consultant, Senior",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Energy Engineer",
-    "framework": "ENE20"
+   "jobTitle": "Energy Auditor",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Energy Retail Project Engineer",
-    "framework": "ENE20"
+   "jobTitle": "Energy Administrator",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Energy Retail Sales Representative, Senior",
-    "framework": "ENE20"
+   "jobTitle": "Power Supply Manager",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Exploration and Production Director",
-    "framework": "ENE20"
+   "jobTitle": "Engineering Services Supervisor",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Exploration Manager",
-    "framework": "ENE20"
+   "jobTitle": "Power Supply and Transmission Services Supervisor",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Geoscientist Manager",
-    "framework": "ENE20"
+   "jobTitle": "Power Distribution Supervisor",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Completion Engineer",
-    "framework": "ENE20"
+   "jobTitle": "Power Distribution System Designer",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Drilling Engineer (Exploration)",
-    "framework": "ENE20"
+   "jobTitle": "Power Supply System Technician",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Geologist",
-    "framework": "ENE20"
+   "jobTitle": "Power Supply Technician, Senior",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Geophysicist",
-    "framework": "ENE20"
+   "jobTitle": "Load Dispatcher",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Project Engineer (Exploration)",
-    "framework": "ENE20"
+   "jobTitle": "Energy Retail General Manager",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Petrophysicist",
-    "framework": "ENE20"
+   "jobTitle": "Energy Retail Account Manager",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Reservoir Engineer (Exploration)",
-    "framework": "ENE20"
+   "jobTitle": "Energy Retail Customer Service Manager",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Rig Supervisor",
-    "framework": "ENE20"
+   "jobTitle": "Energy Retail Marketing Manager",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Roughneck",
-    "framework": "ENE20"
+   "jobTitle": "Energy Retail Product Manager",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Production Manager (Oil & Gas)",
-    "framework": "ENE20"
+   "jobTitle": "Energy Retail Sales Manager",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Drilling Operations Manager",
-    "framework": "ENE20"
+   "jobTitle": "Energy Retail Customer Service Representative, Senior",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Oil Field Manager",
-    "framework": "ENE20"
+   "jobTitle": "Energy Engineer",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Drilling Engineer (Production)",
-    "framework": "ENE20"
+   "jobTitle": "Energy Retail Project Engineer",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Production Engineer (Oil and Gas)",
-    "framework": "ENE20"
+   "jobTitle": "Energy Retail Sales Representative, Senior",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Project Engineer (Production)",
-    "framework": "ENE20"
+   "jobTitle": "Exploration and Production Director",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Reservoir Engineer (Production)",
-    "framework": "ENE20"
+   "jobTitle": "Exploration Manager",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Subsea Operation Engineer",
-    "framework": "ENE20"
+   "jobTitle": "Geoscientist Manager",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Oilwell Pumper",
-    "framework": "ENE20"
+   "jobTitle": "Completion Engineer",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Derrickman",
-    "framework": "ENE20"
+   "jobTitle": "Drilling Engineer (Exploration)",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Refinery Manager",
-    "framework": "ENE20"
+   "jobTitle": "Geologist",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Engineering Support Manager",
-    "framework": "ENE20"
+   "jobTitle": "Geophysicist",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Refinery Maintenance Manager",
-    "framework": "ENE20"
+   "jobTitle": "Project Engineer (Exploration)",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Refinery Operations Manager",
-    "framework": "ENE20"
+   "jobTitle": "Petrophysicist",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Chemical Engineer (Refining)",
-    "framework": "ENE20"
+   "jobTitle": "Reservoir Engineer (Exploration)",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Environmental Engineer (Refining)",
-    "framework": "ENE20"
+   "jobTitle": "Rig Supervisor",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Mechanical Engineer (Refining)",
-    "framework": "ENE20"
+   "jobTitle": "Roughneck",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Project Engineer (Refining)",
-    "framework": "ENE20"
+   "jobTitle": "Production Manager (Oil & Gas)",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Process Engineer (Refining)",
-    "framework": "ENE20"
+   "jobTitle": "Drilling Operations Manager",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Safety Engineer (Refining)",
-    "framework": "ENE20"
+   "jobTitle": "Oil Field Manager",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Refinery Operator",
-    "framework": "ENE20"
+   "jobTitle": "Drilling Engineer (Production)",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Marketing Director (Oil and Gas)",
-    "framework": "ENE20"
+   "jobTitle": "Production Engineer (Oil and Gas)",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Marketing Manager (Wholesale Oil and Gas)",
-    "framework": "ENE20"
+   "jobTitle": "Project Engineer (Production)",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Marketing Manager (Retail)",
-    "framework": "ENE20"
+   "jobTitle": "Reservoir Engineer (Production)",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Account Manager (Wholesale)",
-    "framework": "ENE20"
+   "jobTitle": "Subsea Operation Engineer",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Area Manager (Retail)",
-    "framework": "ENE20"
+   "jobTitle": "Oilwell Pumper",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Market Analyst (Oil and Gas)",
-    "framework": "ENE20"
+   "jobTitle": "Derrickman",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Marketing Specialist (Retail Oil and Gas)",
-    "framework": "ENE20"
+   "jobTitle": "Refinery Manager",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Sales Engineer (Wholesale)",
-    "framework": "ENE20"
+   "jobTitle": "Engineering Support Manager",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Gas Station Manager",
-    "framework": "ENE20"
+   "jobTitle": "Refinery Maintenance Manager",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Sales Representative (Retail)",
-    "framework": "ENE20"
+   "jobTitle": "Refinery Operations Manager",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "",
-    "framework": ""
+   "jobTitle": "Chemical Engineer (Refining)",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Administration Director",
-    "framework": "GCF13"
+   "jobTitle": "Environmental Engineer (Refining)",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Administration Manager",
-    "framework": "GCF13"
+   "jobTitle": "Mechanical Engineer (Refining)",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Corporate Facilities Manager",
-    "framework": "GCF13"
+   "jobTitle": "Project Engineer (Refining)",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Library Manager",
-    "framework": "GCF13"
+   "jobTitle": "Process Engineer (Refining)",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Security Manager",
-    "framework": "GCF13"
+   "jobTitle": "Safety Engineer (Refining)",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Administrative Services Supervisor",
-    "framework": "GCF13"
+   "jobTitle": "Refinery Operator",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Facilities Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Marketing Director (Oil and Gas)",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Library Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Marketing Manager (Wholesale Oil and Gas)",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Mail-Copy Supervisor",
-    "framework": "GCF13"
+   "jobTitle": "Marketing Manager (Retail)",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Office Supervisor",
-    "framework": "GCF13"
+   "jobTitle": "Account Manager (Wholesale)",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Safety Specialist, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Area Manager (Retail)",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Board Administrator",
-    "framework": "GCF13"
+   "jobTitle": "Market Analyst (Oil and Gas)",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Data Entry Supervisor",
-    "framework": "GCF13"
+   "jobTitle": "Marketing Specialist (Retail Oil and Gas)",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Document Imaging Supervisor",
-    "framework": "GCF13"
+   "jobTitle": "Sales Engineer (Wholesale)",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Executive Assistant",
-    "framework": "GCF13"
+   "jobTitle": "Gas Station Manager",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Library Researcher",
-    "framework": "GCF13"
+   "jobTitle": "Sales Representative (Retail)",
+   "framework": "Energy"
   },
   {
-    "jobTitle": "Mail Clerk, Senior",
-    "framework": "GCF13"
+   "jobTitle": "C-Level Executive",
+   "framework": "Fundamental Framework"
   },
   {
-    "jobTitle": "Premises Security Guard",
-    "framework": "GCF13"
+   "jobTitle": "Director",
+   "framework": "Fundamental Framework"
   },
   {
-    "jobTitle": "Administrative Assistant",
-    "framework": "GCF13"
+   "jobTitle": "Vice President",
+   "framework": "Fundamental Framework"
   },
   {
-    "jobTitle": "Administrative Assistant - Bilingual",
-    "framework": "GCF13"
+   "jobTitle": "Vice President, Senior",
+   "framework": "Fundamental Framework"
   },
   {
-    "jobTitle": "Data Entry Clerk - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Manager, Senior",
+   "framework": "Fundamental Framework"
   },
   {
-    "jobTitle": "Document Imaging Operator",
-    "framework": "GCF13"
+   "jobTitle": "Thought Leader",
+   "framework": "Fundamental Framework"
   },
   {
-    "jobTitle": "Mail Clerk",
-    "framework": "GCF13"
+   "jobTitle": "Department Manager - FDM",
+   "framework": "Fundamental Framework"
   },
   {
-    "jobTitle": "Chief Compliance Officer",
-    "framework": "GCF13"
+   "jobTitle": "Senior Professional",
+   "framework": "Fundamental Framework"
   },
   {
-    "jobTitle": "Chief Governance Officer",
-    "framework": "GCF13"
+   "jobTitle": "Manager, Junior",
+   "framework": "Fundamental Framework"
   },
   {
-    "jobTitle": "Internal Controls & Compliance Director",
-    "framework": "GCF13"
+   "jobTitle": "Professional",
+   "framework": "Fundamental Framework"
   },
   {
-    "jobTitle": "Internal Audit Director",
-    "framework": "GCF13"
+   "jobTitle": "Supervisor",
+   "framework": "Fundamental Framework"
   },
   {
-    "jobTitle": "Corporate Ethics & Compliance Manager",
-    "framework": "GCF13"
+   "jobTitle": "Team Leader",
+   "framework": "Fundamental Framework"
   },
   {
-    "jobTitle": "Compliance Officer, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Team Member",
+   "framework": "Fundamental Framework"
   },
   {
-    "jobTitle": "Compliance Investigation Manager",
-    "framework": "GCF13"
+   "jobTitle": "Trainee",
+   "framework": "Fundamental Framework"
   },
   {
-    "jobTitle": "Ethics & Compliance Business Unit Manager",
-    "framework": "GCF13"
+   "jobTitle": "Chief Compliance Officer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Ethics & Compliance Training Manager",
-    "framework": "GCF13"
+   "jobTitle": "Chief Governance Officer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Financial Auditor, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Internal Controls & Compliance Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Internal Audit Manager",
-    "framework": "GCF13"
+   "jobTitle": "Internal Audit Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Internal Auditor, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Corporate Ethics & Compliance Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Internal Controls Manager",
-    "framework": "GCF13"
+   "jobTitle": "Compliance Officer, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "International Compliance Manager",
-    "framework": "GCF13"
+   "jobTitle": "Compliance Investigation Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Compliance Analyst",
-    "framework": "GCF13"
+   "jobTitle": "Ethics & Compliance Business Unit Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Financial Auditor",
-    "framework": "GCF13"
+   "jobTitle": "Ethics & Compliance Training Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Internal Auditor",
-    "framework": "GCF13"
+   "jobTitle": "Financial Auditor, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Regulatory Reporting Specialist, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Internal Audit Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Compliance Investigator",
-    "framework": "GCF13"
+   "jobTitle": "Internal Auditor, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Internal Controls Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Internal Controls Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Regulatory Reporting Specialist",
-    "framework": "GCF13"
+   "jobTitle": "International Compliance Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Audit Assistant",
-    "framework": "GCF13"
+   "jobTitle": "Compliance Analyst",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Corporate Ethics Helpline Administrator",
-    "framework": "GCF13"
+   "jobTitle": "Financial Auditor",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Business Tool User",
-    "framework": "GCF13"
+   "jobTitle": "Internal Auditor",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Benefits Executive",
-    "framework": "GCF13"
+   "jobTitle": "Regulatory Reporting Specialist, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Compensation and Benefits Executive",
-    "framework": "GCF13"
+   "jobTitle": "Compliance Investigator",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Compensation Executive",
-    "framework": "GCF13"
+   "jobTitle": "Internal Controls Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Benefits Director",
-    "framework": "GCF13"
+   "jobTitle": "Regulatory Reporting Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Compensation and Benefits Director",
-    "framework": "GCF13"
+   "jobTitle": "Audit Assistant",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Compensation Director",
-    "framework": "GCF13"
+   "jobTitle": "Corporate Ethics Helpline Administrator",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Benefits Manager",
-    "framework": "GCF13"
+   "jobTitle": "Administration Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Compensation and Benefits Manager",
-    "framework": "GCF13"
+   "jobTitle": "Administration Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Corporate Insurance Manager",
-    "framework": "GCF13"
+   "jobTitle": "Corporate Facilities Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Compensation Manager",
-    "framework": "GCF13"
+   "jobTitle": "Library Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Executive Compensation Manager",
-    "framework": "GCF13"
+   "jobTitle": "Security Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "International Compensation and Benefits Manager",
-    "framework": "GCF13"
+   "jobTitle": "Administrative Services Supervisor",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Payroll Manager",
-    "framework": "GCF13"
+   "jobTitle": "Facilities Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Workers' Compensation Claims Manager",
-    "framework": "GCF13"
+   "jobTitle": "Library Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Workers' Compensation Manager",
-    "framework": "GCF13"
+   "jobTitle": "Mail-Copy Supervisor",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Benefits Analyst, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Office Supervisor",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Benefits Supervisor",
-    "framework": "GCF13"
+   "jobTitle": "Safety Specialist, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Compensation Analyst",
-    "framework": "GCF13"
+   "jobTitle": "Board Administrator",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Executive Compensation Analyst",
-    "framework": "GCF13"
+   "jobTitle": "Data Entry Supervisor",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Payroll Clerk, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Document Imaging Supervisor",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Payroll Supervisor",
-    "framework": "GCF13"
+   "jobTitle": "Executive Assistant",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Benefits Administrator",
-    "framework": "GCF13"
+   "jobTitle": "Library Researcher",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Benefits Analyst",
-    "framework": "GCF13"
+   "jobTitle": "Mail Clerk, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Benefits Clerk, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Premises Security Guard",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Compensation Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Administrative Assistant",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Payroll Clerk",
-    "framework": "GCF13"
+   "jobTitle": "Administrative Assistant - Bilingual",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Stock Plan Administrator, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Data Entry Clerk - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Benefits Clerk",
-    "framework": "GCF13"
+   "jobTitle": "Document Imaging Operator",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Compensation Administrator",
-    "framework": "GCF13"
+   "jobTitle": "Mail Clerk",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Payroll Administrator",
-    "framework": "GCF13"
+   "jobTitle": "Business Tool User",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Stock Plan Administrator",
-    "framework": "GCF13"
+   "jobTitle": "Communications Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Workers Compensation Administrator",
-    "framework": "GCF13"
+   "jobTitle": "Public Relations Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Communications Director",
-    "framework": "GCF13"
+   "jobTitle": "Communications Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Public Relations Director",
-    "framework": "GCF13"
+   "jobTitle": "Public Relations Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Communications Manager",
-    "framework": "GCF13"
+   "jobTitle": "Communications Specialist, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Public Relations Manager",
-    "framework": "GCF13"
+   "jobTitle": "Desktop Publisher",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Communications Specialist, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Graphics Designer, Multi-Media",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Desktop Publisher",
-    "framework": "GCF13"
+   "jobTitle": "Media Development Specialist, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Graphics Designer, Multi-Media",
-    "framework": "GCF13"
+   "jobTitle": "Writer-Editor, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Media Development Specialist, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Graphics Specialist, Multi-Media",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Writer-Editor, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Website Content Liaison",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Graphics Specialist, Multi-Media",
-    "framework": "GCF13"
+   "jobTitle": "Writer-Editor",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Website Content Liaison",
-    "framework": "GCF13"
+   "jobTitle": "Media Development Assistant",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Writer-Editor",
-    "framework": "GCF13"
+   "jobTitle": "Customer Support Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Media Development Assistant",
-    "framework": "GCF13"
+   "jobTitle": "Call Center Consultant, Senior - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Customer Support Director",
-    "framework": "GCF13"
+   "jobTitle": "Call Center Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Call Center Consultant, Senior - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Customer Support Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Call Center Manager",
-    "framework": "GCF13"
+   "jobTitle": "Help Desk Manager - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Customer Support Manager",
-    "framework": "GCF13"
+   "jobTitle": "Order Fulfillment Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Help Desk Manager - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Process Manager - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Order Fulfillment Manager",
-    "framework": "GCF13"
+   "jobTitle": "Shift Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Process Manager - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Call Center Supervisor",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Shift Manager",
-    "framework": "GCF13"
+   "jobTitle": "Collections Specialist, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Call Center Supervisor",
-    "framework": "GCF13"
+   "jobTitle": "Customer Service Representative, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Collections Specialist, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Internet Customer Support Specialist, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Customer Service Representative, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Information Polling Supervisor",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Internet Customer Support Specialist, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Order Fulfillment Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Information Polling Supervisor",
-    "framework": "GCF13"
+   "jobTitle": "Product-Service Consultant",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Order Fulfillment Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Infrastructure Specialist, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Product-Service Consultant",
-    "framework": "GCF13"
+   "jobTitle": "Warranty Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Infrastructure Specialist, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Collections Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Warranty Manager",
-    "framework": "GCF13"
+   "jobTitle": "Customer Service Team Leader",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Collections Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Help Desk Specialist - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Customer Service Team Leader",
-    "framework": "GCF13"
+   "jobTitle": "Internet Customer Support Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Help Desk Specialist - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Information Polling Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Internet Customer Support Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Product Support Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Information Polling Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Customer Service Representative",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Product Support Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Infrastructure Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Customer Service Representative",
-    "framework": "GCF13"
+   "jobTitle": "Warranty Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Infrastructure Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Call Center Administrator",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Warranty Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Customer Service Associate",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Call Center Administrator",
-    "framework": "GCF13"
+   "jobTitle": "Order Fulfillment Clerk",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Customer Service Associate",
-    "framework": "GCF13"
+   "jobTitle": "Warranty Coordinator",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Order Fulfillment Clerk",
-    "framework": "GCF13"
+   "jobTitle": "Chief Digital Officer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Warranty Coordinator",
-    "framework": "GCF13"
+   "jobTitle": "Director of Product Management - Digital Transformation",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Labor Relations Executive",
-    "framework": "GCF13"
+   "jobTitle": "Digital Transformation Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Employee Relations Executive",
-    "framework": "GCF13"
+   "jobTitle": "Director of IoT Solution",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Employee Communications Director",
-    "framework": "GCF13"
+   "jobTitle": "Artificial Intelligence Solution Architect",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Employee Services Director",
-    "framework": "GCF13"
+   "jobTitle": "Blockchain Development Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Labor Relations Director",
-    "framework": "GCF13"
+   "jobTitle": "Digital Transformation Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Employee Relations Director",
-    "framework": "GCF13"
+   "jobTitle": "Machine Learning Engineer, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Employee Communications Manager",
-    "framework": "GCF13"
+   "jobTitle": "Program Manager - Digital Transformation",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "EEO Manager",
-    "framework": "GCF13"
+   "jobTitle": "Artificial Intelligence Engineer, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Employee Relations Manager",
-    "framework": "GCF13"
+   "jobTitle": "Blockchain Architect",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Employee Services Manager",
-    "framework": "GCF13"
+   "jobTitle": "Blockchain Solutions Consultant",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Labor Relations Manager",
-    "framework": "GCF13"
+   "jobTitle": "Digital Analytics Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "EAP Manager",
-    "framework": "GCF13"
+   "jobTitle": "Digital Payments Product Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Employee Communications Supervisor",
-    "framework": "GCF13"
+   "jobTitle": "Data Scientist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "EEO Supervisor",
-    "framework": "GCF13"
+   "jobTitle": "Digital Transformation Architect",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Labor Relations Specialist, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Digital Transformation Consultant",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Employee Relations Specialist, Senior",
-    "framework": "GCF13"
+   "jobTitle": "IoT Solutions Architect",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Work/Life Program Manager",
-    "framework": "GCF13"
+   "jobTitle": "Machine Learning Engineer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Compliance Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Product Manager - Digital Transformation",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "EAP Counselor",
-    "framework": "GCF13"
+   "jobTitle": "Artificial Intelligence Engineer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "EAP Coordinator",
-    "framework": "GCF13"
+   "jobTitle": "Blockchain Developer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "EEO Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Digital Analyst - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Labor Relations Specialist",
-    "framework": "GCF13"
+   "jobTitle": "IoT Platform Engineer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Employee Relations Specialist",
-    "framework": "GCF13"
+   "jobTitle": "IoT Solutions Engineer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Chief Executive Officer",
-    "framework": "GCF13"
+   "jobTitle": "IoT System Engineer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Chief Operating Officer",
-    "framework": "GCF13"
+   "jobTitle": "IoT Software Engineer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Chief Risk Officer",
-    "framework": "GCF13"
+   "jobTitle": "Virtual Reality/Augmented Reality Engineer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Chief of Staff",
-    "framework": "GCF13"
+   "jobTitle": "Chief Financial Officer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Managing Director",
-    "framework": "GCF13"
+   "jobTitle": "Controller",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Risk Management Director",
-    "framework": "GCF13"
+   "jobTitle": "Accounting Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Strategy Director",
-    "framework": "GCF13"
+   "jobTitle": "Accounts Payable Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Corporate Secretary",
-    "framework": "GCF13"
+   "jobTitle": "Accounts Receivable Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Chief Financial Officer",
-    "framework": "GCF13"
+   "jobTitle": "Budget Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Controller",
-    "framework": "GCF13"
+   "jobTitle": "Cash Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Accounting Manager",
-    "framework": "GCF13"
+   "jobTitle": "Assistant Controller",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Accounts Payable Manager",
-    "framework": "GCF13"
+   "jobTitle": "Finance Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Accounts Receivable Manager",
-    "framework": "GCF13"
+   "jobTitle": "Tax Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Budget Manager",
-    "framework": "GCF13"
+   "jobTitle": "Treasurer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Cash Manager",
-    "framework": "GCF13"
+   "jobTitle": "Accountant, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Assistant Controller",
-    "framework": "GCF13"
+   "jobTitle": "Actuary",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Finance Manager",
-    "framework": "GCF13"
+   "jobTitle": "Accounts Payable Supervisor",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Tax Manager",
-    "framework": "GCF13"
+   "jobTitle": "Accounts Receivable Supervisor",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Treasurer",
-    "framework": "GCF13"
+   "jobTitle": "Accounting Supervisor",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Accountant, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Assistant Treasurer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Actuary",
-    "framework": "GCF13"
+   "jobTitle": "Billing Supervisor",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Accounts Payable Supervisor",
-    "framework": "GCF13"
+   "jobTitle": "Budget Analyst, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Accounts Receivable Supervisor",
-    "framework": "GCF13"
+   "jobTitle": "Cost Accounting Supervisor",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Accounting Supervisor",
-    "framework": "GCF13"
+   "jobTitle": "Finance Specialist, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Assistant Treasurer",
-    "framework": "GCF13"
+   "jobTitle": "Tax Analyst, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Billing Supervisor",
-    "framework": "GCF13"
+   "jobTitle": "Accountant",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Budget Analyst, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Accounts Payable Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Cost Accounting Supervisor",
-    "framework": "GCF13"
+   "jobTitle": "Accounts Receivable Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Finance Specialist, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Budget Analyst",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Tax Analyst, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Cost Accountant",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Accountant",
-    "framework": "GCF13"
+   "jobTitle": "Finance Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Accounts Payable Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Tax Analyst",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Accounts Receivable Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Accounting Clerk",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Budget Analyst",
-    "framework": "GCF13"
+   "jobTitle": "Billing Clerk",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Cost Accountant",
-    "framework": "GCF13"
+   "jobTitle": "Bookkeeper",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Finance Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Finance Clerk",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Tax Analyst",
-    "framework": "GCF13"
+   "jobTitle": "Chief Technology Officer - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Accounting Clerk",
-    "framework": "GCF13"
+   "jobTitle": "Workflow Architect - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Billing Clerk",
-    "framework": "GCF13"
+   "jobTitle": "Service Capacity Manager - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Bookkeeper",
-    "framework": "GCF13"
+   "jobTitle": "Field Support Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Finance Clerk",
-    "framework": "GCF13"
+   "jobTitle": "IT Generalist - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Chief Technology Officer - GCF",
-    "framework": "GCF13"
+   "jobTitle": "IT Help Desk Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Workflow Architect - GCF",
-    "framework": "GCF13"
+   "jobTitle": "IT Project Manager Generalist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Service Capacity Manager - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Webmaster - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Field Support Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Web Content Developer - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "IT Generalist - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Data Administrator - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "IT Help Desk Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Database Administrator - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "IT Project Manager Generalist",
-    "framework": "GCF13"
+   "jobTitle": "Equipment Specialist - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Webmaster - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Field Engineer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Web Content Developer - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Office Systems Specialist - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Data Administrator - GCF",
-    "framework": "GCF13"
+   "jobTitle": "PC Specialist - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Database Administrator - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Information Security Specialist - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Equipment Specialist - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Network Administrator - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Field Engineer",
-    "framework": "GCF13"
+   "jobTitle": "Logistics Management Director - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Office Systems Specialist - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Supply Chain Director - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "PC Specialist - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Inventory Manager - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Information Security Specialist - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Logistics Manager - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Network Administrator - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Supply Chain Manager - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Recruiting Executive",
-    "framework": "GCF13"
+   "jobTitle": "Warehouse Manager - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Recruiting Director",
-    "framework": "GCF13"
+   "jobTitle": "Logistics Analyst - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Expatriate Administration Manager",
-    "framework": "GCF13"
+   "jobTitle": "Supply Chain Specialist, Senior - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Recruitment Manager",
-    "framework": "GCF13"
+   "jobTitle": "Logistics Coordinator - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Employee Relocation Manager",
-    "framework": "GCF13"
+   "jobTitle": "Supply Chain Specialist - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Expatriate Administration Supervisor",
-    "framework": "GCF13"
+   "jobTitle": "Logistics Clerk - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Recruiter, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Supply Chain Specialist, Junior - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Recruiting Supervisor",
-    "framework": "GCF13"
+   "jobTitle": "Benefits Executive",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Campus Recruiter",
-    "framework": "GCF13"
+   "jobTitle": "Compensation and Benefits Executive",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Executive Recruiter",
-    "framework": "GCF13"
+   "jobTitle": "Chief Human Resources Officer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Expatriate Administrator, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Compensation Executive",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Immigration Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Diversity Executive",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Legal Recruiter",
-    "framework": "GCF13"
+   "jobTitle": "Division Human Resources Executive",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Recruiter",
-    "framework": "GCF13"
+   "jobTitle": "Human Resources Information Systems Executive",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Employee Relocation Representative, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Labor Relations Executive",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Technical Recruiter",
-    "framework": "GCF13"
+   "jobTitle": "Recruiting Executive",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Temporary Employment Coordinator",
-    "framework": "GCF13"
+   "jobTitle": "Employee Relations Executive",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Expatriate Administrator",
-    "framework": "GCF13"
+   "jobTitle": "Benefits Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Employee Relocation Representative",
-    "framework": "GCF13"
+   "jobTitle": "Compensation and Benefits Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Chief Human Resources Officer",
-    "framework": "GCF13"
+   "jobTitle": "Compensation Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Diversity Executive",
-    "framework": "GCF13"
+   "jobTitle": "Employee Communications Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Division Human Resources Executive",
-    "framework": "GCF13"
+   "jobTitle": "Employee Services Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Human Resources Information Systems Executive",
-    "framework": "GCF13"
+   "jobTitle": "Human Resources Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Human Resources Director",
-    "framework": "GCF13"
+   "jobTitle": "International Human Resources Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "International Human Resources Director",
-    "framework": "GCF13"
+   "jobTitle": "Human Resources Information Systems Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Human Resources Information Systems Director",
-    "framework": "GCF13"
+   "jobTitle": "Labor Relations Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Talent Analytics Director",
-    "framework": "GCF13"
+   "jobTitle": "Recruiting Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Human Resources Business Intelligence Analyst, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Employee Relations Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Human Resources Consultant, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Talent Analytics Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Disability Services Manager",
-    "framework": "GCF13"
+   "jobTitle": "Benefits Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Human Resources Information Systems Manager",
-    "framework": "GCF13"
+   "jobTitle": "Human Resources Business Intelligence Analyst, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Human Resources Manager",
-    "framework": "GCF13"
+   "jobTitle": "Compensation and Benefits Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Health and Safety Manager",
-    "framework": "GCF13"
+   "jobTitle": "Corporate Insurance Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "International Human Resources Manager",
-    "framework": "GCF13"
+   "jobTitle": "Compensation Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Plant Human Resources Manager",
-    "framework": "GCF13"
+   "jobTitle": "Human Resources Consultant, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Regional Human Resources Manager",
-    "framework": "GCF13"
+   "jobTitle": "Disability Services Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Talent Analytics Manager",
-    "framework": "GCF13"
+   "jobTitle": "Executive Compensation Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Wellness Program Manager",
-    "framework": "GCF13"
+   "jobTitle": "Employee Communications Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Human Resources Business Intelligence Analyst",
-    "framework": "GCF13"
+   "jobTitle": "EEO Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Change Management Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Employee Relations Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Human Resources Data Analyst",
-    "framework": "GCF13"
+   "jobTitle": "Employee Services Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Human Resources Generalist, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Expatriate Administration Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Human Performance Consultant",
-    "framework": "GCF13"
+   "jobTitle": "Human Resources Information Systems Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Human Resources Analyst, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Human Resources Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Human Resources Information Systems Analyst, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Health and Safety Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Human Resources Information System Supervisor",
-    "framework": "GCF13"
+   "jobTitle": "International Compensation and Benefits Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Health and Safety Supervisor",
-    "framework": "GCF13"
+   "jobTitle": "International Human Resources Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Personnel Records Supervisor",
-    "framework": "GCF13"
+   "jobTitle": "Labor Relations Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Human Resources Function Specialist, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Recruitment Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Talent Analyst, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Payroll Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Human Resources Generalist",
-    "framework": "GCF13"
+   "jobTitle": "Plant Human Resources Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Human Resources Information Systems Analyst",
-    "framework": "GCF13"
+   "jobTitle": "Regional Human Resources Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Human Resources Business Partner",
-    "framework": "GCF13"
+   "jobTitle": "Employee Relocation Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Health and Safety Administrator, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Talent Analytics Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Management Analyst",
-    "framework": "GCF13"
+   "jobTitle": "Workers' Compensation Claims Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Human Resources Service Center Representative",
-    "framework": "GCF13"
+   "jobTitle": "Workers' Compensation Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Talent Analyst",
-    "framework": "GCF13"
+   "jobTitle": "Wellness Program Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Wellness Program Administrator",
-    "framework": "GCF13"
+   "jobTitle": "Benefits Analyst, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Human Resources Information Systems Administrator",
-    "framework": "GCF13"
+   "jobTitle": "Benefits Supervisor",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Human Resources Coordinator Assistant",
-    "framework": "GCF13"
+   "jobTitle": "Human Resources Business Intelligence Analyst",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Human Resources Assistant",
-    "framework": "GCF13"
+   "jobTitle": "Compensation Analyst",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Human Resources Information Systems Clerk",
-    "framework": "GCF13"
+   "jobTitle": "Change Management Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Health and Safety Administrator",
-    "framework": "GCF13"
+   "jobTitle": "Human Resources Data Analyst",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Personnel Records Clerk",
-    "framework": "GCF13"
+   "jobTitle": "EAP Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Talent Analyst, Junior",
-    "framework": "GCF13"
+   "jobTitle": "Executive Compensation Analyst",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Chief Legal Officer",
-    "framework": "GCF13"
+   "jobTitle": "Employee Communications Supervisor",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Government Affairs Director",
-    "framework": "GCF13"
+   "jobTitle": "EEO Supervisor",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "General Counsel",
-    "framework": "GCF13"
+   "jobTitle": "Expatriate Administration Supervisor",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Intellectual Property Attorney, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Human Resources Generalist, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Legal Services Director",
-    "framework": "GCF13"
+   "jobTitle": "Human Performance Consultant",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Managing Attorney",
-    "framework": "GCF13"
+   "jobTitle": "Human Resources Analyst, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Associate General Counsel",
-    "framework": "GCF13"
+   "jobTitle": "Human Resources Information Systems Analyst, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Attorney",
-    "framework": "GCF13"
+   "jobTitle": "Human Resources Information System Supervisor",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Employment Law Attorney",
-    "framework": "GCF13"
+   "jobTitle": "Health and Safety Supervisor",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Fraud Investigation Officer",
-    "framework": "GCF13"
+   "jobTitle": "Labor Relations Specialist, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Government Affairs Manager",
-    "framework": "GCF13"
+   "jobTitle": "Payroll Clerk, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Investment Management Attorney",
-    "framework": "GCF13"
+   "jobTitle": "Payroll Supervisor",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Intellectual Property Support Manager",
-    "framework": "GCF13"
+   "jobTitle": "Personnel Records Supervisor",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Legal Services Manager",
-    "framework": "GCF13"
+   "jobTitle": "Recruiter, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Litigation Manager",
-    "framework": "GCF13"
+   "jobTitle": "Recruiting Supervisor",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Litigation Support Manager",
-    "framework": "GCF13"
+   "jobTitle": "Employee Relations Specialist, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Paralegal Manager",
-    "framework": "GCF13"
+   "jobTitle": "Human Resources Function Specialist, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Tax Attorney, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Talent Analyst, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Assistant General Counsel, Corporate Affairs",
-    "framework": "GCF13"
+   "jobTitle": "Work/Life Program Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Attorney, Junior",
-    "framework": "GCF13"
+   "jobTitle": "Benefits Administrator",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Intellectual Property Attorney, Junior",
-    "framework": "GCF13"
+   "jobTitle": "Benefits Analyst",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Legal Analyst",
-    "framework": "GCF13"
+   "jobTitle": "Benefits Clerk, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Legal Administrator",
-    "framework": "GCF13"
+   "jobTitle": "Compensation Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Legal Coordinator",
-    "framework": "GCF13"
+   "jobTitle": "Compliance Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Tax Attorney, Junior",
-    "framework": "GCF13"
+   "jobTitle": "Campus Recruiter",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Litigation Specialist",
-    "framework": "GCF13"
+   "jobTitle": "EAP Counselor",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Paralegal Assistant",
-    "framework": "GCF13"
+   "jobTitle": "EAP Coordinator",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Stock Administrator",
-    "framework": "GCF13"
+   "jobTitle": "EEO Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Legal Secretary",
-    "framework": "GCF13"
+   "jobTitle": "Executive Recruiter",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Chief Marketing Officer",
-    "framework": "GCF13"
+   "jobTitle": "Expatriate Administrator, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Marketing Director",
-    "framework": "GCF13"
+   "jobTitle": "Human Resources Generalist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Advertising-PR Manager",
-    "framework": "GCF13"
+   "jobTitle": "Human Resources Information Systems Analyst",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Brand Manager",
-    "framework": "GCF13"
+   "jobTitle": "Human Resources Business Partner",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Field Marketing Manager",
-    "framework": "GCF13"
+   "jobTitle": "Health and Safety Administrator, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Group Marketing Manager",
-    "framework": "GCF13"
+   "jobTitle": "Immigration Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Marketing Development Manager",
-    "framework": "GCF13"
+   "jobTitle": "Labor Relations Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Marketing Communications Manager",
-    "framework": "GCF13"
+   "jobTitle": "Legal Recruiter",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Product Manager",
-    "framework": "GCF13"
+   "jobTitle": "Management Analyst",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Marketing Communications Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Payroll Clerk",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Market Research Analyst, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Recruiter",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Market Research Analyst",
-    "framework": "GCF13"
+   "jobTitle": "Employee Relations Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Marketing Administrator",
-    "framework": "GCF13"
+   "jobTitle": "Employee Relocation Representative, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Market Research Assistant",
-    "framework": "GCF13"
+   "jobTitle": "Human Resources Service Center Representative",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Program Director",
-    "framework": "GCF13"
+   "jobTitle": "Stock Plan Administrator, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Program Manager",
-    "framework": "GCF13"
+   "jobTitle": "Talent Analyst",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Project Manager - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Technical Recruiter",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Program Management Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Wellness Program Administrator",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Project Analyst - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Human Resources Information Systems Administrator",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Project Administrator",
-    "framework": "GCF13"
+   "jobTitle": "Benefits Clerk",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Chief Contracts Officer",
-    "framework": "GCF13"
+   "jobTitle": "Compensation Administrator",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Procurement Director",
-    "framework": "GCF13"
+   "jobTitle": "Human Resources Coordinator Assistant",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Contracts Administration Manager",
-    "framework": "GCF13"
+   "jobTitle": "Temporary Employment Coordinator",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Corporate Procurement Manager",
-    "framework": "GCF13"
+   "jobTitle": "Expatriate Administrator",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Contracts Administration Specialist, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Human Resources Assistant",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Contracts Administration Supervisor",
-    "framework": "GCF13"
+   "jobTitle": "Human Resources Information Systems Clerk",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Procurement Specialist, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Health and Safety Administrator",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Contracts Administration Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Payroll Administrator",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Procurement Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Personnel Records Clerk",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Purchasing Agent",
-    "framework": "GCF13"
+   "jobTitle": "Employee Relocation Representative",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Procurement Administrator",
-    "framework": "GCF13"
+   "jobTitle": "Stock Plan Administrator",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Contracts Administrator",
-    "framework": "GCF13"
+   "jobTitle": "Talent Analyst, Junior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Purchasing Agent, Junior",
-    "framework": "GCF13"
+   "jobTitle": "Workers Compensation Administrator",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Research and Development Director",
-    "framework": "GCF13"
+   "jobTitle": "Chief Legal Officer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Research and Development Engineer",
-    "framework": "GCF13"
+   "jobTitle": "Government Affairs Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Research and Development Manager",
-    "framework": "GCF13"
+   "jobTitle": "General Counsel",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Research and Development Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Intellectual Property Attorney, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Documentation Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Legal Services Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Research Analyst",
-    "framework": "GCF13"
+   "jobTitle": "Managing Attorney",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Research Associate",
-    "framework": "GCF13"
+   "jobTitle": "Associate General Counsel",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Chief Sales Executive",
-    "framework": "GCF13"
+   "jobTitle": "Attorney",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Sales Director",
-    "framework": "GCF13"
+   "jobTitle": "Employment Law Attorney",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Account Manager",
-    "framework": "GCF13"
+   "jobTitle": "Fraud Investigation Officer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Channel Program Manager",
-    "framework": "GCF13"
+   "jobTitle": "Government Affairs Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Online Sales Manager",
-    "framework": "GCF13"
+   "jobTitle": "Government Affairs Representative",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Sales Manager, Region",
-    "framework": "GCF13"
+   "jobTitle": "Investment Management Attorney",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Cross Sales Specialist, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Intellectual Property Support Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Sales Representative, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Legal Services Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Sales Manager",
-    "framework": "GCF13"
+   "jobTitle": "Litigation Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Driver and Sales Representative",
-    "framework": "GCF13"
+   "jobTitle": "Litigation Support Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Product Specialist - Sales",
-    "framework": "GCF13"
+   "jobTitle": "Paralegal Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Sales Representative",
-    "framework": "GCF13"
+   "jobTitle": "Tax Attorney, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Sales Support Representative",
-    "framework": "GCF13"
+   "jobTitle": "Assistant General Counsel, Corporate Affairs",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Telemarketer-Prospector",
-    "framework": "GCF13"
+   "jobTitle": "Attorney, Junior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Sales Administrator",
-    "framework": "GCF13"
+   "jobTitle": "Intellectual Property Attorney, Junior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Logistics Management Director - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Legal Analyst",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Supply Chain Director - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Legal Administrator",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Inventory Manager - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Legal Coordinator",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Logistics Manager - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Tax Attorney, Junior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Supply Chain Manager - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Litigation Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Warehouse Manager - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Paralegal Assistant",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Logistics Analyst - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Stock Administrator",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Supply Chain Specialist, Senior - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Legal Secretary",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Logistics Coordinator - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Chief Marketing Officer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Supply Chain Specialist - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Digital Marketing Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Logistics Clerk - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Marketing Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Supply Chain Specialist, Junior - GCF",
-    "framework": "GCF13"
+   "jobTitle": "Advertising-PR Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Organizational Development Executive",
-    "framework": "GCF13"
+   "jobTitle": "Brand Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Chief Learning Officer",
-    "framework": "GCF13"
+   "jobTitle": "Digital Marketing Manager - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Learning Director",
-    "framework": "GCF13"
+   "jobTitle": "Field Marketing Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Organizational Development Director",
-    "framework": "GCF13"
+   "jobTitle": "Group Marketing Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Learning and Development Director",
-    "framework": "GCF13"
+   "jobTitle": "Marketing Development Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Competency Program Manager",
-    "framework": "GCF13"
+   "jobTitle": "Marketing Communications Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Employee Development Manager",
-    "framework": "GCF13"
+   "jobTitle": "Product Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Learning Center Manager",
-    "framework": "GCF13"
+   "jobTitle": "Content Manager, Group - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Learning Manager",
-    "framework": "GCF13"
+   "jobTitle": "Digital Marketing Analytics Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Management Development Manager",
-    "framework": "GCF13"
+   "jobTitle": "Marketing Communications Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Organizational Development Manager",
-    "framework": "GCF13"
+   "jobTitle": "Market Research Analyst, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Organizational Effectiveness Manager",
-    "framework": "GCF13"
+   "jobTitle": "Online Advertising Manager - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Learning & Development Consultant, Senior",
-    "framework": "GCF13"
+   "jobTitle": "Digital Marketing Analytics Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Classroom Trainer",
-    "framework": "GCF13"
+   "jobTitle": "Digital Content Producer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Instructional Designer",
-    "framework": "GCF13"
+   "jobTitle": "Digital Marketing Analytics Supervisor",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Learning Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Digital Marketing Specialist - Content",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Multimedia Developer",
-    "framework": "GCF13"
+   "jobTitle": "Digital Marketing Specialist - Display",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Organizational Development Consultant",
-    "framework": "GCF13"
+   "jobTitle": "Digital Marketing Specialist - SEO",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "CBT-WBT Developer",
-    "framework": "GCF13"
+   "jobTitle": "Digital Marketing Specialist - Social Media",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Competency Program Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Multimedia & Web Content Production Coordinator － GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Employee Development Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Market Research Analyst",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Employee Performance Specialist",
-    "framework": "GCF13"
+   "jobTitle": "Online Advertising Support",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Instructor",
-    "framework": "GCF13"
+   "jobTitle": "Marketing Administrator",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Learning Analyst",
-    "framework": "GCF13"
+   "jobTitle": "Digital Marketing Associate",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Sales Trainer",
-    "framework": "GCF13"
+   "jobTitle": "Market Research Assistant",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Competency Program Administrator",
-    "framework": "GCF13"
+   "jobTitle": "Program Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Learning Administrator",
-    "framework": "GCF13"
+   "jobTitle": "Program Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Business Development Manager, Hydro and Turbine",
-    "framework": "ENE20"
+   "jobTitle": "Project Manager - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Hydroelectric Production Manager",
-    "framework": "ENE20"
+   "jobTitle": "Program Management Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Power Plant Maintenance Manager",
-    "framework": "ENE20"
+   "jobTitle": "Project Analyst - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Hydro Engineering Supervisor",
-    "framework": "ENE20"
+   "jobTitle": "Project Administrator",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Fossil and Hydro Project Manager",
-    "framework": "ENE20"
+   "jobTitle": "Chief Contracts Officer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Fossil Mechanical Engineer",
-    "framework": "ENE20"
+   "jobTitle": "Procurement Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Fossil Power Plant Performance Engineer",
-    "framework": "ENE20"
+   "jobTitle": "Contracts Administration Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Safety Engineer, Hydro",
-    "framework": "ENE20"
+   "jobTitle": "Corporate Procurement Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Hydroelectric Plant Technician",
-    "framework": "ENE20"
+   "jobTitle": "Contracts Administration Specialist, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Nuclear Waste Project Director",
-    "framework": "ENE20"
+   "jobTitle": "Contracts Administration Supervisor",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Nuclear Operations Manager",
-    "framework": "ENE20"
+   "jobTitle": "Procurement Specialist, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Nuclear Quality Assurance Manager",
-    "framework": "ENE20"
+   "jobTitle": "Contracts Administration Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Senior Nuclear Engineer",
-    "framework": "ENE20"
+   "jobTitle": "Procurement Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Nuclear Engineer",
-    "framework": "ENE20"
+   "jobTitle": "Purchasing Agent",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Nuclear Electrical Engineer",
-    "framework": "ENE20"
+   "jobTitle": "Procurement Administrator",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Nuclear Facilities Engineer",
-    "framework": "ENE20"
+   "jobTitle": "Contracts Administrator",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Nuclear Mechanical Engineer",
-    "framework": "ENE20"
+   "jobTitle": "Purchasing Agent, Junior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Nuclear Safety Engineer",
-    "framework": "ENE20"
+   "jobTitle": "Research and Development Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Nuclear Test Engineer",
-    "framework": "ENE20"
+   "jobTitle": "Research and Development Engineer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Nuclear Monitoring Technician",
-    "framework": "ENE20"
+   "jobTitle": "Research and Development Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Energy Services Sales Executive",
-    "framework": "ENE20"
+   "jobTitle": "Research and Development Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Power Generation Services Director",
-    "framework": "ENE20"
+   "jobTitle": "Documentation Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Energy Business Development Manager",
-    "framework": "ENE20"
+   "jobTitle": "Research Analyst",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Attorney, Energy",
-    "framework": "ENE20"
+   "jobTitle": "Research Associate",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Energy Business Project Manager",
-    "framework": "ENE20"
+   "jobTitle": "Chief Sales Executive",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Energy Business Analyst, Senior",
-    "framework": "ENE20"
+   "jobTitle": "Sales Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Energy Business Consultant, Senior",
-    "framework": "ENE20"
+   "jobTitle": "Account Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Energy Auditor",
-    "framework": "ENE20"
+   "jobTitle": "Channel Program Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Energy Administrator",
-    "framework": "ENE20"
+   "jobTitle": "Digital Sales Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Power Supply Manager",
-    "framework": "ENE20"
+   "jobTitle": "Online Sales Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Power Supply System Technician",
-    "framework": "ENE20"
+   "jobTitle": "Sales Manager, Region",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Engineering Services Supervisor",
-    "framework": "ENE20"
+   "jobTitle": "Bid Manager - GCF",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Power Supply and Transmission Services Supervisor",
-    "framework": "ENE20"
+   "jobTitle": "Cross Sales Specialist, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Power Distribution Supervisor",
-    "framework": "ENE20"
+   "jobTitle": "Digital Sales Coordinator",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Power Distribution System Designer",
-    "framework": "ENE20"
+   "jobTitle": "Digital Sales Planner",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Power Supply Technician, Senior",
-    "framework": "ENE20"
+   "jobTitle": "Sales Representative, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Load Dispatcher",
-    "framework": "ENE20"
+   "jobTitle": "Sales Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Energy Retail General Manager",
-    "framework": "ENE20"
+   "jobTitle": "Driver and Sales Representative",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Energy Retail Account Manager",
-    "framework": "ENE20"
+   "jobTitle": "Digital Sales Representative",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Energy Retail Customer Service Manager",
-    "framework": "ENE20"
+   "jobTitle": "Product Specialist - Sales",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Energy Retail Marketing Manager",
-    "framework": "ENE20"
+   "jobTitle": "Sales Representative",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Energy Retail Product Manager",
-    "framework": "ENE20"
+   "jobTitle": "Sales Support Representative",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Energy Retail Sales Manager",
-    "framework": "ENE20"
+   "jobTitle": "Digital Sales Associate",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Energy Retail Customer Service Representative, Senior",
-    "framework": "ENE20"
+   "jobTitle": "Telemarketer-Prospector",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Energy Engineer",
-    "framework": "ENE20"
+   "jobTitle": "Sales Administrator",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Energy Retail Project Engineer",
-    "framework": "ENE20"
+   "jobTitle": "Organizational Development Executive",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Energy Retail Sales Representative, Senior",
-    "framework": "ENE20"
+   "jobTitle": "Chief Learning Officer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Exploration and Production Director",
-    "framework": "ENE20"
+   "jobTitle": "Learning Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Exploration Manager",
-    "framework": "ENE20"
+   "jobTitle": "Organizational Development Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Geoscientist Manager",
-    "framework": "ENE20"
+   "jobTitle": "Learning and Development Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Completion Engineer",
-    "framework": "ENE20"
+   "jobTitle": "Competency Program Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Drilling Engineer (Exploration)",
-    "framework": "ENE20"
+   "jobTitle": "Employee Development Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Geologist",
-    "framework": "ENE20"
+   "jobTitle": "Learning Center Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Geophysicist",
-    "framework": "ENE20"
+   "jobTitle": "Learning Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Project Engineer (Exploration)",
-    "framework": "ENE20"
+   "jobTitle": "Management Development Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Petrophysicist",
-    "framework": "ENE20"
+   "jobTitle": "Organizational Development Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Reservoir Engineer (Exploration)",
-    "framework": "ENE20"
+   "jobTitle": "Organizational Effectiveness Manager",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Rig Supervisor",
-    "framework": "ENE20"
+   "jobTitle": "Learning & Development Consultant, Senior",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Roughneck",
-    "framework": "ENE20"
+   "jobTitle": "Classroom Trainer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Production Manager (Oil & Gas)",
-    "framework": "ENE20"
+   "jobTitle": "Instructional Designer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Drilling Operations Manager",
-    "framework": "ENE20"
+   "jobTitle": "Learning Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Oil Field Manager",
-    "framework": "ENE20"
+   "jobTitle": "Multimedia Developer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Drilling Engineer (Production)",
-    "framework": "ENE20"
+   "jobTitle": "Organizational Development Consultant",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Production Engineer (Oil and Gas)",
-    "framework": "ENE20"
+   "jobTitle": "CBT-WBT Developer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Project Engineer (Production)",
-    "framework": "ENE20"
+   "jobTitle": "Competency Program Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Reservoir Engineer (Production)",
-    "framework": "ENE20"
+   "jobTitle": "Employee Development Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Subsea Operation Engineer",
-    "framework": "ENE20"
+   "jobTitle": "Employee Performance Specialist",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Oilwell Pumper",
-    "framework": "ENE20"
+   "jobTitle": "Instructor",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Derrickman",
-    "framework": "ENE20"
+   "jobTitle": "Learning Analyst",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Refinery Manager",
-    "framework": "ENE20"
+   "jobTitle": "Sales Trainer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Engineering Support Manager",
-    "framework": "ENE20"
+   "jobTitle": "Competency Program Administrator",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Refinery Maintenance Manager",
-    "framework": "ENE20"
+   "jobTitle": "Learning Administrator",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Refinery Operations Manager",
-    "framework": "ENE20"
+   "jobTitle": "Chief Executive Officer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Chemical Engineer (Refining)",
-    "framework": "ENE20"
+   "jobTitle": "Chief Operating Officer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Environmental Engineer (Refining)",
-    "framework": "ENE20"
+   "jobTitle": "Chief Risk Officer",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Mechanical Engineer (Refining)",
-    "framework": "ENE20"
+   "jobTitle": "Chief of Staff",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Project Engineer (Refining)",
-    "framework": "ENE20"
+   "jobTitle": "Managing Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Process Engineer (Refining)",
-    "framework": "ENE20"
+   "jobTitle": "Risk Management Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Safety Engineer (Refining)",
-    "framework": "ENE20"
+   "jobTitle": "Strategy Director",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Refinery Operator",
-    "framework": "ENE20"
+   "jobTitle": "Corporate Secretary",
+   "framework": "General Corporate Functions"
   },
   {
-    "jobTitle": "Marketing Director (Oil and Gas)",
-    "framework": "ENE20"
+   "jobTitle": "Product Development Director - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Marketing Manager (Wholesale Oil and Gas)",
-    "framework": "ENE20"
+   "jobTitle": "Research and Development Director - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Marketing Manager (Retail)",
-    "framework": "ENE20"
+   "jobTitle": "Chip Development Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Account Manager (Wholesale)",
-    "framework": "ENE20"
+   "jobTitle": "Product Development Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Area Manager (Retail)",
-    "framework": "ENE20"
+   "jobTitle": "Product Development Manager, Group - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Market Analyst (Oil and Gas)",
-    "framework": "ENE20"
+   "jobTitle": "Research and Development Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Marketing Specialist (Retail Oil and Gas)",
-    "framework": "ENE20"
+   "jobTitle": "Strategic Product Planning Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Sales Engineer (Wholesale)",
-    "framework": "ENE20"
+   "jobTitle": "Engineering Master - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Gas Station Manager",
-    "framework": "ENE20"
+   "jobTitle": "Materials Engineer, Master - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Sales Representative (Retail)",
-    "framework": "ENE20"
+   "jobTitle": "Chip Development Engineer, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "",
-    "framework": ""
+   "jobTitle": "Product Development Supervisor - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Account Executive - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Power Design Engineer, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Account Executive - HEA",
-    "framework": "HC30"
+   "jobTitle": "Design Engineer, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Accountant - HEA",
-    "framework": "HC30"
+   "jobTitle": "Materials Engineer, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Accountant, Senior - HEA",
-    "framework": "HC30"
+   "jobTitle": "Product Development Engineer, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Accounting Manager - HEA",
-    "framework": "HC30"
+   "jobTitle": "Chip Development Engineer, Junior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Accounts Payable Specialist - HEA",
-    "framework": "HC30"
+   "jobTitle": "Power Design Engineer, Junior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Accounts Receivable Specialist - HEA",
-    "framework": "HC30"
+   "jobTitle": "Design Engineer - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Administration Director - HEA",
-    "framework": "HC30"
+   "jobTitle": "Packaging Engineer - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Administration Manager - HEA",
-    "framework": "HC30"
+   "jobTitle": "Product Development Engineer - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Administrative Assistant - HEA",
-    "framework": "HC30"
+   "jobTitle": "Materials Engineer - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Admitting Clerk",
-    "framework": "HC30"
+   "jobTitle": "Testing Technician - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Admitting Director",
-    "framework": "HC30"
+   "jobTitle": "Drafter, Junior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Admitting Manager",
-    "framework": "HC30"
+   "jobTitle": "Engineer, Junior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Admitting Supervisor",
-    "framework": "HC30"
+   "jobTitle": "Testing Technician, Junior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Advertising/PR Manager - HEA",
-    "framework": "HC30"
+   "jobTitle": "Engineering Director - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Aide Coordinator - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Engineering Manager, Group - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Aide Supervisor - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Engineering Project Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Ambulatory Services Director",
-    "framework": "HC30"
+   "jobTitle": "Storage Engineering Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Anesthesia Technician",
-    "framework": "HC30"
+   "jobTitle": "Industrial Engineer, Master - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Application Analyst - HEA",
-    "framework": "HC30"
+   "jobTitle": "Mechanical Engineer, Master - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Art Therapist",
-    "framework": "HC30"
+   "jobTitle": "Production Engineer, Master - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Athletic Trainer",
-    "framework": "HC30"
+   "jobTitle": "Manufacturing Engineer Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Audiologist",
-    "framework": "HC30"
+   "jobTitle": "Production Engineering Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Audiology Supervisor",
-    "framework": "HC30"
+   "jobTitle": "Firmware Engineer, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Behavioral Health Director",
-    "framework": "HC30"
+   "jobTitle": "Storage Engineer, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Behavioral Health Executive",
-    "framework": "HC30"
+   "jobTitle": "Engineer, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Benefits Administrator - HEA",
-    "framework": "HC30"
+   "jobTitle": "Certification Engineer, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Bereavement Coordinator",
-    "framework": "HC30"
+   "jobTitle": "Environmental Engineer, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Bereavement Services Manager",
-    "framework": "HC30"
+   "jobTitle": "Industrial Engineer, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Biomedical Engineering Technician",
-    "framework": "HC30"
+   "jobTitle": "Mechanical Engineer, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Biomedical Photographer",
-    "framework": "HC30"
+   "jobTitle": "Manufacturing Engineer, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Bookkeeper - HEA",
-    "framework": "HC30"
+   "jobTitle": "Manufacturing Process Engineer, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Budget Analyst - HEA",
-    "framework": "HC30"
+   "jobTitle": "Production Engineer, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Budget Analyst, Senior - HEA",
-    "framework": "HC30"
+   "jobTitle": "Firmware Engineer, Junior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Business Intelligence Analyst - HEA",
-    "framework": "HC30"
+   "jobTitle": "Storage Engineer, Junior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Business Office Manager - HEA",
-    "framework": "HC30"
+   "jobTitle": "Production Engineering Supervisor - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Business Office Supervisor - HEA",
-    "framework": "HC30"
+   "jobTitle": "Industrial Engineer - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Cardiac Catheterization Laboratory Manager",
-    "framework": "HC30"
+   "jobTitle": "Mechanical Engineer - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Cardiac Catheterization Technologist",
-    "framework": "HC30"
+   "jobTitle": "Manufacturing Engineer - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Cardiac Technician",
-    "framework": "HC30"
+   "jobTitle": "Manufacturing Process Specialist - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Cardiology Director",
-    "framework": "HC30"
+   "jobTitle": "Manufacturing Process Engineer - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Cardiology Manager",
-    "framework": "HC30"
+   "jobTitle": "Production Engineer/Specialist - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Cardio-Pulmonary Perfusionist",
-    "framework": "HC30"
+   "jobTitle": "Facilities Director - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Cardiovascular Technologist",
-    "framework": "HC30"
+   "jobTitle": "Hardware Equipment Maintenance Manager",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Case Management Director",
-    "framework": "HC30"
+   "jobTitle": "Plant General Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Case Management Supervisor",
-    "framework": "HC30"
+   "jobTitle": "Plant Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Case Manager - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Plant Maintenance Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Case Manager - HEA",
-    "framework": "HC30"
+   "jobTitle": "Plant Operation Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Case Worker",
-    "framework": "HC30"
+   "jobTitle": "Facilities Supervisor - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "CAT Scan Technologist",
-    "framework": "HC30"
+   "jobTitle": "Plant Supervisor - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "CAT Scan Technologist, Chief",
-    "framework": "HC30"
+   "jobTitle": "Security Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Central Supply Manager",
-    "framework": "HC30"
+   "jobTitle": "Facility Engineer - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Central Supply Supervisor",
-    "framework": "HC30"
+   "jobTitle": "Facilities Support Technician - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Certified Nurse Anesthetist",
-    "framework": "HC30"
+   "jobTitle": "Hardware Equipment Maintenance Specialist",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Certified Nurse Midwife",
-    "framework": "HC30"
+   "jobTitle": "Security Specialist – HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Certified Nursing Assistant",
-    "framework": "HC30"
+   "jobTitle": "Hardware General Laborer",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Certified Occupational Therapist Assistant",
-    "framework": "HC30"
+   "jobTitle": "Field Service Director - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Certified Respiratory Therapist",
-    "framework": "HC30"
+   "jobTitle": "Product Support Director - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Chaplain",
-    "framework": "HC30"
+   "jobTitle": "Field Service Manager, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Charge Nurse - HTH",
-    "framework": "HC30"
+   "jobTitle": "Field Service Manager-HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Chief Compliance Officer - HEA",
-    "framework": "HC30"
+   "jobTitle": "Product Support Manager, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Chief Financial Officer - HEA",
-    "framework": "HC30"
+   "jobTitle": "Storage Support Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Chief Information Officer - HEA",
-    "framework": "HC30"
+   "jobTitle": "Field Service Engineer, Master - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Chief Medical Librarian (MLS)",
-    "framework": "HC30"
+   "jobTitle": "Product Support Specialist, Master - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Chief Medical Technologist",
-    "framework": "HC30"
+   "jobTitle": "Product Support Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Chief Nurse Anesthetist",
-    "framework": "HC30"
+   "jobTitle": "Sustaining Engineer, Senior – HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Chief Nursing Executive/Regions",
-    "framework": "HC30"
+   "jobTitle": "Storage Support Specialist, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Chief Operating Officer - HEA",
-    "framework": "HC30"
+   "jobTitle": "Field Service Specialist/Engineer, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Classroom Trainer - HEA",
-    "framework": "HC30"
+   "jobTitle": "Product Support Specialist, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Cleaner",
-    "framework": "HC30"
+   "jobTitle": "Sustaining Engineer, Junior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Client Services Director - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Field Service Supervisor - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Clinical Analytics Systems Architect",
-    "framework": "HC30"
+   "jobTitle": "Storage Support Specialist, Junior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Clinical Documentation Improvement (CDI) Auditor",
-    "framework": "HC30"
+   "jobTitle": "Field Service Specialist/Engineer - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Clinical Documentation Specialist",
-    "framework": "HC30"
+   "jobTitle": "Product Support Specialist - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Clinical Education Manager",
-    "framework": "HC30"
+   "jobTitle": "Field Service Specialist/Engineer, Junior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Clinical Facilities Planner",
-    "framework": "HC30"
+   "jobTitle": "Product Support Specialist, Junior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Clinical Informatics Coordinator",
-    "framework": "HC30"
+   "jobTitle": "Operations Director - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Clinical Information Systems Director",
-    "framework": "HC30"
+   "jobTitle": "Manufacturing Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Clinical Nurse Specialist",
-    "framework": "HC30"
+   "jobTitle": "Operations Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Clinical Nurse Specialist - Specialized Services",
-    "framework": "HC30"
+   "jobTitle": "Manufacturing Process Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Clinical Nutrition Manager",
-    "framework": "HC30"
+   "jobTitle": "Production Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Clinical Pharmacist",
-    "framework": "HC30"
+   "jobTitle": "Industrial Engineering Technician, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Clinical Services Director - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Manufacturing Operations Engineer, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Clinical Supervisor - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Manufacturing Technician, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Coding Compliance Specialist",
-    "framework": "HC30"
+   "jobTitle": "Manufacturing Process Specialist, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Collections Specialist - HEA",
-    "framework": "HC30"
+   "jobTitle": "Production Support Specialist, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Communication Specialist",
-    "framework": "HC30"
+   "jobTitle": "Shift Supervisor - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Communications Manager - HEA",
-    "framework": "HC30"
+   "jobTitle": "Production Supervisor - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Community and Public Relations Director",
-    "framework": "HC30"
+   "jobTitle": "Capacity Planner - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Compensation Analyst - HEA",
-    "framework": "HC30"
+   "jobTitle": "Industrial Engineering Technician - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Compensation Manager - HEA",
-    "framework": "HC30"
+   "jobTitle": "Inspector - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Compensation Specialist - HEA",
-    "framework": "HC30"
+   "jobTitle": "Manufacturing Technician - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Compliance Coordinator - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Production Support Specialist - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Compliance/Risk Management Director - HEA",
-    "framework": "HC30"
+   "jobTitle": "Assembly Technician, Junior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Compliance/Risk Management Specialist",
-    "framework": "HC30"
+   "jobTitle": "Electronics Technician, Junior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Compliance/Risk Manager - HEA",
-    "framework": "HC30"
+   "jobTitle": "Manufacturing Technician, Junior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Contracts Administration Manager - HEA",
-    "framework": "HC30"
+   "jobTitle": "Machine Operator/Machinist, Junior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Contracts Administration Specialist - HEA",
-    "framework": "HC30"
+   "jobTitle": "Quality Assurance Director - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Contracts Administration Specialist, Senior - HEA",
-    "framework": "HC30"
+   "jobTitle": "Quality Assurance Manager, Group - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Contracts Administrator - HEA",
-    "framework": "HC30"
+   "jobTitle": "Quality Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Controller - HEA",
-    "framework": "HC30"
+   "jobTitle": "Testing Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Cook",
-    "framework": "HC30"
+   "jobTitle": "Storage Testing Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Customer Service Associate - HEA",
-    "framework": "HC30"
+   "jobTitle": "Quality Assurance Architect, Master - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Customer Service Representative - HEA",
-    "framework": "HC30"
+   "jobTitle": "Testing Specialist, Master - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Customer Service Representative, Senior - HEA",
-    "framework": "HC30"
+   "jobTitle": "Quality Assurance Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Customer Support Manager - HEA",
-    "framework": "HC30"
+   "jobTitle": "Testing Supervisor- HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Cytogenetic Technologist",
-    "framework": "HC30"
+   "jobTitle": "Storage Test Engineer, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Cytotechnologist",
-    "framework": "HC30"
+   "jobTitle": "Quality Assurance Specialist, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Dance Therapist",
-    "framework": "HC30"
+   "jobTitle": "Quality Technician, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Database Administrator - HEA",
-    "framework": "HC30"
+   "jobTitle": "Quality Analyst, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Dental Hygienist",
-    "framework": "HC30"
+   "jobTitle": "Testing Specialist, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Dental Laboratory Technician",
-    "framework": "HC30"
+   "jobTitle": "Quality Team Leader - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Diabetes Educator",
-    "framework": "HC30"
+   "jobTitle": "Storage Test Engineer, Junior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Diagnostic Imaging Manager",
-    "framework": "HC30"
+   "jobTitle": "Quality Assurance Specialist - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Diagnostic Imaging Operations Technologist, Chief",
-    "framework": "HC30"
+   "jobTitle": "Quality Technician - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Diagnostic Imaging Supervisor",
-    "framework": "HC30"
+   "jobTitle": "Quality Analyst - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Diet Clerk",
-    "framework": "HC30"
+   "jobTitle": "Supplier Quality Analyst - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Diet Technician",
-    "framework": "HC30"
+   "jobTitle": "Testing Specialist - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Dietitian - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Quality Assurance Specialist, Junior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Discharge Coordinator",
-    "framework": "HC30"
+   "jobTitle": "Quality Coordinator, Junior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Discharge Planner",
-    "framework": "HC30"
+   "jobTitle": "Quality Analyst, Junior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Dispensing Audiologist",
-    "framework": "HC30"
+   "jobTitle": "Testing Specialist, Junior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "DME Technician",
-    "framework": "HC30"
+   "jobTitle": "Manufacturing Safety Director - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Dosimetrist",
-    "framework": "HC30"
+   "jobTitle": "Manufacturing Safety Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Drug Safety/Medical Information Specialist I",
-    "framework": "HC30"
+   "jobTitle": "Environment Protection Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Drug Safety/Medical Information Specialist II",
-    "framework": "HC30"
+   "jobTitle": "Dangerous Goods Safety Advisor, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Drug Safety/Medical Information Specialist III",
-    "framework": "HC30"
+   "jobTitle": "Health and Safety Specialist, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Drug Safety/Medical Information Specialist IV",
-    "framework": "HC30"
+   "jobTitle": "Materials Handling Specialist, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Echocardiograph Technician",
-    "framework": "HC30"
+   "jobTitle": "Pollution Control Specialist - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "EKG Monitor Technician",
-    "framework": "HC30"
+   "jobTitle": "Manufacturing Safety Analyst - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Electrocardiograph Technician",
-    "framework": "HC30"
+   "jobTitle": "Manufacturing Safety Technician - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Emergency Medical Technician",
-    "framework": "HC30"
+   "jobTitle": "Manufacturing Safety Administrator, Junior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Employee Relations Manager - HEA",
-    "framework": "HC30"
+   "jobTitle": "Distribution Director - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Employee Relations Specialist - HEA",
-    "framework": "HC30"
+   "jobTitle": "Logistics Management Director - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Engineering Services Coordinator",
-    "framework": "HC30"
+   "jobTitle": "Supply Chain Director - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Enterostomal Therapist",
-    "framework": "HC30"
+   "jobTitle": "Hardware Distribution Manager",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Enterprise Solution Architect - HEA",
-    "framework": "HC30"
+   "jobTitle": "Distribution Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Enterprise Systems Architect - HEA",
-    "framework": "HC30"
+   "jobTitle": "Logistics Planning Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Executive Assistant - HEA",
-    "framework": "HC30"
+   "jobTitle": "Production Planning Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Exercise Physiologist",
-    "framework": "HC30"
+   "jobTitle": "Supply Chain Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Exercise Specialist",
-    "framework": "HC30"
+   "jobTitle": "Supplier Quality Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Facilities Engineer",
-    "framework": "HC30"
+   "jobTitle": "Supply Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Facilities Manager",
-    "framework": "HC30"
+   "jobTitle": "Warehouse Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Facilities Planning Director",
-    "framework": "HC30"
+   "jobTitle": "Distribution Center Supervisor - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Facilities Specialist - HEA",
-    "framework": "HC30"
+   "jobTitle": "Inventory Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Facility Director",
-    "framework": "HC30"
+   "jobTitle": "Hardware Distribution Specialist, Senior",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "File Clerk",
-    "framework": "HC30"
+   "jobTitle": "Materials Planner, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Finance Manager - HEA",
-    "framework": "HC30"
+   "jobTitle": "Hardware Distribution Specialist, Junior",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Financial Counselor - HEA",
-    "framework": "HC30"
+   "jobTitle": "Logistics Analyst - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Food Service Manager",
-    "framework": "HC30"
+   "jobTitle": "Materials Coordinator - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Food Service Supervisor",
-    "framework": "HC30"
+   "jobTitle": "Supply Chain Specialist - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Food Service Worker",
-    "framework": "HC30"
+   "jobTitle": "Packaging Machine Operator - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Food Services Director",
-    "framework": "HC30"
+   "jobTitle": "Inventory Control Clerk, Junior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Genetics Counselor",
-    "framework": "HC30"
+   "jobTitle": "Logistics Clerk, Junior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Graduate Medical Education Director",
-    "framework": "HC30"
+   "jobTitle": "Traffic Clerk - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Hardware Engineer - HEA",
-    "framework": "HC30"
+   "jobTitle": "Shipping/Receiving Clerk - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Hardware Engineer, Senior - HEA",
-    "framework": "HC30"
+   "jobTitle": "Global Sourcing Director - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Head Nurse",
-    "framework": "HC30"
+   "jobTitle": "Commodity Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Head Nurse - CCU",
-    "framework": "HC30"
+   "jobTitle": "Purchasing Manager - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Head Nurse - Emergency Room",
-    "framework": "HC30"
+   "jobTitle": "Purchasing Agent -New Product, Senior-HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Head Nurse - Industrial",
-    "framework": "HC30"
+   "jobTitle": "Purchasing Agent, Senior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Head Nurse - Infection Control",
-    "framework": "HC30"
+   "jobTitle": "Purchasing Specialist - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Head Nurse - Intensive Care Unit",
-    "framework": "HC30"
+   "jobTitle": "Purchasing Clerk - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Head Nurse - Nursing Home",
-    "framework": "HC30"
+   "jobTitle": "Commodity Buyer - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Head Nurse - Obstetrics",
-    "framework": "HC30"
+   "jobTitle": "Purchasing Clerk, Junior - HTH",
+   "framework": "Hardware"
   },
   {
-    "jobTitle": "Head Nurse - Occupational Health",
-    "framework": "HC30"
+   "jobTitle": "Chief Operating Officer - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Head Nurse - Oncology",
-    "framework": "HC30"
+   "jobTitle": "Administration Director - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Head Nurse - Operating Room",
-    "framework": "HC30"
+   "jobTitle": "Ambulatory Services Director",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Head Nurse - Pediatrics",
-    "framework": "HC30"
+   "jobTitle": "Business Office Director - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Head Nurse - Psychiatric Unit",
-    "framework": "HC30"
+   "jobTitle": "Chief Compliance Officer - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Head Nurse, Quality Improvement - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Facility Director",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Head of Anesthesiology",
-    "framework": "HC30"
+   "jobTitle": "Nursing Executive - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Head of Client Services",
-    "framework": "HC30"
+   "jobTitle": "Admitting Director",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Head of Home Care Services Agency",
-    "framework": "HC30"
+   "jobTitle": "Administration Manager - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Head of Nursing",
-    "framework": "HC30"
+   "jobTitle": "Business Office Manager - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Health Educator",
-    "framework": "HC30"
+   "jobTitle": "Case Management Director",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Health Services Manager",
-    "framework": "HC30"
+   "jobTitle": "Compliance/Risk Management Director - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Healthcare EDI Analyst",
-    "framework": "HC30"
+   "jobTitle": "Health Services Manager",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Healthcare EDI Analyst, Senior",
-    "framework": "HC30"
+   "jobTitle": "Library Manager - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Healthcare Facility Public Relations Specialist, Senior",
-    "framework": "HC30"
+   "jobTitle": "Admitting Manager",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Histologic Technician",
-    "framework": "HC30"
+   "jobTitle": "Business Office Supervisor - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Histology Technician",
-    "framework": "HC30"
+   "jobTitle": "Compliance/Risk Manager - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Home Care Aide, Junior",
-    "framework": "HC30"
+   "jobTitle": "Chief Medical Librarian (MLS)",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Home Care Aide, Senior",
-    "framework": "HC30"
+   "jobTitle": "Case Manager - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "House Supervisor",
-    "framework": "HC30"
+   "jobTitle": "Library Specialist - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Housekeeper",
-    "framework": "HC30"
+   "jobTitle": "Managed Care Provider Relations Manager",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Housekeeping Manager",
-    "framework": "HC30"
+   "jobTitle": "Managed Care Supervisor",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "HR Business Partner - HEA",
-    "framework": "HC30"
+   "jobTitle": "Patient Relations Manager",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "HRIS Administrator - HEA",
-    "framework": "HC30"
+   "jobTitle": "Admitting Supervisor",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Human Resource Coordinator Assistant - HEA",
-    "framework": "HC30"
+   "jobTitle": "Case Management Supervisor",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Human Resource Generalist - HEA",
-    "framework": "HC30"
+   "jobTitle": "Compliance/Risk Management Specialist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Human Resource Generalist, Senior - HEA",
-    "framework": "HC30"
+   "jobTitle": "Executive Assistant - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Human Resource Manager - HEA",
-    "framework": "HC30"
+   "jobTitle": "Intake Supervisor",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Human Resources Director - HEA",
-    "framework": "HC30"
+   "jobTitle": "Medical Librarian (MLS)",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Hyperbaric Technician",
-    "framework": "HC30"
+   "jobTitle": "Quality Assurance/Improvement Analyst",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Information Technology Manager - HEA",
-    "framework": "HC30"
+   "jobTitle": "Admitting Clerk",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Inside Sales Manager - HEA",
-    "framework": "HC30"
+   "jobTitle": "File Clerk",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Instructor - HEA",
-    "framework": "HC30"
+   "jobTitle": "Managed Care Coordinator",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Insurance Verification Specialist",
-    "framework": "HC30"
+   "jobTitle": "Physician - Cardiology - Non-Invasive",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Intake Coordinator",
-    "framework": "HC30"
+   "jobTitle": "Cardiology Director",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Intake Coordinator - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Cardiac Catheterization Technologist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Intake RN",
-    "framework": "HC30"
+   "jobTitle": "Surgeon - Cardiothoracic",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Intake Services Representative",
-    "framework": "HC30"
+   "jobTitle": "Surgeon - Heart Transplant",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Intake Supervisor",
-    "framework": "HC30"
+   "jobTitle": "Physician - Pediatric Cardiology",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Interfaces Developer - HEA",
-    "framework": "HC30"
+   "jobTitle": "Cardiac Catheterization Laboratory Manager",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Internal Auditor - HEA",
-    "framework": "HC30"
+   "jobTitle": "EKG Monitor Technician",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Interventional Radiological Technologist",
-    "framework": "HC30"
+   "jobTitle": "Electrocardiograph Technician",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "IT QA Testing Analyst - HEA",
-    "framework": "HC30"
+   "jobTitle": "Cardiac Technician",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Labor Relations Specialist - HEA",
-    "framework": "HC30"
+   "jobTitle": "Cardiology Manager",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Laboratory Assistant I",
-    "framework": "HC30"
+   "jobTitle": "Cardiovascular Technologist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Laboratory Assistant II",
-    "framework": "HC30"
+   "jobTitle": "Physician - Cardiology - Invasive",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Laboratory Assistant III",
-    "framework": "HC30"
+   "jobTitle": "Cardio-Pulmonary Perfusionist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Laboratory Manager",
-    "framework": "HC30"
+   "jobTitle": "Echocardiograph Technician",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Laboratory Services Director",
-    "framework": "HC30"
+   "jobTitle": "Community and Public Relations Director",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Laboratory Supervisor I",
-    "framework": "HC30"
+   "jobTitle": "Communications Manager - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Laboratory Supervisor II",
-    "framework": "HC30"
+   "jobTitle": "Public Relations Manager - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Laboratory Supervisor III",
-    "framework": "HC30"
+   "jobTitle": "Communication Specialist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Laundry Manager - HEA",
-    "framework": "HC30"
+   "jobTitle": "Public Information Specialist, Senior",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Laundry Worker",
-    "framework": "HC30"
+   "jobTitle": "Healthcare Facility Public Relations Specialist, Senior",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Lead Housekeeper",
-    "framework": "HC30"
+   "jobTitle": "Public Information Specialist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Learning Specialist - HEA",
-    "framework": "HC30"
+   "jobTitle": "Public Relations Specialist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Library Manager - HEA",
-    "framework": "HC30"
+   "jobTitle": "Public Information Coordinator",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Library Specialist - HEA",
-    "framework": "HC30"
+   "jobTitle": "Head of Anesthesiology",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Licensed Physical Therapist Assistant",
-    "framework": "HC30"
+   "jobTitle": "Certified Respiratory Therapist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Licensed Practical Nurse",
-    "framework": "HC30"
+   "jobTitle": "Diabetes Educator",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Licensed Practical Nurse - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Enterostomal Therapist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Linen Room Attendant",
-    "framework": "HC30"
+   "jobTitle": "Health Educator",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Mail Clerk - HEA",
-    "framework": "HC30"
+   "jobTitle": "Anesthesia Technician",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Mail Clerk, Senior - HEA",
-    "framework": "HC30"
+   "jobTitle": "Emergency Medical Technician",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Mail/Copy Supervisor - HEA",
-    "framework": "HC30"
+   "jobTitle": "Genetics Counselor",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Mammography Technologist",
-    "framework": "HC30"
+   "jobTitle": "Hyperbaric Technician",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Managed Care Coordinator",
-    "framework": "HC30"
+   "jobTitle": "Morgue Attendant",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Managed Care Finance Director",
-    "framework": "HC30"
+   "jobTitle": "Radiology Director",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Managed Care Provider Relations Manager",
-    "framework": "HC30"
+   "jobTitle": "Diagnostic Imaging Operations Technologist, Chief",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Managed Care Supervisor",
-    "framework": "HC30"
+   "jobTitle": "Radiologic Technologist, Chief",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Marketing Administrator - HEA",
-    "framework": "HC30"
+   "jobTitle": "Diagnostic Imaging Manager",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Marketing Communications Manager - HEA",
-    "framework": "HC30"
+   "jobTitle": "CAT Scan Technologist, Chief",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Marketing Communications Specialist - HEA",
-    "framework": "HC30"
+   "jobTitle": "Diagnostic Imaging Supervisor",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Marketing Development Manager - HEA",
-    "framework": "HC30"
+   "jobTitle": "CAT Scan Technologist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Marketing Research Analyst - HEA",
-    "framework": "HC30"
+   "jobTitle": "Interventional Radiological Technologist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Massage Therapist",
-    "framework": "HC30"
+   "jobTitle": "Mammography Technologist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Maternity Services Director",
-    "framework": "HC30"
+   "jobTitle": "Radiologic Technologist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Medical Billing Clerk",
-    "framework": "HC30"
+   "jobTitle": "Ultrasound Technologist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Medical Interpreter",
-    "framework": "HC30"
+   "jobTitle": "PACS Administrator",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Medical Laboratory Technician",
-    "framework": "HC30"
+   "jobTitle": "Food Services Director",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Medical Laboratory Technician, Sr.",
-    "framework": "HC30"
+   "jobTitle": "Clinical Nutrition Manager",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Medical Librarian (MLS)",
-    "framework": "HC30"
+   "jobTitle": "Food Service Manager",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Medical Records Clerk",
-    "framework": "HC30"
+   "jobTitle": "Registered Dietitian",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Medical Records Clerk - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Nutritionist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Medical Records Coding Manager",
-    "framework": "HC30"
+   "jobTitle": "Diet Technician",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Medical Records Coding Technician",
-    "framework": "HC30"
+   "jobTitle": "Food Service Supervisor",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Medical Records Director",
-    "framework": "HC30"
+   "jobTitle": "Cook",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Medical Records Manager",
-    "framework": "HC30"
+   "jobTitle": "Diet Clerk",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Medical Records Research Coordinator",
-    "framework": "HC30"
+   "jobTitle": "Food Service Worker",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Medical Records Supervisor",
-    "framework": "HC30"
+   "jobTitle": "Facilities Planning Director",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Medical Records Technician",
-    "framework": "HC30"
+   "jobTitle": "Facilities Manager",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Medical Records Transcriptionist",
-    "framework": "HC30"
+   "jobTitle": "Clinical Facilities Planner",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Medical Secretary",
-    "framework": "HC30"
+   "jobTitle": "Central Supply Supervisor",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Medical Social Worker",
-    "framework": "HC30"
+   "jobTitle": "Facilities Engineer",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Medical Technologist - Hematology",
-    "framework": "HC30"
+   "jobTitle": "Safety Specialist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Medical Technologist - Microbiology",
-    "framework": "HC30"
+   "jobTitle": "Facilities Specialist - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Medical Technologist (ASCP)",
-    "framework": "HC30"
+   "jobTitle": "Security Supervisor - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Morgue Attendant",
-    "framework": "HC30"
+   "jobTitle": "DME Technician",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Music Therapist",
-    "framework": "HC30"
+   "jobTitle": "Engineering Services Coordinator",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Analyst - HEA",
-    "framework": "HC30"
+   "jobTitle": "Security Guard - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Technician, Senior - HEA",
-    "framework": "HC30"
+   "jobTitle": "Chief Financial Officer - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Nuclear Medicine Technologist",
-    "framework": "HC30"
+   "jobTitle": "Controller - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Nuclear Pharmacist",
-    "framework": "HC30"
+   "jobTitle": "Managed Care Finance Director",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Nurse Practitioner - Emergency Room",
-    "framework": "HC30"
+   "jobTitle": "Accounting Manager - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Nurse Practitioner - HTH",
-    "framework": "HC30"
+   "jobTitle": "Finance Manager - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Nursing Assistant",
-    "framework": "HC30"
+   "jobTitle": "Patient Accounts Director",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Nursing Assistant - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Treasurer - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Nursing Director",
-    "framework": "HC30"
+   "jobTitle": "Accountant, Senior - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Nursing Education Coordinator",
-    "framework": "HC30"
+   "jobTitle": "Budget Analyst, Senior - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Nursing Education Coordinator - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Internal Auditor - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Nursing Education Director",
-    "framework": "HC30"
+   "jobTitle": "Accountant - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Nursing Executive - HEA",
-    "framework": "HC30"
+   "jobTitle": "Accounts Payable Specialist - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Nursing Services Instructor",
-    "framework": "HC30"
+   "jobTitle": "Accounts Receivable Specialist - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Nursing Supervisor",
-    "framework": "HC30"
+   "jobTitle": "Budget Analyst - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Nursing Unit Secretary",
-    "framework": "HC30"
+   "jobTitle": "Collections Specialist - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Nutritionist",
-    "framework": "HC30"
+   "jobTitle": "Financial Counselor - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Occupational Therapist",
-    "framework": "HC30"
+   "jobTitle": "Insurance Verification Specialist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Occupational Therapist - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Medical Billing Clerk",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Occupational Therapy Director",
-    "framework": "HC30"
+   "jobTitle": "Patient Accounts Representative",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Occupational Therapy Supervisor",
-    "framework": "HC30"
+   "jobTitle": "Patient Accounts Supervisor",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Office Manager",
-    "framework": "HC30"
+   "jobTitle": "Bookkeeper - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Office Supervisor - HEA",
-    "framework": "HC30"
+   "jobTitle": "Housekeeping Manager",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Online Pharmacist",
-    "framework": "HC30"
+   "jobTitle": "Laundry Manager - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Operations Director - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Housekeeper",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Ophthalmic Technician",
-    "framework": "HC30"
+   "jobTitle": "Lead Housekeeper",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Optometrist",
-    "framework": "HC30"
+   "jobTitle": "Cleaner",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Orthoptist",
-    "framework": "HC30"
+   "jobTitle": "Laundry Worker",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "PACS Administrator",
-    "framework": "HC30"
+   "jobTitle": "Linen Room Attendant",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Paramedic",
-    "framework": "HC30"
+   "jobTitle": "Ward Housekeeper",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Pathology Assistant",
-    "framework": "HC30"
+   "jobTitle": "Human Resources Director - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Patient Accounts Director",
-    "framework": "HC30"
+   "jobTitle": "Compensation Manager - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Patient Accounts Representative",
-    "framework": "HC30"
+   "jobTitle": "Employee Relations Manager - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Patient Accounts Supervisor",
-    "framework": "HC30"
+   "jobTitle": "HR Business Partner - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Patient Care Assistant",
-    "framework": "HC30"
+   "jobTitle": "Human Resource Manager - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Patient Care Coordinator",
-    "framework": "HC30"
+   "jobTitle": "Payroll Manager - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Patient Care Manager",
-    "framework": "HC30"
+   "jobTitle": "Recruitment Manager - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Patient Relations Manager",
-    "framework": "HC30"
+   "jobTitle": "Compensation Analyst - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Patient Transporter",
-    "framework": "HC30"
+   "jobTitle": "Human Resource Generalist, Senior - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Payroll Clerk - HEA",
-    "framework": "HC30"
+   "jobTitle": "Recruiter, Senior - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Payroll Manager - HEA",
-    "framework": "HC30"
+   "jobTitle": "Benefits Administrator - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Pediatric Psychiatrist",
-    "framework": "HC30"
+   "jobTitle": "Compensation Specialist - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Pedorthist",
-    "framework": "HC30"
+   "jobTitle": "Human Resource Generalist - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Pharmacist",
-    "framework": "HC30"
+   "jobTitle": "Labor Relations Specialist - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Pharmacist - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Recruiter - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Pharmacist - Retail",
-    "framework": "HC30"
+   "jobTitle": "Employee Relations Specialist - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Pharmacist Manager",
-    "framework": "HC30"
+   "jobTitle": "HRIS Administrator - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Pharmacy Director",
-    "framework": "HC30"
+   "jobTitle": "Human Resource Coordinator Assistant - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Pharmacy Director, Assistant",
-    "framework": "HC30"
+   "jobTitle": "Temporary Employment Coordinator - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Pharmacy Service Clerk",
-    "framework": "HC30"
+   "jobTitle": "Payroll Clerk - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Pharmacy Technician I",
-    "framework": "HC30"
+   "jobTitle": "Chief Information Officer - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Pharmacy Technician II",
-    "framework": "HC30"
+   "jobTitle": "Clinical Information Systems Director",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Pharmacy Technician Supervisor",
-    "framework": "HC30"
+   "jobTitle": "Information Technology Manager - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Phlebotomist",
-    "framework": "HC30"
+   "jobTitle": "Clinical Analytics Systems Architect",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Physical Therapist",
-    "framework": "HC30"
+   "jobTitle": "Enterprise Solution Architect - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Physical Therapist - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Enterprise Systems Architect - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Physical Therapy Attendant",
-    "framework": "HC30"
+   "jobTitle": "Healthcare EDI Analyst, Senior",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Physical Therapy Director",
-    "framework": "HC30"
+   "jobTitle": "Hardware Engineer, Senior - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Physical Therapy Supervisor",
-    "framework": "HC30"
+   "jobTitle": "Software Engineer, Senior - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Physician - Cardiology - Invasive",
-    "framework": "HC30"
+   "jobTitle": "Systems Engineer, Senior - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Physician - Cardiology - Non-Invasive",
-    "framework": "HC30"
+   "jobTitle": "Application Analyst - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Physician - Pediatric Cardiology",
-    "framework": "HC30"
+   "jobTitle": "Business Intelligence Analyst - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Physician Assistant",
-    "framework": "HC30"
+   "jobTitle": "Clinical Informatics Coordinator",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Procurement Administrator - HEA",
-    "framework": "HC30"
+   "jobTitle": "Hardware Engineer - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Procurement Director - HEA",
-    "framework": "HC30"
+   "jobTitle": "Healthcare EDI Analyst",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Procurement Manager",
-    "framework": "HC30"
+   "jobTitle": "Interfaces Developer - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Procurement Specialist - HEA",
-    "framework": "HC30"
+   "jobTitle": "Network Analyst - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Procurement Specialist, Senior - HEA",
-    "framework": "HC30"
+   "jobTitle": "IT QA Testing Analyst - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Program Director - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Network Technician, Senior - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Psychiatrist",
-    "framework": "HC30"
+   "jobTitle": "Software Engineer - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Psychological Services Director",
-    "framework": "HC30"
+   "jobTitle": "Systems Engineer - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Psychologist",
-    "framework": "HC30"
+   "jobTitle": "Database Administrator - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Public Information Coordinator",
-    "framework": "HC30"
+   "jobTitle": "Head of Home Care Services Agency",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Public Information Specialist",
-    "framework": "HC30"
+   "jobTitle": "Clinical Services Director - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Public Information Specialist, Senior",
-    "framework": "HC30"
+   "jobTitle": "Client Services Director - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Public Relations Manager - HEA",
-    "framework": "HC30"
+   "jobTitle": "Head of Client Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Public Relations Specialist",
-    "framework": "HC30"
+   "jobTitle": "Operations Director - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Quality Assurance/Improvement Analyst",
-    "framework": "HC30"
+   "jobTitle": "Reimbursement Services Director - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Radiologic Technologist",
-    "framework": "HC30"
+   "jobTitle": "Bereavement Services Manager",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Radiologic Technologist, Chief",
-    "framework": "HC30"
+   "jobTitle": "Program Director - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Radiology Director",
-    "framework": "HC30"
+   "jobTitle": "Volunteer Services Manager - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Recreational Therapist",
-    "framework": "HC30"
+   "jobTitle": "Aide Supervisor - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Recreational Therapy Director",
-    "framework": "HC30"
+   "jobTitle": "Case Manager - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Recruiter - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Clinical Nurse Specialist - Specialized Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Recruiter - HEA",
-    "framework": "HC30"
+   "jobTitle": "Clinical Supervisor - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Recruiter, Senior - HEA",
-    "framework": "HC30"
+   "jobTitle": "Discharge Planner",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Recruitment Manager - HEA",
-    "framework": "HC30"
+   "jobTitle": "Office Manager",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Registered Dietitian",
-    "framework": "HC30"
+   "jobTitle": "Head Nurse, Quality Improvement - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Registered Nurse, Psychiatric - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Rehabilitation Services Supervisor - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Rehabilitation Counselor",
-    "framework": "HC30"
+   "jobTitle": "Team Leader - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Rehabilitation Director",
-    "framework": "HC30"
+   "jobTitle": "Utilization Review Manager",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Rehabilitation Services Manager",
-    "framework": "HC30"
+   "jobTitle": "Account Executive - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Rehabilitation Services Supervisor",
-    "framework": "HC30"
+   "jobTitle": "Art Therapist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Rehabilitation Services Supervisor - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Bereavement Coordinator",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Reimbursement Services Director - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Compliance Coordinator - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Residential Assistant",
-    "framework": "HC30"
+   "jobTitle": "Chaplain",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Respiratory Therapist - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Dance Therapist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Safety Specialist",
-    "framework": "HC30"
+   "jobTitle": "Dental Laboratory Technician",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Sales Administrator - HEA",
-    "framework": "HC30"
+   "jobTitle": "Dietitian - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Sales and Marketing Director - HEA",
-    "framework": "HC30"
+   "jobTitle": "Home Care Aide, Senior",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Sales Representative - HEA",
-    "framework": "HC30"
+   "jobTitle": "Registered Nurse, Psychiatric - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Security Guard - HEA",
-    "framework": "HC30"
+   "jobTitle": "Speech and Language Pathologist - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Security Supervisor - HEA",
-    "framework": "HC30"
+   "jobTitle": "Staff Nurse - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Skills Administrator - HEA",
-    "framework": "HC30"
+   "jobTitle": "Intake RN",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Skills Specialist - HEA",
-    "framework": "HC30"
+   "jobTitle": "Intake Services Representative",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Social Worker � HEA",
-    "framework": "HC30"
+   "jobTitle": "Medical Social Worker",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Software Engineer - HEA",
-    "framework": "HC30"
+   "jobTitle": "Music Therapist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Software Engineer, Senior - HEA",
-    "framework": "HC30"
+   "jobTitle": "Nursing Education Coordinator - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Speech and Language Pathologist",
-    "framework": "HC30"
+   "jobTitle": "Occupational Therapist - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Speech and Language Pathologist - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Optometrist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Speech and Language Pathology Director",
-    "framework": "HC30"
+   "jobTitle": "Orthoptist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Speech and Language Therapy Supervisor",
-    "framework": "HC30"
+   "jobTitle": "Pedorthist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Pharmacist - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN",
-    "framework": "HC30"
+   "jobTitle": "Physical Therapist - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Behavior Health Acute Inpatient",
-    "framework": "HC30"
+   "jobTitle": "Rehabilitation Counselor",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Behavior Health Outpatient",
-    "framework": "HC30"
+   "jobTitle": "Recruiter - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Burn",
-    "framework": "HC30"
+   "jobTitle": "Respiratory Therapist - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Cardiac Rehabilitation",
-    "framework": "HC30"
+   "jobTitle": "Surgical Neurophysiologist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - CCU",
-    "framework": "HC30"
+   "jobTitle": "Staff Nurse, RN, Pediatrics - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Certified Nurse Assistant (CNA)",
-    "framework": "HC30"
+   "jobTitle": "Volunteer Coordinator",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Chief Nursing Officer",
-    "framework": "HC30"
+   "jobTitle": "Aide Coordinator - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Clinic",
-    "framework": "HC30"
+   "jobTitle": "Athletic Trainer",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Clinical Education Supervisor",
-    "framework": "HC30"
+   "jobTitle": "Case Worker",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Clinical Educator",
-    "framework": "HC30"
+   "jobTitle": "Dental Hygienist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Critical Care",
-    "framework": "HC30"
+   "jobTitle": "Dosimetrist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Day Surgery",
-    "framework": "HC30"
+   "jobTitle": "Home Care Aide, Junior",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Emergency Room",
-    "framework": "HC30"
+   "jobTitle": "Histologic Technician",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Flight Transport",
-    "framework": "HC30"
+   "jobTitle": "Licensed Practical Nurse - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Geriatric",
-    "framework": "HC30"
+   "jobTitle": "Intake Coordinator - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Infection Control",
-    "framework": "HC30"
+   "jobTitle": "Medical Secretary",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Infusion Therapy",
-    "framework": "HC30"
+   "jobTitle": "Medical Records Clerk - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Intensive Care Unit",
-    "framework": "HC30"
+   "jobTitle": "Nursing Assistant - Allied Healthcare Services",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Interventional Radiology",
-    "framework": "HC30"
+   "jobTitle": "Ophthalmic Technician",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Intraoperative",
-    "framework": "HC30"
+   "jobTitle": "Paramedic",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Medical Surgical",
-    "framework": "HC30"
+   "jobTitle": "Physician Assistant",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Monitor Tech",
-    "framework": "HC30"
+   "jobTitle": "Surgical Technician",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Newborn Nursery",
-    "framework": "HC30"
+   "jobTitle": "Behavioral Health Executive",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - NICU",
-    "framework": "HC30"
+   "jobTitle": "Behavioral Health Director",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Nursing Director, Facility or Region",
-    "framework": "HC30"
+   "jobTitle": "Psychological Services Director",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Obstetrics",
-    "framework": "HC30"
+   "jobTitle": "Psychologist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Occupational Health",
-    "framework": "HC30"
+   "jobTitle": "Psychiatrist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Oncology",
-    "framework": "HC30"
+   "jobTitle": "Pediatric Psychiatrist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Operating Room",
-    "framework": "HC30"
+   "jobTitle": "Intake Coordinator",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Outpatient Care",
-    "framework": "HC30"
+   "jobTitle": "Staff Nurse - RN - Psychiatric Unit",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - PACU",
-    "framework": "HC30"
+   "jobTitle": "Chief Medical Technologist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Patient Navigator",
-    "framework": "HC30"
+   "jobTitle": "Laboratory Services Director",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Patient Sitter",
-    "framework": "HC30"
+   "jobTitle": "Laboratory Manager",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Pediatrics",
-    "framework": "HC30"
+   "jobTitle": "Laboratory Assistant III",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Pediatrics ICU",
-    "framework": "HC30"
+   "jobTitle": "Laboratory Supervisor III",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Phone Triage",
-    "framework": "HC30"
+   "jobTitle": "Medical Laboratory Technician, Sr.",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Psychiatric Unit",
-    "framework": "HC30"
+   "jobTitle": "Cytotechnologist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Recovery Room",
-    "framework": "HC30"
+   "jobTitle": "Cytogenetic Technologist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Regional Director, Clinical Education Resource Center",
-    "framework": "HC30"
+   "jobTitle": "Laboratory Assistant II",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Rehabilitation",
-    "framework": "HC30"
+   "jobTitle": "Laboratory Supervisor I",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Renal Dialysis",
-    "framework": "HC30"
+   "jobTitle": "Laboratory Supervisor II",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Research",
-    "framework": "HC30"
+   "jobTitle": "Medical Laboratory Technician",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Surgical First Assistant",
-    "framework": "HC30"
+   "jobTitle": "Medical Technologist (ASCP)",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Telemetry",
-    "framework": "HC30"
+   "jobTitle": "Medical Technologist - Hematology",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse - RN - Women's Care",
-    "framework": "HC30"
+   "jobTitle": "Medical Technologist - Microbiology",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Staff Nurse, RN, Pediatrics - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Phlebotomist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Support Services Manager - HEA",
-    "framework": "HC30"
+   "jobTitle": "Histology Technician",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Surgeon - Cardiothoracic",
-    "framework": "HC30"
+   "jobTitle": "Laboratory Assistant I",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Surgeon - Heart Transplant",
-    "framework": "HC30"
+   "jobTitle": "Pathology Assistant",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Surgical Neurophysiologist",
-    "framework": "HC30"
+   "jobTitle": "Medical Records Director",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Surgical Technician",
-    "framework": "HC30"
+   "jobTitle": "Medical Records Manager",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "System Chief Nursing Officer",
-    "framework": "HC30"
+   "jobTitle": "Medical Records Coding Manager",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Systems Engineer - HEA",
-    "framework": "HC30"
+   "jobTitle": "Medical Records Supervisor",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Systems Engineer, Senior - HEA",
-    "framework": "HC30"
+   "jobTitle": "Coding Compliance Specialist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Team Leader - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "Medical Records Coding Technician",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Temporary Employment Coordinator - HEA",
-    "framework": "HC30"
+   "jobTitle": "Medical Records Research Coordinator",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Training Administrator - HEA",
-    "framework": "HC30"
+   "jobTitle": "Medical Records Transcriptionist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Training and Clinical Education Director",
-    "framework": "HC30"
+   "jobTitle": "Medical Records Technician",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Training Manager - HEA",
-    "framework": "HC30"
+   "jobTitle": "Medical Records Clerk",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Transplant Nurse Coordinator",
-    "framework": "HC30"
+   "jobTitle": "System Chief Nursing Officer",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Treasurer - HEA",
-    "framework": "HC30"
+   "jobTitle": "Chief Nursing Executive/Regions",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Ultrasound Technologist",
-    "framework": "HC30"
+   "jobTitle": "Staff Nurse - RN - Chief Nursing Officer",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Unit Clerk",
-    "framework": "HC30"
+   "jobTitle": "Head of Nursing",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Utilization Review Manager",
-    "framework": "HC30"
+   "jobTitle": "Maternity Services Director",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Veteran Service Representative - HEA",
-    "framework": "HC30"
+   "jobTitle": "Nursing Director",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Vocational Rehabilitation Counselor",
-    "framework": "HC30"
+   "jobTitle": "Nursing Education Director",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Volunteer Coordinator",
-    "framework": "HC30"
+   "jobTitle": "Clinical Nurse Specialist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Volunteer Services Manager - Allied Healthcare Services",
-    "framework": "HC30"
+   "jobTitle": "House Supervisor",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Ward Housekeeper",
-    "framework": "HC30"
+   "jobTitle": "Staff Nurse - RN - Nursing Director, Facility or Region",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Property General Manager",
-    "framework": "HOS10"
+   "jobTitle": "Nursing Supervisor",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Director of Housekeeping",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Regional Director, Clinical Education Resource Center",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Maintenance Manager",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Clinical Education Supervisor",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Housekeeping Manager - HOS",
-    "framework": "HOS10"
+   "jobTitle": "Chief Nurse Anesthetist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Landscaping Manager",
-    "framework": "HOS10"
+   "jobTitle": "Head Nurse",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Laundry Manager",
-    "framework": "HOS10"
+   "jobTitle": "Head Nurse - CCU",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Housekeeping Supervisor",
-    "framework": "HOS10"
+   "jobTitle": "Head Nurse - Emergency Room",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Electrician",
-    "framework": "HOS10"
+   "jobTitle": "Head Nurse - Industrial",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Health Club Locker Room Attendant",
-    "framework": "HOS10"
+   "jobTitle": "Head Nurse - Infection Control",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Housekeeper - HOS",
-    "framework": "HOS10"
+   "jobTitle": "Head Nurse - Intensive Care Unit",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Laundry Worker - HOS",
-    "framework": "HOS10"
+   "jobTitle": "Head Nurse - Nursing Home",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Grounds Maintenance Specialist",
-    "framework": "HOS10"
+   "jobTitle": "Head Nurse - Obstetrics",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Chief Executive Officer -  Food Services",
-    "framework": "HOS10"
+   "jobTitle": "Head Nurse - Occupational Health",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "District Manager",
-    "framework": "HOS10"
+   "jobTitle": "Head Nurse - Oncology",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Food and Beverage Controller",
-    "framework": "HOS10"
+   "jobTitle": "Head Nurse - Operating Room",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Restaurant General Manager",
-    "framework": "HOS10"
+   "jobTitle": "Head Nurse - Pediatrics",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Multi-Unit Manager",
-    "framework": "HOS10"
+   "jobTitle": "Head Nurse - Psychiatric Unit",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Director of Operations - Food Services",
-    "framework": "HOS10"
+   "jobTitle": "Nursing Education Coordinator",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Food and Beverage Manager",
-    "framework": "HOS10"
+   "jobTitle": "Nursing Services Instructor",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Executive Chef",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Clinical Educator",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Restaurant Manager",
-    "framework": "HOS10"
+   "jobTitle": "Certified Nurse Anesthetist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Manager, Back of House",
-    "framework": "HOS10"
+   "jobTitle": "Certified Nurse Midwife",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Kitchen Manager",
-    "framework": "HOS10"
+   "jobTitle": "Charge Nurse - HTH",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Food and Beverage Buyer",
-    "framework": "HOS10"
+   "jobTitle": "Nurse Practitioner - HTH",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Manager, Front of House",
-    "framework": "HOS10"
+   "jobTitle": "Nurse Practitioner - Emergency Room",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Shift Manager - HOS",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - PACU",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Head Waiter",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Patient Navigator",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Bartender",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Pediatrics ICU",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Food and Beverage Cashier Shift Supervisor",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Rehabilitation",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Caterer",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Sous-Chef",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Burn",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Pastry Chef",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Behavior Health Acute Inpatient",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Hourly, Back of House",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Behavior Health Outpatient",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Bar Back",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - CCU",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Food and Beverage Cashier",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Critical Care",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Line Cook",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Clinic",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Prep Cook",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Cardiac Rehabilitation",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Hourly, Front of House",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Day Surgery",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Food Server",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Emergency Room",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Host/Hostess",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Flight Transport",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Busser",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Geriatric",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Hotel General Manager",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Infection Control",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Security Director",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Intraoperative",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Hotel Manager",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Interventional Radiology",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Front Office Manager",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Infusion Therapy",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Front Desk Manager",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Intensive Care Unit",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Guest Services Manager ",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Medical Surgical",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Room Service Manager",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - NICU",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Front Desk Supervisor ",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Newborn Nursery",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Guest Services Supervisor",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Obstetrics",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Room Service Supervisor",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Outpatient Care",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Front Desk Clerk",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Occupational Health",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Security Guard - HOS",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Oncology",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Marketing Director - HOS",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Operating Room",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Sales Director - HOS",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Pediatrics",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Channel Manager",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Phone Triage",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Marketing Development Manager - HOS",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Research",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Marketing Communications Manager - HOS",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Renal Dialysis",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Sales Manager - HOS",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Recovery Room",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Marketing Communications Specialist - HOS",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Surgical First Assistant",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Marketing Research Analyst - HOS",
-    "framework": "HOS10"
+   "jobTitle": "Staff Nurse - RN - Telemetry",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Marketing Administrator - HOS",
-    "framework": "HOS10"
+   "jobTitle": "Transplant Nurse Coordinator",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "",
-    "framework": ""
+   "jobTitle": "Staff Nurse - RN - Women's Care",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Architecture Services Director",
-    "framework": "HTC2"
+   "jobTitle": "Clinical Documentation Specialist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Architecture Services Manager, Group",
-    "framework": "HTC2"
+   "jobTitle": "Certified Nursing Assistant",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Network Architect, Master",
-    "framework": "HTC2"
+   "jobTitle": "Staff Nurse - RN - Certified Nurse Assistant (CNA)",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Architecture Project Manager",
-    "framework": "HTC2"
+   "jobTitle": "Licensed Practical Nurse",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Architect, Senior",
-    "framework": "HTC2"
+   "jobTitle": "Staff Nurse - RN - Monitor Tech",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Technical Specialist, Senior",
-    "framework": "HTC2"
+   "jobTitle": "Nursing Assistant",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Network Architect",
-    "framework": "HTC2"
+   "jobTitle": "Nursing Unit Secretary",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Technical Specialist",
-    "framework": "HTC2"
+   "jobTitle": "Staff Nurse - RN - Patient Sitter",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Equipment Specialist",
-    "framework": "HTC2"
+   "jobTitle": "Pharmacy Director",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Technical Specialist, Junior",
-    "framework": "HTC2"
+   "jobTitle": "Pharmacy Director, Assistant",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Additional Competencies",
-    "framework": "HTC2"
+   "jobTitle": "Pharmacist Manager",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Engineering Services Director",
-    "framework": "HTC2"
+   "jobTitle": "Pharmacist - Retail",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Engineering Services Manager, Group",
-    "framework": "HTC2"
+   "jobTitle": "Pharmacy Technician Supervisor",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Engineer, Master",
-    "framework": "HTC2"
+   "jobTitle": "Clinical Pharmacist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Engineering Project Manager",
-    "framework": "HTC2"
+   "jobTitle": "Drug Safety/Medical Information Specialist III",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Engineer, Senior",
-    "framework": "HTC2"
+   "jobTitle": "Drug Safety/Medical Information Specialist IV",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "RF Engineer, Senior",
-    "framework": "HTC2"
+   "jobTitle": "Nuclear Pharmacist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Infrastructure Specialist, Senior",
-    "framework": "HTC2"
+   "jobTitle": "Online Pharmacist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Network Engineer",
-    "framework": "HTC2"
+   "jobTitle": "Pharmacist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "RF Engineer",
-    "framework": "HTC2"
+   "jobTitle": "Drug Safety/Medical Information Specialist I",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Infrastructure Specialist",
-    "framework": "HTC2"
+   "jobTitle": "Drug Safety/Medical Information Specialist II",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "RF Infrastructure Technician",
-    "framework": "HTC2"
+   "jobTitle": "Nuclear Medicine Technologist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Infrastructure Technician",
-    "framework": "HTC2"
+   "jobTitle": "Pharmacy Service Clerk",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Operations Executive",
-    "framework": "HTC2"
+   "jobTitle": "Pharmacy Technician I",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Operations Director",
-    "framework": "HTC2"
+   "jobTitle": "Pharmacy Technician II",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Capacity Planning Manager, Global",
-    "framework": "HTC2"
+   "jobTitle": "Procurement Director - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Operations Manager, Group",
-    "framework": "HTC2"
+   "jobTitle": "Contracts Administration Manager - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Disaster Recovery Planning Manager, Global",
-    "framework": "HTC2"
+   "jobTitle": "Central Supply Manager",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Operations Engineer, Master",
-    "framework": "HTC2"
+   "jobTitle": "Procurement Manager",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Operations Consultant, Master",
-    "framework": "HTC2"
+   "jobTitle": "Contracts Administration Specialist, Senior - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Operations Manager",
-    "framework": "HTC2"
+   "jobTitle": "Procurement Specialist, Senior - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Capacity Planner, Senior",
-    "framework": "HTC2"
+   "jobTitle": "Contracts Administration Specialist - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Operations Engineer, Senior",
-    "framework": "HTC2"
+   "jobTitle": "Procurement Specialist - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Wireless Networks Engineer, Senior",
-    "framework": "HTC2"
+   "jobTitle": "Procurement Administrator - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Disaster Recovery Planner, Senior",
-    "framework": "HTC2"
+   "jobTitle": "Contracts Administrator - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Operations Consultant",
-    "framework": "HTC2"
+   "jobTitle": "Occupational Therapy Director",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Capacity Planner",
-    "framework": "HTC2"
+   "jobTitle": "Physical Therapy Director",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Operator, Senior",
-    "framework": "HTC2"
+   "jobTitle": "Recreational Therapy Director",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Network Technician",
-    "framework": "HTC2"
+   "jobTitle": "Rehabilitation Director",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Network Administrator",
-    "framework": "HTC2"
+   "jobTitle": "Rehabilitation Services Manager",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Network Operator",
-    "framework": "HTC2"
+   "jobTitle": "Occupational Therapy Supervisor",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Quality Assurance and Compliance Director",
-    "framework": "HTC2"
+   "jobTitle": "Physical Therapy Supervisor",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Compliance Manager, Global",
-    "framework": "HTC2"
+   "jobTitle": "Rehabilitation Services Supervisor",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Quality Assurance Manager, Group",
-    "framework": "HTC2"
+   "jobTitle": "Massage Therapist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Supplier Quality Manager, Global",
-    "framework": "HTC2"
+   "jobTitle": "Occupational Therapist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Testing Manager",
-    "framework": "HTC2"
+   "jobTitle": "Physical Therapist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Compliance Specialist, Master",
-    "framework": "HTC2"
+   "jobTitle": "Recreational Therapist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Testing Specialist, Master",
-    "framework": "HTC2"
+   "jobTitle": "Vocational Rehabilitation Counselor",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Quality Assurance Manager",
-    "framework": "HTC2"
+   "jobTitle": "Certified Occupational Therapist Assistant",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Compliance Specialist, Senior",
-    "framework": "HTC2"
+   "jobTitle": "Exercise Physiologist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Quality Assurance Specialist, Senior",
-    "framework": "HTC2"
+   "jobTitle": "Exercise Specialist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Testing Specialist, Senior",
-    "framework": "HTC2"
+   "jobTitle": "Licensed Physical Therapist Assistant",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Supplier Quality Analyst, Senior",
-    "framework": "HTC2"
+   "jobTitle": "Physical Therapy Attendant",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Compliance Specialist",
-    "framework": "HTC2"
+   "jobTitle": "Sales and Marketing Director - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Quality Assurance Specialist",
-    "framework": "HTC2"
+   "jobTitle": "Account Executive - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Testing Specialist, Junior",
-    "framework": "HTC2"
+   "jobTitle": "Inside Sales Manager - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Supplier Quality Analyst",
-    "framework": "HTC2"
+   "jobTitle": "Marketing Development Manager - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Quality Assurance Administrator",
-    "framework": "HTC2"
+   "jobTitle": "Marketing Communications Manager - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Testing Technician",
-    "framework": "HTC2"
+   "jobTitle": "Advertising/PR Manager - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Research and Development Director",
-    "framework": "HTC2"
+   "jobTitle": "Marketing Communications Specialist - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Product Development Manager, Group",
-    "framework": "HTC2"
+   "jobTitle": "Sales Representative - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Research Manager, Group",
-    "framework": "HTC2"
+   "jobTitle": "Marketing Research Analyst - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Product Development Engineer, Master",
-    "framework": "HTC2"
+   "jobTitle": "Marketing Administrator - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Research Engineer, Master",
-    "framework": "HTC2"
+   "jobTitle": "Sales Administrator - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Product Development Team Leader",
-    "framework": "HTC2"
+   "jobTitle": "Customer Support Manager - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Product Development Engineer, Senior",
-    "framework": "HTC2"
+   "jobTitle": "Support Services Manager - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Research Engineer, Senior",
-    "framework": "HTC2"
+   "jobTitle": "Customer Service Representative, Senior - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Supply Chain Specialist, Senior",
-    "framework": "HTC2"
+   "jobTitle": "Mail/Copy Supervisor - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Technical Specialist, Senior",
-    "framework": "HTC2"
+   "jobTitle": "Office Supervisor - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Product Development Engineer",
-    "framework": "HTC2"
+   "jobTitle": "Patient Care Manager",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Research Engineer",
-    "framework": "HTC2"
+   "jobTitle": "Biomedical Photographer",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Supply Chain Specialist",
-    "framework": "HTC2"
+   "jobTitle": "Clinical Documentation Improvement (CDI) Auditor",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Technical Specialist",
-    "framework": "HTC2"
+   "jobTitle": "Discharge Coordinator",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Product Development Specialist, Junior",
-    "framework": "HTC2"
+   "jobTitle": "Mail Clerk, Senior - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Security Director",
-    "framework": "HTC2"
+   "jobTitle": "Medical Interpreter",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Security Manager, Global",
-    "framework": "HTC2"
+   "jobTitle": "Patient Care Coordinator",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Security Architect, Master",
-    "framework": "HTC2"
+   "jobTitle": "Customer Service Representative - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Security Specialist, Master",
-    "framework": "HTC2"
+   "jobTitle": "Social Worker HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Security Manager",
-    "framework": "HTC2"
+   "jobTitle": "Veteran Service Representative - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Cyber Threat Specialist",
-    "framework": "HTC2"
+   "jobTitle": "Administrative Assistant - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Security Architect, Senior",
-    "framework": "HTC2"
+   "jobTitle": "Biomedical Engineering Technician",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Security Specialist, Senior",
-    "framework": "HTC2"
+   "jobTitle": "Customer Service Associate - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Security Administrator, Senior",
-    "framework": "HTC2"
+   "jobTitle": "Mail Clerk - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Security Specialist",
-    "framework": "HTC2"
+   "jobTitle": "Patient Care Assistant",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Security Technology Specialist",
-    "framework": "HTC2"
+   "jobTitle": "Patient Transporter",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Security Administrator",
-    "framework": "HTC2"
+   "jobTitle": "Residential Assistant",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Network Security Specialist, Junior",
-    "framework": "HTC2"
+   "jobTitle": "Unit Clerk",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Customer Support Director",
-    "framework": "HTC2"
+   "jobTitle": "Graduate Medical Education Director",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Customer Support Manager - Region",
-    "framework": "HTC2"
+   "jobTitle": "Training and Clinical Education Director",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Product Manager",
-    "framework": "HTC2"
+   "jobTitle": "Clinical Education Manager",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Customer Support Specialist, Master",
-    "framework": "HTC2"
+   "jobTitle": "Training Manager - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Product Specialist, Master",
-    "framework": "HTC2"
+   "jobTitle": "Classroom Trainer - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Customer Support Manager",
-    "framework": "HTC2"
+   "jobTitle": "Learning Specialist - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Customer Support Specialist, Senior",
-    "framework": "HTC2"
+   "jobTitle": "Skills Specialist - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Field Support Specialist, Senior",
-    "framework": "HTC2"
+   "jobTitle": "Instructor - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Product Specialist, Senior",
-    "framework": "HTC2"
+   "jobTitle": "Skills Administrator - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Customer Support Specialist",
-    "framework": "HTC2"
+   "jobTitle": "Training Administrator - HEA",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Field Support Specialist",
-    "framework": "HTC2"
+   "jobTitle": "Speech and Language Pathology Director",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Product Specialist",
-    "framework": "HTC2"
+   "jobTitle": "Audiology Supervisor",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Customer Support Specialist, Junior",
-    "framework": "HTC2"
+   "jobTitle": "Speech and Language Therapy Supervisor",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Telecom Field Support Technician",
-    "framework": "HTC2"
+   "jobTitle": "Audiologist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Wireless Networks Engineer, Master",
-    "framework": "HTC2"
+   "jobTitle": "Speech and Language Pathologist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Wireless Networks Manager",
-    "framework": "HTC2"
+   "jobTitle": "Dispensing Audiologist",
+   "framework": "Healthcare"
   },
   {
-    "jobTitle": "Wireless Network Engineering Project Manager",
-    "framework": "HTC2"
+   "jobTitle": "Property General Manager",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Wireless Network Engineer, Senior",
-    "framework": "HTC2"
+   "jobTitle": "Director of Housekeeping",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Wireless Network Performance Engineer",
-    "framework": "HTC2"
+   "jobTitle": "Maintenance Manager",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Wireless Transport Engineer",
-    "framework": "HTC2"
+   "jobTitle": "Housekeeping Manager - HOS",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Wireless Network Engineer",
-    "framework": "HTC2"
+   "jobTitle": "Landscaping Manager",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Cell Technician, Senior",
-    "framework": "HTC2"
+   "jobTitle": "Laundry Manager",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Wireless Network Engineer, Junior",
-    "framework": "HTC2"
+   "jobTitle": "Housekeeping Supervisor",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Cell Technician",
-    "framework": "HTC2"
+   "jobTitle": "Electrician - HOS",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Product Development Director - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Health Club Locker Room Attendant",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Research and Development Director - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Housekeeper - HOS",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Chip Development Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Laundry Worker - HOS",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Product Development Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Grounds Maintenance Specialist",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Product Development Manager, Group - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Chief Executive Officer - Food Services",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Research and Development Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "District Manager",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Strategic Product Planning Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Food and Beverage Controller",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Engineering Master - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Restaurant General Manager",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Materials Engineer, Master - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Multi-Unit Manager",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Chip Development Engineer, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Director of Operations - Food Services",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Product Development Supervisor - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Food and Beverage Manager",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Power Design Engineer, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Executive Chef",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Design Engineer, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Restaurant Manager",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Materials Engineer, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Manager, Back of House",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Product Development Engineer, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Food and Beverage Buyer",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Chip Development Engineer, Junior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Manager, Front of House",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Power Design Engineer, Junior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Kitchen Manager",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Design Engineer - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Shift Manager - HOS",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Packaging Engineer - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Head Waiter",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Product Development Engineer - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Bartender",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Materials Engineer - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Food and Beverage Cashier Shift Supervisor",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Testing Technician - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Caterer",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Drafter, Junior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Sous-Chef",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Engineer, Junior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Pastry Chef",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Testing Technician, Junior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Hourly, Back of House",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Engineering Director - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Bar Back",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Engineering Manager, Group - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Food and Beverage Cashier",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Engineering Project Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Line Cook",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Storage Engineering Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Prep Cook",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Industrial Engineer, Master - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Hourly, Front of House",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Mechanical Engineer, Master - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Food Server",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Production Engineer, Master - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Host/Hostess",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Manufacturing Engineer Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Busser",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Production Engineering Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Hotel General Manager",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Firmware Engineer, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Security Director",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Storage Engineer, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Hotel Manager",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Engineer, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Front Desk Manager",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Certification Engineer, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Front Office Manager",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Environmental Engineer, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Room Service Manager",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Industrial Engineer, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Guest Services Manager",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Mechanical Engineer, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Front Desk Supervisor",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Manufacturing Engineer, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Room Service Supervisor",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Manufacturing Process Engineer, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Guest Services Supervisor",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Production Engineer, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Front Desk Clerk",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Firmware Engineer, Junior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Security Guard - HOS",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Storage Engineer, Junior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Marketing Director - HOS",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Production Engineering Supervisor - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Sales Director - HOS",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Industrial Engineer - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Channel Manager",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Mechanical Engineer - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Marketing Communications Manager - HOS",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Manufacturing Engineer - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Marketing Development Manager - HOS",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Manufacturing Process Specialist - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Sales Manager - HOS",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Manufacturing Process Engineer - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Marketing Communications Specialist - HOS",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Production Engineer/Specialist - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Marketing Research Analyst - HOS",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Facilities Director - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Marketing Administrator - HOS",
+   "framework": "Hospitality"
   },
   {
-    "jobTitle": "Hardware Equipment Maintenance Manager",
-    "framework": "HTH 2.0"
+   "jobTitle": "Agile Coach",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Plant General Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Agile Engineering Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Plant Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Scrum Master",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Plant Maintenance Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Scrum Product Owner",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Plant Operation Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Software Engineer, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Facilities Supervisor - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Software Engineer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Plant Supervisor - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Scrum Team Member",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Security Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Director of Application Services",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Facility Engineer - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Director of Consulting Services",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Facilities Support Technician - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Application Architect, Master",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Hardware Equipment Maintenance Specialist",
-    "framework": "HTH 2.0"
+   "jobTitle": "Application Developer, Master",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Security Specialist - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Group Application Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Hardware General Laborer",
-    "framework": "HTH 2.0"
+   "jobTitle": "Business Systems Consultant",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Field Service Director - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "eBusiness Consultant",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Product Support Director - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Group Project Manager (AS)",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Field Service Manager, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "IT Product Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Field Service Manager-HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Application Architect",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Product Support Manager, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Web Application Architect",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Storage Support Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Application Developer, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Field Service Engineer, Master - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Web Application Developer, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Product Support Specialist, Master - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Application Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Product Support Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Business Systems Analyst, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Sustaining Engineer, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Client/Server Programmer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Storage Support Specialist, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Documentation Specialist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Field Service Specialist/Engineer, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "eBusiness Specialist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Product Support Specialist, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Systems Integrator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Sustaining Engineer, Junior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Project Manager (AS)",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Field Service Supervisor - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Release Manager (Applications)",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Storage Support Specialist, Junior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Testing Specialist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Field Service Specialist/Engineer - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "User Interface Specialist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Product Support Specialist - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Application Developer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Field Service Specialist/Engineer, Junior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Web Application Developer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Product Support Specialist, Junior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Project Team Leader (AS)",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Operations Director - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Business Systems Analyst",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Manufacturing Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Client/Server Programmer, Junior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Operations Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Testing Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Manufacturing Process Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "User Interface Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Production Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Application Developer, Junior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Industrial Engineering Technician, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Application Librarian",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Manufacturing Operations Engineer, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Business Systems Analyst, Junior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Manufacturing Technician, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Client/Server Programmer, Trainee",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Manufacturing Process Specialist, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Business Development Director - Enterprise Consulting",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Production Support Specialist, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Sales Director-Enterprise Information Management",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Shift Supervisor - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "ERP Business Analyst, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Production Supervisor - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "ERP Basis Consultant",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Capacity Planner - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "CRM Specialist, Master",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Industrial Engineering Technician - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "ERP Specialist, Master",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Inspector - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "ERP Solution Architect, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Manufacturing Technician - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "ERP Technical Quality Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Production Support Specialist - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "ERP Business Analyst",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Assembly Technician, Junior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "ERP BI Solution Engineer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Electronics Technician, Junior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "CRM Architect, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Manufacturing Technician, Junior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "CRM Integration Specialist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Machine Operator/Machinist, Junior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "ERP Analyst, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Quality Assurance Director - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "ERP Programmer, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Quality Assurance Manager, Group - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "ERP Implementation Consultant",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Quality Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "ERP Network Engineer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Testing Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "ERP Presales Engineer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Storage Testing Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "ERP Quality Engineer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Quality Assurance Architect, Master - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Software Engineer - Relational Database Management System (RDBMS)",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Testing Specialist, Master - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "ERP Technical Consultant",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Quality Assurance Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Transportation Management Consultant",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Testing Supervisor- HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "CRM Business Data Analyst",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Storage Test Engineer, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "ERP Programmer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Quality Assurance Specialist, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "ERP Implementation Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Quality Technician, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "ERP Technical Support Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Quality Analyst, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "CRM Application Administrator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Testing Specialist, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "ERP Analyst, Junior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Quality Team Leader - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Business Analytics Director",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Storage Test Engineer, Junior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Business Analytics Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Quality Assurance Specialist - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Business Analytics Consultant, Master",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Quality Technician - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Business Analytics Consultant",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Quality Analyst - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Data Mining Specialist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Supplier Quality Analyst - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Business Analytics Software Specialist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Testing Specialist - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Business Analytics Architect, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Quality Assurance Specialist, Junior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Business Analytics Developer, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Quality Coordinator, Junior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Business Analytics Software Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Quality Analyst, Junior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Business Analytics Developer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Testing Specialist, Junior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Chief Data Officer - Big Data",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Manufacturing Safety Director - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Big Data Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Manufacturing Safety Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Data Scientist - Big Data",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Environment Protection Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Application Architect - Big Data",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Dangerous Goods Safety Advisor, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Application Developer, Senior - Big Data",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Health and Safety Specialist, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Data Architect - Big Data",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Materials Handling Specialist, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Data Visualization Specialist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Pollution Control Specialist - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Application Developer - Big Data",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Manufacturing Safety Analyst - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Data Engineer - Big Data",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Manufacturing Safety Technician - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "System Administrator - Big Data",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Manufacturing Safety Administrator, Junior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Director of Business Unit Support",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Distribution Director - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Call Center Architect",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Logistics Management Director - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Customer Support Consultant",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Supply Chain Director - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Decision Support Consultant",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Hardware Distribution Manager",
-    "framework": "HTH 2.0"
+   "jobTitle": "Field Support Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Distribution Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "IT Generalist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Logistics Planning Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Help Desk Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Production Planning Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Relationship Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Supply Chain Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Site Manager, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Supplier Quality Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Call Center Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Supply Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Consultant, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Warehouse Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Customer Support Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Distribution Center Supervisor - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Decision Support Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Inventory Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "EDI Coordinator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Hardware Distribution Specialist, Senior",
-    "framework": "HTH 2.0"
+   "jobTitle": "Field Support Specialist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Materials Planner, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "IT Generalist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Hardware Distribution Specialist, Junior",
-    "framework": "HTH 2.0"
+   "jobTitle": "Help Desk Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Logistics Analyst - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Site Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Materials Coordinator - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "EDI Support",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Supply Chain Specialist - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Field Engineer, Software",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Packaging Machine Operator - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Help Desk Specialist, Junior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Inventory Control Clerk, Junior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "PC Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Logistics Clerk, Junior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Field Support Specialist, Junior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Traffic Clerk - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Director of Cloud Computing Operations",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Shipping/Receiving Clerk - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Director of Cloud Services",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Global Sourcing Director - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Cloud Computing Application Architect, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Commodity Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Risk & IT Compliance Manager - Cloud Computing",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "DELETE Purchasing Manager, Senior-HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Cloud Resource Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Purchasing Manager - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Cloud Integration Architect, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Purchasing Agent -New Product, Senior-HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Cloud Integration Engineer, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Purchasing Agent, Senior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Cloud Computing Infrastructure Architect, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Purchasing Specialist - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Cloud Security Architect, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Purchasing Clerk - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Product Manager - Cloud Computing",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Commodity Buyer - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "System Engineer, Senior - Cloud Computing",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Purchasing Clerk, Junior - HTH",
-    "framework": "HTH 2.0"
+   "jobTitle": "Cloud Computing Application Architect",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Distribution Director",
-    "framework": "HTS40"
+   "jobTitle": "Cloud Computing Solution Architect",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Distribution Specialist, Master",
-    "framework": "HTS40"
+   "jobTitle": "Cloud Integration Architect",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Distribution Manager",
-    "framework": "HTS40"
+   "jobTitle": "Cloud Computing Infrastructure Architect",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Distribution Specialist, Senior",
-    "framework": "HTS40"
+   "jobTitle": "Cloud Integration Support, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Distribution Supervisor",
-    "framework": "HTS40"
+   "jobTitle": "Cloud Security Architect",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Distribution Specialist",
-    "framework": "HTS40"
+   "jobTitle": "Cloud Security Engineer, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Distribution Specialist, Junior",
-    "framework": "HTS40"
+   "jobTitle": "System Engineer - Cloud Computing",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Technical Documentation Director",
-    "framework": "HTS40"
+   "jobTitle": "Software Engineer, Senior - Cloud Computing",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Technical Documentation Specialist, Master",
-    "framework": "HTS40"
+   "jobTitle": "Systems & Network Administrator - Cloud Computing",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Technical Documentation Manager",
-    "framework": "HTS40"
+   "jobTitle": "Cloud Storage Systems Engineer, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Technical Documentation Specialist, Senior",
-    "framework": "HTS40"
+   "jobTitle": "Data Center Facilities Technician",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Technical Writer, Senior - HTS",
-    "framework": "HTS40"
+   "jobTitle": "Cloud Integration Engineer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Web Technical Producer",
-    "framework": "HTS40"
+   "jobTitle": "Cloud Integration Support Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Technical Documentation Supervisor",
-    "framework": "HTS40"
+   "jobTitle": "Cloud Resource Management Technician",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Technical Documentation Specialist",
-    "framework": "HTS40"
+   "jobTitle": "Cloud Security Engineer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Technical Librarian",
-    "framework": "HTS40"
+   "jobTitle": "Software Engineer - Cloud Computing",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Technical Writer - HTS",
-    "framework": "HTS40"
+   "jobTitle": "Cloud Storage Systems Engineer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Technical Documentation Specialist, Junior",
-    "framework": "HTS40"
+   "jobTitle": "Director of Human Resources",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Development Director",
-    "framework": "HTS40"
+   "jobTitle": "Director of Training & Development",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Engineer - Web Expert",
-    "framework": "HTS40"
+   "jobTitle": "Budget Administration Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Development Specialist, Master",
-    "framework": "HTS40"
+   "jobTitle": "IT Competency Program Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Development Manager",
-    "framework": "HTS40"
+   "jobTitle": "Contracts-Vendor Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "User Interface Specialist, Senior - HTS",
-    "framework": "HTS40"
+   "jobTitle": "Finance & Administration Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Developer, Senior",
-    "framework": "HTS40"
+   "jobTitle": "Staff Development Consultant",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Application Programmer",
-    "framework": "HTS40"
+   "jobTitle": "Training Manager (IT)",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Integration Engineer",
-    "framework": "HTS40"
+   "jobTitle": "Workflow Architect",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Java Developer",
-    "framework": "HTS40"
+   "jobTitle": "Budget-Finance Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Mainframe Programmer",
-    "framework": "HTS40"
+   "jobTitle": "Competency Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Midrange Programmer",
-    "framework": "HTS40"
+   "jobTitle": "Contracts-Vendor Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Operating Systems Programmer",
-    "framework": "HTS40"
+   "jobTitle": "IT Training Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Developer - Games",
-    "framework": "HTS40"
+   "jobTitle": "IT Competency Program Administrator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Mobile Applications Developer",
-    "framework": "HTS40"
+   "jobTitle": "IT Administrative Assistant",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Systems Engineer - Cloud Computing - HTS",
-    "framework": "HTS40"
+   "jobTitle": "IT Training Administrator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "User Interface Specialist - HTS",
-    "framework": "HTS40"
+   "jobTitle": "Director of Organizational Data",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Developer",
-    "framework": "HTS40"
+   "jobTitle": "Business Intelligence Architect",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Web Software Developer",
-    "framework": "HTS40"
+   "jobTitle": "Data-Information Architect, Master",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Developer, Junior",
-    "framework": "HTS40"
+   "jobTitle": "Database Consultant, Master",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Client Services Director",
-    "framework": "HTS40"
+   "jobTitle": "Data Warehouse Architect, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Field Service Director",
-    "framework": "HTS40"
+   "jobTitle": "Data Warehouse Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Product Support Director",
-    "framework": "HTS40"
+   "jobTitle": "ETL Architect",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Customer Information Center Manager",
-    "framework": "HTS40"
+   "jobTitle": "Project Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Web Customer Service Manager",
-    "framework": "HTS40"
+   "jobTitle": "Information Architect",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Field Service Manager, Region",
-    "framework": "HTS40"
+   "jobTitle": "Data Warehouse Auditor",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Field Service Specialist, Master",
-    "framework": "HTS40"
+   "jobTitle": "Business Intelligence Developer, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Product Support Specialist, Master",
-    "framework": "HTS40"
+   "jobTitle": "Database Administrator, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Customer Information Center Supervisor",
-    "framework": "HTS40"
+   "jobTitle": "Database Developer, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Critical Situation Manager",
-    "framework": "HTS40"
+   "jobTitle": "Database Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Field Service Manager - HTS",
-    "framework": "HTS40"
+   "jobTitle": "Data Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Product Support Manager",
-    "framework": "HTS40"
+   "jobTitle": "Data Steward",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Systems Consultant/Engineer - Pre & Post Sales",
-    "framework": "HTS40"
+   "jobTitle": "ETL Developer, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Field Service Specialist, Senior",
-    "framework": "HTS40"
+   "jobTitle": "Information Analyst",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Product Support Specialist, Senior",
-    "framework": "HTS40"
+   "jobTitle": "Information Scientist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Field Service Supervisor",
-    "framework": "HTS40"
+   "jobTitle": "Data Modeler",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Field Service Specialist",
-    "framework": "HTS40"
+   "jobTitle": "Business Intelligence Developer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Product Support Specialist - HTS",
-    "framework": "HTS40"
+   "jobTitle": "Data Administrator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Client Technologies Technician",
-    "framework": "HTS40"
+   "jobTitle": "Database Administrator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Field Service Support Associate",
-    "framework": "HTS40"
+   "jobTitle": "Database Analyst, Junior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Product Support Specialist, Junior",
-    "framework": "HTS40"
+   "jobTitle": "Database Developer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Global Advertising Director",
-    "framework": "HTS40"
+   "jobTitle": "Data Transformation Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Channel Marketing Manager",
-    "framework": "HTS40"
+   "jobTitle": "Data Warehouse Developer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Content Publishing Manager",
-    "framework": "HTS40"
+   "jobTitle": "ETL Developer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Digital Marketing Manager",
-    "framework": "HTS40"
+   "jobTitle": "Information Analyst, Junior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Marketing Manager",
-    "framework": "HTS40"
+   "jobTitle": "Data Modeler, Junior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Public Relations Manager",
-    "framework": "HTS40"
+   "jobTitle": "Database Librarian",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Web Marketing Manager",
-    "framework": "HTS40"
+   "jobTitle": "Enterprise Infrastructure Director",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Digital Analyst",
-    "framework": "HTS40"
+   "jobTitle": "Capacity Planner, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Operations Engineer, Senior",
-    "framework": "HTS40"
+   "jobTitle": "Directory Services Administration Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Systems Engineer, Senior",
-    "framework": "HTS40"
+   "jobTitle": "E-Mail Administration Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Network Security Engineer",
-    "framework": "HTS40"
+   "jobTitle": "Infrastructure Architect, Master",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Network Systems Engineer",
-    "framework": "HTS40"
+   "jobTitle": "Infrastructure Configuration Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Operations Engineer",
-    "framework": "HTS40"
+   "jobTitle": "Middleware Administration Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Systems Engineer",
-    "framework": "HTS40"
+   "jobTitle": "Office Systems Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Storage Engineering Specialist",
-    "framework": "HTS40"
+   "jobTitle": "Software Systems Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Quality Assurance Director",
-    "framework": "HTS40"
+   "jobTitle": "Asset Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Testing Manager, Senior",
-    "framework": "HTS40"
+   "jobTitle": "Capacity Planner",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Quality Assurance Architect",
-    "framework": "HTS40"
+   "jobTitle": "Configuration Management Analyst",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Testing Specialist, Master",
-    "framework": "HTS40"
+   "jobTitle": "Directory Services Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Quality Assurance Manager - HTS",
-    "framework": "HTS40"
+   "jobTitle": "Middleware Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Testing Manager",
-    "framework": "HTS40"
+   "jobTitle": "Network Engineer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Quality Assurance Specialist, Senior - HTS",
-    "framework": "HTS40"
+   "jobTitle": "Office Systems Specialist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Testing Specialist, Senior - HTS",
-    "framework": "HTS40"
+   "jobTitle": "Performance & Tuning Specialist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Quality Assurance Specialist - HTS",
-    "framework": "HTS40"
+   "jobTitle": "Software Specialist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Testing Specialist - Mobile Applications - HTS",
-    "framework": "HTS40"
+   "jobTitle": "Systems Administrator, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Testing Specialist - HTS",
-    "framework": "HTS40"
+   "jobTitle": "Telephony Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Quality Assurance Specialist, Junior",
-    "framework": "HTS40"
+   "jobTitle": "Web Infrastructure Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Testing Specialist, Junior",
-    "framework": "HTS40"
+   "jobTitle": "E-Mail Administrator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Product Management Director",
-    "framework": "HTS40"
+   "jobTitle": "Equipment Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Product Manager - Cloud",
-    "framework": "HTS40"
+   "jobTitle": "Hardware Service Technician",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Product Manager - New Business Initiatives",
-    "framework": "HTS40"
+   "jobTitle": "Middleware Administrator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Product Manager - Mobile Finances",
-    "framework": "HTS40"
+   "jobTitle": "Office Systems Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Product Manager - Web Analytics",
-    "framework": "HTS40"
+   "jobTitle": "Performance & Tuning Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Product Specialist, Master",
-    "framework": "HTS40"
+   "jobTitle": "Systems Administrator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Product Manager",
-    "framework": "HTS40"
+   "jobTitle": "Software Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Architect",
-    "framework": "HTS40"
+   "jobTitle": "Infrastructure Administrator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Product Specialist, Senior",
-    "framework": "HTS40"
+   "jobTitle": "Software Administrator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Web Product Manager",
-    "framework": "HTS40"
+   "jobTitle": "ITIL Service Management Director",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Product Specialist",
-    "framework": "HTS40"
+   "jobTitle": "ITIL Consultant, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Technical Sales Support Specialist",
-    "framework": "HTS40"
+   "jobTitle": "ITIL Project Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Product Specialist, Junior",
-    "framework": "HTS40"
+   "jobTitle": "ITIL Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Data Management Director",
-    "framework": "HTS40"
+   "jobTitle": "ITIL Service Support Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Data Strategist",
-    "framework": "HTS40"
+   "jobTitle": "ITIL Specialist, Junior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Database Consultant - HTS",
-    "framework": "HTS40"
+   "jobTitle": "Service Management Director",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Data Warehouse Programming Specialist",
-    "framework": "HTS40"
+   "jobTitle": "Service Delivery Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Business Data Analyst",
-    "framework": "HTS40"
+   "jobTitle": "Service Establishment Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Data Analyst",
-    "framework": "HTS40"
+   "jobTitle": "Service Strategy Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Data Warehouse Analyst",
-    "framework": "HTS40"
+   "jobTitle": "Availability Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Database Report Writer",
-    "framework": "HTS40"
+   "jobTitle": "Service Capacity Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Database Specialist",
-    "framework": "HTS40"
+   "jobTitle": "Change Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Data Control Clerk",
-    "framework": "HTS40"
+   "jobTitle": "Financial Manager - IT",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Database Administrator",
-    "framework": "HTS40"
+   "jobTitle": "Incident Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Security Consultant",
-    "framework": "HTS40"
+   "jobTitle": "Problem Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Security Engineer, Senior",
-    "framework": "HTS40"
+   "jobTitle": "Process Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Virtualization and Storage Manager, Senior",
-    "framework": "HTS40"
+   "jobTitle": "Process Consultant",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Disaster Recovery Analyst",
-    "framework": "HTS40"
+   "jobTitle": "IT Services Release Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Security Engineer",
-    "framework": "HTS40"
+   "jobTitle": "Service Assurance Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "IS Security Manager",
-    "framework": "HTS40"
+   "jobTitle": "Service Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Software Security Specialist",
-    "framework": "HTS40"
+   "jobTitle": "Service Management Consultant",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Data Security Analyst",
-    "framework": "HTS40"
+   "jobTitle": "Service Support Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Storage Management Specialist",
-    "framework": "HTS40"
+   "jobTitle": "Problem Management Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "",
-    "framework": ""
+   "jobTitle": "Service Analyst",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Chief Actuary",
-    "framework": "INS90"
+   "jobTitle": "Technology Tools for Application Development",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Actuary, Senior",
-    "framework": "INS90"
+   "jobTitle": "Technology Tools for Database Management",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Actuary - Health",
-    "framework": "INS90"
+   "jobTitle": "Technology Tools for Systems Hardware and Software Management",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Actuary - Life",
-    "framework": "INS90"
+   "jobTitle": "Technology Tools for Telecommunications",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Actuary - Pensions",
-    "framework": "INS90"
+   "jobTitle": "Technology Tools for Data Center Operations",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Actuary - Property and Casualty",
-    "framework": "INS90"
+   "jobTitle": "Technology Tools for Miscellaneous Tasks",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Actuarial Analyst",
-    "framework": "INS90"
+   "jobTitle": "Technology Tools for Systems Project Management and Security",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Actuarial Trainee",
-    "framework": "INS90"
+   "jobTitle": "Business Intelligence Tools",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Agent Service and Support Director",
-    "framework": "INS90"
+   "jobTitle": "Mobile Services Director",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Licensing Manager",
-    "framework": "INS90"
+   "jobTitle": "Mobile Applications Manager, Group",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Agent Service and Support Manager",
-    "framework": "INS90"
+   "jobTitle": "Mobile Technologies Specialist, Master",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Insurance Agency Manager",
-    "framework": "INS90"
+   "jobTitle": "Mobile Applications Specialist, Master",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Agent Interface Consultant",
-    "framework": "INS90"
+   "jobTitle": "Mobile Security Specialist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Agent Licensing Consultant",
-    "framework": "INS90"
+   "jobTitle": "Mobile/BYOD Support Specialist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Agent Training Coordinator",
-    "framework": "INS90"
+   "jobTitle": "Mobile Application Developer, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Agent Interface Administrator",
-    "framework": "INS90"
+   "jobTitle": "Mobile Application Developer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Licensing Clerk",
-    "framework": "INS90"
+   "jobTitle": "Mobile Device (BYOD) Support Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Agent Licensing Administrator",
-    "framework": "INS90"
+   "jobTitle": "Mobile Device (BYOD) Administrator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Agent Contract Administrator",
-    "framework": "INS90"
+   "jobTitle": "Director of Telecommunications Services",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Agent Training Administrator",
-    "framework": "INS90"
+   "jobTitle": "Network Architect, Master",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Annuities Director - New Business",
-    "framework": "INS90"
+   "jobTitle": "Network Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Annuities Services Director",
-    "framework": "INS90"
+   "jobTitle": "Network Planning Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Annuities Product Consultant",
-    "framework": "INS90"
+   "jobTitle": "Network Manager, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Annuities Customer Service Supervisor",
-    "framework": "INS90"
+   "jobTitle": "Project Manager - Network Services",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Annuities Supervisor - New Business",
-    "framework": "INS90"
+   "jobTitle": "Telecommunications Consultant",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Annuities Representative - New Business",
-    "framework": "INS90"
+   "jobTitle": "Telecommunications Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Annuities Retention Specialist",
-    "framework": "INS90"
+   "jobTitle": "Communications Software Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Annuities Customer Service Representative",
-    "framework": "INS90"
+   "jobTitle": "Network Planning Analyst, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Chief Claims Officer",
-    "framework": "INS90"
+   "jobTitle": "Telecommunications Specialist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Claims Product Officer",
-    "framework": "INS90"
+   "jobTitle": "Voice Networks Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Claims Manager - Branch",
-    "framework": "INS90"
+   "jobTitle": "Wireless Networks Specialist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Claims Manager - Region",
-    "framework": "INS90"
+   "jobTitle": "Telecommunications Equipment Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Claims Litigation Specialist",
-    "framework": "INS90"
+   "jobTitle": "LAN Administrator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Appeals Resolution Supervisor",
-    "framework": "INS90"
+   "jobTitle": "Network Operator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Claims Supervisor",
-    "framework": "INS90"
+   "jobTitle": "Network Support Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Disability Claims Examiner, Senior",
-    "framework": "INS90"
+   "jobTitle": "Network Services Coordinator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Major Claims Specialist",
-    "framework": "INS90"
+   "jobTitle": "Telecommunications Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Payment Recovery Specialist",
-    "framework": "INS90"
+   "jobTitle": "LAN Administrator, Junior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Subrogation Specialist, Senior",
-    "framework": "INS90"
+   "jobTitle": "Network Administrator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Special Investigation Unit Investigator",
-    "framework": "INS90"
+   "jobTitle": "Network Technician",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Appeal Resolution Specialist",
-    "framework": "INS90"
+   "jobTitle": "Director of Computer Operations",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Claims Analyst",
-    "framework": "INS90"
+   "jobTitle": "Disaster Recovery Director",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Claims Adjuster",
-    "framework": "INS90"
+   "jobTitle": "Computer Operations Consultant",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Claims Examiner",
-    "framework": "INS90"
+   "jobTitle": "Disaster Recovery Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Disability Claims Examiner",
-    "framework": "INS90"
+   "jobTitle": "Project Manager, Senior (OP)",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Insurance Appraiser - Property and Casualty",
-    "framework": "INS90"
+   "jobTitle": "Production Support Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Insurance Claims Coordinator",
-    "framework": "INS90"
+   "jobTitle": "Change Control Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Subrogation Specialist",
-    "framework": "INS90"
+   "jobTitle": "Computer Operations Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Claims Technical Assistant",
-    "framework": "INS90"
+   "jobTitle": "Computer Operator, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Claims Processor",
-    "framework": "INS90"
+   "jobTitle": "Disaster Recovery Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Claims Trainee",
-    "framework": "INS90"
+   "jobTitle": "Data Storage Specialist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Nursing Executive",
-    "framework": "INS90"
+   "jobTitle": "Output Services Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Disease Management Manager",
-    "framework": "INS90"
+   "jobTitle": "IT Production Support Specialist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Health Education Manager",
-    "framework": "INS90"
+   "jobTitle": "Site Operations Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Medical Policy Manager",
-    "framework": "INS90"
+   "jobTitle": "Technology Specialist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Utilization Management Manager",
-    "framework": "INS90"
+   "jobTitle": "Computer Operator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Case Manager",
-    "framework": "INS90"
+   "jobTitle": "Disaster Recovery Specialist, Junior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Hospital Relations Representative, Senior",
-    "framework": "INS90"
+   "jobTitle": "Data Storage Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Hospital Relations Representative",
-    "framework": "INS90"
+   "jobTitle": "Operations Analyst",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Member Advocacy Program Coordinator",
-    "framework": "INS90"
+   "jobTitle": "Output Services Specialist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Medical Utilization Analyst",
-    "framework": "INS90"
+   "jobTitle": "Output Services Supervisor",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Medical Appeals Coordinator",
-    "framework": "INS90"
+   "jobTitle": "IT Production Support Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Policy Change Director",
-    "framework": "INS90"
+   "jobTitle": "Scheduler",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Reimbursement Services Director",
-    "framework": "INS90"
+   "jobTitle": "Storage Library Supervisor",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Insurance Administration Manager",
-    "framework": "INS90"
+   "jobTitle": "Technology Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Branch Manager - INS",
-    "framework": "INS90"
+   "jobTitle": "Change Control Administrator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Membership and Benefits Services Manager",
-    "framework": "INS90"
+   "jobTitle": "Computer Operator, Junior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Adjustment Clerk, Senior",
-    "framework": "INS90"
+   "jobTitle": "Disaster Recovery Administrator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Administrative Specialist",
-    "framework": "INS90"
+   "jobTitle": "Peripheral Equipment Operator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Enrollment and Billing Representative, Senior",
-    "framework": "INS90"
+   "jobTitle": "Operations Librarian",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Membership and Benefits Services Supervisor",
-    "framework": "INS90"
+   "jobTitle": "Output Services Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Policy Change Supervisor",
-    "framework": "INS90"
+   "jobTitle": "Production Administrator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Pension Administrator, Senior",
-    "framework": "INS90"
+   "jobTitle": "Data Storage Administrator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Administrative Analyst",
-    "framework": "INS90"
+   "jobTitle": "Project Office Director",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Adjustment Clerk",
-    "framework": "INS90"
+   "jobTitle": "Business Process Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Enrollment and Billing Representative",
-    "framework": "INS90"
+   "jobTitle": "Project Management Program Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Membership and Benefits Services Analyst",
-    "framework": "INS90"
+   "jobTitle": "IT Program Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "New Policy Coordinator",
-    "framework": "INS90"
+   "jobTitle": "Project Management Specialist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "New Policy Specialist",
-    "framework": "INS90"
+   "jobTitle": "Project Manager Generalist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Policy Change Technician",
-    "framework": "INS90"
+   "jobTitle": "Business Process Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Pension Administrator",
-    "framework": "INS90"
+   "jobTitle": "Project Analyst",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Rating Specialist",
-    "framework": "INS90"
+   "jobTitle": "Project Management Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Adjustment Clerk, Junior",
-    "framework": "INS90"
+   "jobTitle": "Project Lifecycle Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Correspondence Clerk",
-    "framework": "INS90"
+   "jobTitle": "Chief Information Security Officer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Enrollment and Billing Representative, Junior",
-    "framework": "INS90"
+   "jobTitle": "Information Security Architect, Master",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Membership and Benefits Services Associate",
-    "framework": "INS90"
+   "jobTitle": "Cyber Security Compliance Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Chief Agency Executive",
-    "framework": "INS90"
+   "jobTitle": "Cyber Incident Response Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Regional Agency Director",
-    "framework": "INS90"
+   "jobTitle": "Data Privacy Officer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Account Executive",
-    "framework": "INS90"
+   "jobTitle": "Information Security Risk Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Insurance Marketing Manager",
-    "framework": "INS90"
+   "jobTitle": "IT Security Architect",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Insurance Product Manager",
-    "framework": "INS90"
+   "jobTitle": "Computer Forensics Consultant",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Insurance Sales Manager",
-    "framework": "INS90"
+   "jobTitle": "Cyber Threat Intelligence Analyst",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Territory Manager",
-    "framework": "INS90"
+   "jobTitle": "Identity and Access Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Insurance Business Development Specialist, Senior",
-    "framework": "INS90"
+   "jobTitle": "Information Security Administration Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Estate Planning Consultant",
-    "framework": "INS90"
+   "jobTitle": "Penetration Tester",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Plan Design Specialist",
-    "framework": "INS90"
+   "jobTitle": "Information Security Specialist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Insurance Sales Agent, Senior",
-    "framework": "INS90"
+   "jobTitle": "Web Abuse Specialist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Insurance Business Development Specialist",
-    "framework": "INS90"
+   "jobTitle": "Information Security Administrator, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Field Sales Representative",
-    "framework": "INS90"
+   "jobTitle": "Computer Crime Investigator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Insurance Sales Agent",
-    "framework": "INS90"
+   "jobTitle": "Computer Forensics Analyst",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Plan Design Coordinator",
-    "framework": "INS90"
+   "jobTitle": "Computer Network Defense Forensic Analyst",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Insurance Sales Agent, Junior",
-    "framework": "INS90"
+   "jobTitle": "Digital Forensic Examiner",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Insurance Marketing Administrator",
-    "framework": "INS90"
+   "jobTitle": "Identity and Access Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Chief Loss Control Officer",
-    "framework": "INS90"
+   "jobTitle": "Incident Responder",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Reinsurance Director",
-    "framework": "INS90"
+   "jobTitle": "Information Security Assurance Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Collateral Manager",
-    "framework": "INS90"
+   "jobTitle": "Security Analyst, Distributed Systems",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Loss Control Manager",
-    "framework": "INS90"
+   "jobTitle": "Information Security Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Loss Control Consultant, Senior",
-    "framework": "INS90"
+   "jobTitle": "IT Security Administrator, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Loss Control Consultant",
-    "framework": "INS90"
+   "jobTitle": "Web Abuse Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Loss Control Supervisor",
-    "framework": "INS90"
+   "jobTitle": "Information Security Administrator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Reinsurance Specialist",
-    "framework": "INS90"
+   "jobTitle": "Identity and Access Administrator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Loss Control Representative",
-    "framework": "INS90"
+   "jobTitle": "IT Security Administrator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Reinsurance Clerk",
-    "framework": "INS90"
+   "jobTitle": "Chief Information Officer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Loss Control Trainee",
-    "framework": "INS90"
+   "jobTitle": "Audit Specialist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Product Development Director - INS",
-    "framework": "INS90"
+   "jobTitle": "IT Audit Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Product Development Manager - INS",
-    "framework": "INS90"
+   "jobTitle": "Methods and Procedures Consultant",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Product Development Actuarial Consultant",
-    "framework": "INS90"
+   "jobTitle": "Outsourcing Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Product Development Marketing Consultant",
-    "framework": "INS90"
+   "jobTitle": "Quality Assurance Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Product Development Actuarial Analyst",
-    "framework": "INS90"
+   "jobTitle": "Strategic Planner",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Product Development Financial Analyst",
-    "framework": "INS90"
+   "jobTitle": "Audit Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Product Development Marketing Analyst",
-    "framework": "INS90"
+   "jobTitle": "Business Continuity Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Product Development Financial Administrator",
-    "framework": "INS90"
+   "jobTitle": "Measurement Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Provider Programs and Services Director",
-    "framework": "INS90"
+   "jobTitle": "Quality Assurance Specialist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Provider Services Manager",
-    "framework": "INS90"
+   "jobTitle": "Standards and Procedures Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Provider Programs Manager",
-    "framework": "INS90"
+   "jobTitle": "Technical Writer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Provider Contracting Manager",
-    "framework": "INS90"
+   "jobTitle": "Quality Assurance Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Provider Network Administration Manager",
-    "framework": "INS90"
+   "jobTitle": "Software Tester",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Provider Relations Representative, Senior",
-    "framework": "INS90"
+   "jobTitle": "Standards and Procedures Specialist, Junior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Provider Network Administrator",
-    "framework": "INS90"
+   "jobTitle": "Web Systems Administrator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Provider Relations Representative",
-    "framework": "INS90"
+   "jobTitle": "Relationship Director- SNS",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Provider Account Clerk",
-    "framework": "INS90"
+   "jobTitle": "Sales & Marketing Director - SNS",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Quality and Compliance Director",
-    "framework": "INS90"
+   "jobTitle": "User Support and Operations Director",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Quality and Compliance Manager",
-    "framework": "INS90"
+   "jobTitle": "Data Services Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Quality and Compliance Auditor",
-    "framework": "INS90"
+   "jobTitle": "Online Advertising Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Quality and Compliance Specialist, Senior",
-    "framework": "INS90"
+   "jobTitle": "Online Marketing Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Compliance Associate",
-    "framework": "INS90"
+   "jobTitle": "Relationship Manager - SNS",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Quality Specialist",
-    "framework": "INS90"
+   "jobTitle": "Social Media Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Quality and Compliance Coordinator",
-    "framework": "INS90"
+   "jobTitle": "Data Services Engineer, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Chief Underwriting Officer",
-    "framework": "INS90"
+   "jobTitle": "Product Manager - Service Platform Operations",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Underwriting Director - Life and Health",
-    "framework": "INS90"
+   "jobTitle": "Product Manager - User Operations",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Underwriting Director - Property and Casualty",
-    "framework": "INS90"
+   "jobTitle": "Solutions Consultant - Media Solutions",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Underwriting Line-of-Business Manager",
-    "framework": "INS90"
+   "jobTitle": "Software Engineer, Senior - Mobile Applications",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Metrics Consultant",
-    "framework": "INS90"
+   "jobTitle": "Software Engineer, Senior - php, ajax, web2.0",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Underwriting Manager - Property and Casualty",
-    "framework": "INS90"
+   "jobTitle": "Software Engineer, Senior- Web Applications",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Underwriting Consultant",
-    "framework": "INS90"
+   "jobTitle": "Social Media Producer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Underwriting Supervisor - Property and Casualty",
-    "framework": "INS90"
+   "jobTitle": "Site Reliability Engineer, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Underwriter, Senior - Group",
-    "framework": "INS90"
+   "jobTitle": "User Interface (UI) Engineer, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Underwriter, Senior - Individual",
-    "framework": "INS90"
+   "jobTitle": "Data warehouse Operations Engineer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Underwriter, Senior - Property and Casualty",
-    "framework": "INS90"
+   "jobTitle": "Data Services Engineer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Underwriting Supervisor",
-    "framework": "INS90"
+   "jobTitle": "Enterprise Services Representative - SNS",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Underwriter - Group",
-    "framework": "INS90"
+   "jobTitle": "Flash Developer - Games",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Underwriter - Individual",
-    "framework": "INS90"
+   "jobTitle": "Network Operations Center Engineer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Underwriter - Property and Casualty",
-    "framework": "INS90"
+   "jobTitle": "Online Advertising Support / Sales Representative",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Underwriter, Account Assistant - Life and Health",
-    "framework": "INS90"
+   "jobTitle": "Online Marketing Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Underwriter, Junior - Group",
-    "framework": "INS90"
+   "jobTitle": "Product Specialist - Service Platform Operations",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Underwriter, Junior - Individual",
-    "framework": "INS90"
+   "jobTitle": "Product Specialist - User Operations",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Underwriting, Account Assistant - Property and Casualty",
-    "framework": "INS90"
+   "jobTitle": "Sales Development Specialist - SNS",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Underwriter, Trainee - Property and Casualty",
-    "framework": "INS90"
+   "jobTitle": "Software Engineer - Mobile Applications",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "",
-    "framework": ""
+   "jobTitle": "Software Engineer - php, ajax, web2.0",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Agile Coach",
-    "framework": "IT160"
+   "jobTitle": "Software Engineer - Web Applications",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Agile Engineering Manager",
-    "framework": "IT160"
+   "jobTitle": "Social Media Research Analyst",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Application Architect",
-    "framework": "IT160"
+   "jobTitle": "Social Media Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Application Architect - Big Data",
-    "framework": "IT160"
+   "jobTitle": "Site Reliability Engineer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Application Architect, Master",
-    "framework": "IT160"
+   "jobTitle": "User Interface (UI) Engineer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Application Developer",
-    "framework": "IT160"
+   "jobTitle": "User Support and Operations Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Application Developer - Big Data",
-    "framework": "IT160"
+   "jobTitle": "Web Developer - Applications",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Application Developer, Junior",
-    "framework": "IT160"
+   "jobTitle": "Web Developer - Data Services",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Application Developer, Master",
-    "framework": "IT160"
+   "jobTitle": "Web Developer - Graphical User Interface",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Application Developer, Senior",
-    "framework": "IT160"
+   "jobTitle": "Social Computing Director",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Application Developer, Senior - Big Data",
-    "framework": "IT160"
+   "jobTitle": "Social Computing Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Application Librarian",
-    "framework": "IT160"
+   "jobTitle": "Social Computing Specialist, Master",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Application Manager",
-    "framework": "IT160"
+   "jobTitle": "Social Computing Architect",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Application Tools Specialist, Master",
-    "framework": "IT160"
+   "jobTitle": "Social Computing Application Developer, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Application Tools Specialist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Social Computing Specialist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Asset Manager",
-    "framework": "IT160"
+   "jobTitle": "Social Computing Support Specialist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Audit Specialist",
-    "framework": "IT160"
+   "jobTitle": "Social Computing Application Developer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Audit Specialist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Social Computing Administrator, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Availability Manager",
-    "framework": "IT160"
+   "jobTitle": "Social Computing Support Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Big Data Manager",
-    "framework": "IT160"
+   "jobTitle": "Social Computing Administrator",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Budget Administration Manager",
-    "framework": "IT160"
+   "jobTitle": "Enterprise Architecture Director",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Budget-Finance Specialist",
-    "framework": "IT160"
+   "jobTitle": "Chief Technology Officer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Business Analysis Consultant - IT",
-    "framework": "IT160"
+   "jobTitle": "Director of Technology Development",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Business Analysis Manager - IT",
-    "framework": "IT160"
+   "jobTitle": "Application Tools Specialist, Master",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Business Analyst - IT",
-    "framework": "IT160"
+   "jobTitle": "Business Analysis Manager - IT",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Business Analytics Architect, Senior",
-    "framework": "IT160"
+   "jobTitle": "Business Architecture Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Business Analytics Consultant",
-    "framework": "IT160"
+   "jobTitle": "Business Architect, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Business Analytics Consultant, Master",
-    "framework": "IT160"
+   "jobTitle": "Data Architecture Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Business Analytics Developer",
-    "framework": "IT160"
+   "jobTitle": "Data Architect, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Business Analytics Developer, Senior",
-    "framework": "IT160"
+   "jobTitle": "Enterprise Architecture Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Business Analytics Director",
-    "framework": "IT160"
+   "jobTitle": "Enterprise Architect, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Business Analytics Manager",
-    "framework": "IT160"
+   "jobTitle": "Internet Consultant",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Business Analytics Software Specialist",
-    "framework": "IT160"
+   "jobTitle": "Knowledge Engineering Consultant",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Business Analytics Software Specialist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Platform Architect, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Business Architect",
-    "framework": "IT160"
+   "jobTitle": "Solution Architecture Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Business Architect, Senior",
-    "framework": "IT160"
+   "jobTitle": "Solution Architect, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Business Architecture Manager",
-    "framework": "IT160"
+   "jobTitle": "SOA Architect, Master",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Business Continuity Specialist",
-    "framework": "IT160"
+   "jobTitle": "Technology Architect",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Business Development Director - Enterprise Consulting",
-    "framework": "IT160"
+   "jobTitle": "Technology Consultant",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Business Intelligence Architect",
-    "framework": "IT160"
+   "jobTitle": "Technology Development Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Business Intelligence Developer",
-    "framework": "IT160"
+   "jobTitle": "Application Tools Specialist, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Business Intelligence Developer, Senior",
-    "framework": "IT160"
+   "jobTitle": "Business Analysis Consultant - IT",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Business Intelligence Tools",
-    "framework": "IT160"
+   "jobTitle": "Business Architect",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Business Process Manager",
-    "framework": "IT160"
+   "jobTitle": "Data Architect",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Business Process Specialist",
-    "framework": "IT160"
+   "jobTitle": "Enterprise Architect",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Business Systems Analyst",
-    "framework": "IT160"
+   "jobTitle": "Internet Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Business Systems Analyst, Junior",
-    "framework": "IT160"
+   "jobTitle": "Knowledge Engineering Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Business Systems Analyst, Senior",
-    "framework": "IT160"
+   "jobTitle": "Platform Architect",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Business Systems Consultant",
-    "framework": "IT160"
+   "jobTitle": "IT Process Architect",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Call Center Architect",
-    "framework": "IT160"
+   "jobTitle": "Solution_Architect",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Call Center Specialist",
-    "framework": "IT160"
+   "jobTitle": "SOA Architect",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Capacity Planner",
-    "framework": "IT160"
+   "jobTitle": "Technology Development Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Capacity Planner, Senior",
-    "framework": "IT160"
+   "jobTitle": "Business Analyst - IT",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Change Control Administrator",
-    "framework": "IT160"
+   "jobTitle": "Web Technologist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Change Control Specialist",
-    "framework": "IT160"
+   "jobTitle": "Technology Development Specialist, Junior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Change Manager",
-    "framework": "IT160"
+   "jobTitle": "Web Executive",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Chief Data Officer - Big Data",
-    "framework": "IT160"
+   "jobTitle": "Web Community Director",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Chief Information Officer",
-    "framework": "IT160"
+   "jobTitle": "Content Architect, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Chief Information Security Officer",
-    "framework": "IT160"
+   "jobTitle": "Content Manager, Group",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Chief Technology Officer",
-    "framework": "IT160"
+   "jobTitle": "Website Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Client/Server Programmer",
-    "framework": "IT160"
+   "jobTitle": "Web Community Leader",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Client/Server Programmer, Junior",
-    "framework": "IT160"
+   "jobTitle": "Content Engineer, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Client/Server Programmer, Trainee",
-    "framework": "IT160"
+   "jobTitle": "Content Development Supervisor",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Cloud Computing Application Architect",
-    "framework": "IT160"
+   "jobTitle": "Web Content Manager",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Cloud Computing Application Architect, Senior",
-    "framework": "IT160"
+   "jobTitle": "Web Content Architect",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Cloud Computing Infrastructure Architect",
-    "framework": "IT160"
+   "jobTitle": "Web Community Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Cloud Computing Infrastructure Architect, Senior",
-    "framework": "IT160"
+   "jobTitle": "Web Designer, Senior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Cloud Computing Solution Architect",
-    "framework": "IT160"
+   "jobTitle": "Website Content Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Cloud Integration Architect",
-    "framework": "IT160"
+   "jobTitle": "Webmaster",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Cloud Integration Architect, Senior",
-    "framework": "IT160"
+   "jobTitle": "Web Content Editor",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Cloud Integration Engineer",
-    "framework": "IT160"
+   "jobTitle": "Web Content Producer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Cloud Integration Engineer, Senior",
-    "framework": "IT160"
+   "jobTitle": "Web Content Developer",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Cloud Integration Support Specialist",
-    "framework": "IT160"
+   "jobTitle": "Web Content Specialist",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Cloud Integration Support, Senior",
-    "framework": "IT160"
+   "jobTitle": "Web Content Specialist, Junior",
+   "framework": "Information Technology"
   },
   {
-    "jobTitle": "Cloud Resource Management Technician",
-    "framework": "IT160"
+   "jobTitle": "Chief Actuary",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Cloud Resource Manager",
-    "framework": "IT160"
+   "jobTitle": "Actuary, Senior",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Cloud Security Architect",
-    "framework": "IT160"
+   "jobTitle": "Actuary - Health",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Cloud Security Architect, Senior",
-    "framework": "IT160"
+   "jobTitle": "Actuary - Life",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Cloud Security Engineer",
-    "framework": "IT160"
+   "jobTitle": "Actuary - Pensions",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Cloud Security Engineer, Senior",
-    "framework": "IT160"
+   "jobTitle": "Actuary - Property and Casualty",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Cloud Storage Systems Engineer",
-    "framework": "IT160"
+   "jobTitle": "Actuarial Analyst",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Cloud Storage Systems Engineer, Senior",
-    "framework": "IT160"
+   "jobTitle": "Actuarial Trainee",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Communications Software Specialist",
-    "framework": "IT160"
+   "jobTitle": "Agent Service and Support Director",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Competency Specialist",
-    "framework": "IT160"
+   "jobTitle": "Licensing Manager",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Computer Crime Investigator",
-    "framework": "IT160"
+   "jobTitle": "Agent Service and Support Manager",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Computer Forensics Analyst",
-    "framework": "IT160"
+   "jobTitle": "Insurance Agency Manager",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Computer Forensics Consultant",
-    "framework": "IT160"
+   "jobTitle": "Agent Interface Consultant",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Computer Network Defense Forensic Analyst",
-    "framework": "IT160"
+   "jobTitle": "Agent Licensing Consultant",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Computer Operations Consultant",
-    "framework": "IT160"
+   "jobTitle": "Agent Training Coordinator",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Computer Operations Manager",
-    "framework": "IT160"
+   "jobTitle": "Agent Interface Administrator",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Computer Operator",
-    "framework": "IT160"
+   "jobTitle": "Licensing Clerk",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Computer Operator, Junior",
-    "framework": "IT160"
+   "jobTitle": "Agent Licensing Administrator",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Computer Operator, Senior",
-    "framework": "IT160"
+   "jobTitle": "Agent Contract Administrator",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Configuration Management Analyst",
-    "framework": "IT160"
+   "jobTitle": "Agent Training Administrator",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Consultant, Senior",
-    "framework": "IT160"
+   "jobTitle": "Annuities Director - New Business",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Content Architect, Senior",
-    "framework": "IT160"
+   "jobTitle": "Annuities Services Director",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Content Development Supervisor",
-    "framework": "IT160"
+   "jobTitle": "Annuities Product Consultant",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Content Engineer, Senior",
-    "framework": "IT160"
+   "jobTitle": "Annuities Customer Service Supervisor",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Content Manager, Group",
-    "framework": "IT160"
+   "jobTitle": "Annuities Supervisor - New Business",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Contracts-Vendor Manager",
-    "framework": "IT160"
+   "jobTitle": "Annuities Representative - New Business",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Contracts-Vendor Specialist",
-    "framework": "IT160"
+   "jobTitle": "Annuities Retention Specialist",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "CRM Application Administrator",
-    "framework": "IT160"
+   "jobTitle": "Annuities Customer Service Representative",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "CRM Architect, Senior",
-    "framework": "IT160"
+   "jobTitle": "Chief Claims Officer",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "CRM Business Data Analyst",
-    "framework": "IT160"
+   "jobTitle": "Claims Product Officer",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "CRM Integration Specialist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Claims Manager - Branch",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "CRM Specialist, Master",
-    "framework": "IT160"
+   "jobTitle": "Claims Manager - Region",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Customer Support Consultant",
-    "framework": "IT160"
+   "jobTitle": "Claims Litigation Specialist",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Customer Support Specialist",
-    "framework": "IT160"
+   "jobTitle": "Appeals Resolution Supervisor",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Cyber Incident Response Manager",
-    "framework": "IT160"
+   "jobTitle": "Claims Supervisor",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Data Administrator",
-    "framework": "IT160"
+   "jobTitle": "Disability Claims Examiner, Senior",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Data Architect",
-    "framework": "IT160"
+   "jobTitle": "Major Claims Specialist",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Data Architect - Big Data",
-    "framework": "IT160"
+   "jobTitle": "Payment Recovery Specialist",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Data Architect, Senior",
-    "framework": "IT160"
+   "jobTitle": "Subrogation Specialist, Senior",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Data Architecture Manager",
-    "framework": "IT160"
+   "jobTitle": "Special Investigation Unit Investigator",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Data Center Facilities Technician",
-    "framework": "IT160"
+   "jobTitle": "Appeal Resolution Specialist",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Data Engineer - Big Data",
-    "framework": "IT160"
+   "jobTitle": "Claims Analyst",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Data Manager",
-    "framework": "IT160"
+   "jobTitle": "Claims Adjuster",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Data Mining Specialist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Claims Examiner",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Data Modeler",
-    "framework": "IT160"
+   "jobTitle": "Disability Claims Examiner",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Data Modeler, Junior",
-    "framework": "IT160"
+   "jobTitle": "Insurance Appraiser - Property and Casualty",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Data Privacy Officer",
-    "framework": "IT160"
+   "jobTitle": "Insurance Claims Coordinator",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Data Scientist - Big Data",
-    "framework": "IT160"
+   "jobTitle": "Subrogation Specialist",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Data Services Engineer",
-    "framework": "IT160"
+   "jobTitle": "Claims Technical Assistant",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Data Services Engineer, Senior",
-    "framework": "IT160"
+   "jobTitle": "Claims Processor",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Data Services Manager",
-    "framework": "IT160"
+   "jobTitle": "Claims Trainee",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Data Steward",
-    "framework": "IT160"
+   "jobTitle": "Nursing Executive",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Data Storage Administrator",
-    "framework": "IT160"
+   "jobTitle": "Disease Management Manager",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Data Storage Specialist",
-    "framework": "IT160"
+   "jobTitle": "Health Education Manager",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Data Storage Specialist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Medical Policy Manager",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Data Transformation Specialist",
-    "framework": "IT160"
+   "jobTitle": "Utilization Management Manager",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Data Visualization Specialist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Case Manager",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Data Warehouse Auditor",
-    "framework": "IT160"
+   "jobTitle": "Hospital Relations Representative, Senior",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Data Warehouse Developer",
-    "framework": "IT160"
+   "jobTitle": "Hospital Relations Representative",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Data Warehouse Manager",
-    "framework": "IT160"
+   "jobTitle": "Member Advocacy Program Coordinator",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Data warehouse Operations Engineer",
-    "framework": "IT160"
+   "jobTitle": "Medical Utilization Analyst",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Database Administrator",
-    "framework": "IT160"
+   "jobTitle": "Medical Appeals Coordinator",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Database Administrator, Senior",
-    "framework": "IT160"
+   "jobTitle": "Policy Change Director",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Database Analyst, Junior",
-    "framework": "IT160"
+   "jobTitle": "Reimbursement Services Director",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Database Consultant, Master",
-    "framework": "IT160"
+   "jobTitle": "Insurance Administration Manager",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Database Developer",
-    "framework": "IT160"
+   "jobTitle": "Branch Manager - INS",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Database Developer, Senior",
-    "framework": "IT160"
+   "jobTitle": "Membership and Benefits Services Manager",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Database Librarian",
-    "framework": "IT160"
+   "jobTitle": "Adjustment Clerk, Senior",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Database Manager",
-    "framework": "IT160"
+   "jobTitle": "Administrative Specialist",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Data-Information Architect, Master",
-    "framework": "IT160"
+   "jobTitle": "Enrollment and Billing Representative, Senior",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Decision Support Consultant",
-    "framework": "IT160"
+   "jobTitle": "Membership and Benefits Services Supervisor",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Decision Support Specialist",
-    "framework": "IT160"
+   "jobTitle": "Policy Change Supervisor",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Digital Forensic Examiner",
-    "framework": "IT160"
+   "jobTitle": "Pension Administrator, Senior",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Director of Application Services",
-    "framework": "IT160"
+   "jobTitle": "Administrative Analyst",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Director of Business Unit Support",
-    "framework": "IT160"
+   "jobTitle": "Adjustment Clerk",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Director of Cloud Computing Operations",
-    "framework": "IT160"
+   "jobTitle": "Enrollment and Billing Representative",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Director of Cloud Services",
-    "framework": "IT160"
+   "jobTitle": "Membership and Benefits Services Analyst",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Director of Computer Operations",
-    "framework": "IT160"
+   "jobTitle": "New Policy Coordinator",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Director of Consulting Services",
-    "framework": "IT160"
+   "jobTitle": "New Policy Specialist",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Director of Human Resources",
-    "framework": "IT160"
+   "jobTitle": "Policy Change Technician",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Director of Organizational Data",
-    "framework": "IT160"
+   "jobTitle": "Pension Administrator",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Director of Technology Development",
-    "framework": "IT160"
+   "jobTitle": "Rating Specialist",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Director of Telecommunications Services",
-    "framework": "IT160"
+   "jobTitle": "Adjustment Clerk, Junior",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Director of Training & Development",
-    "framework": "IT160"
+   "jobTitle": "Correspondence Clerk",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Directory Services Administration Manager",
-    "framework": "IT160"
+   "jobTitle": "Enrollment and Billing Representative, Junior",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Directory Services Specialist",
-    "framework": "IT160"
+   "jobTitle": "Membership and Benefits Services Associate",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Disaster Recovery Administrator",
-    "framework": "IT160"
+   "jobTitle": "Chief Agency Executive",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Disaster Recovery Director",
-    "framework": "IT160"
+   "jobTitle": "Regional Agency Director",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Disaster Recovery Manager",
-    "framework": "IT160"
+   "jobTitle": "Account Executive",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Disaster Recovery Specialist",
-    "framework": "IT160"
+   "jobTitle": "Insurance Marketing Manager",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Disaster Recovery Specialist, Junior",
-    "framework": "IT160"
+   "jobTitle": "Insurance Product Manager",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Documentation Specialist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Insurance Sales Manager",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "eBusiness Consultant",
-    "framework": "IT160"
+   "jobTitle": "Territory Manager",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "eBusiness Specialist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Insurance Business Development Specialist, Senior",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "EDI Coordinator",
-    "framework": "IT160"
+   "jobTitle": "Estate Planning Consultant",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "EDI Support",
-    "framework": "IT160"
+   "jobTitle": "Plan Design Specialist",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "E-Mail Administration Manager",
-    "framework": "IT160"
+   "jobTitle": "Insurance Sales Agent, Senior",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "E-Mail Administrator",
-    "framework": "IT160"
+   "jobTitle": "Insurance Business Development Specialist",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Enterprise Architect",
-    "framework": "IT160"
+   "jobTitle": "Field Sales Representative",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Enterprise Architect, Senior",
-    "framework": "IT160"
+   "jobTitle": "Insurance Sales Agent",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Enterprise Architecture Director",
-    "framework": "IT160"
+   "jobTitle": "Plan Design Coordinator",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Enterprise Architecture Manager",
-    "framework": "IT160"
+   "jobTitle": "Insurance Sales Agent, Junior",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Enterprise Infrastructure Director",
-    "framework": "IT160"
+   "jobTitle": "Insurance Marketing Administrator",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Enterprise Services Representative - SNS",
-    "framework": "IT160"
+   "jobTitle": "Chief Loss Control Officer",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Equipment Specialist",
-    "framework": "IT160"
+   "jobTitle": "Reinsurance Director",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "ERP Analyst, Junior",
-    "framework": "IT160"
+   "jobTitle": "Collateral Manager",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "ERP Analyst, Senior",
-    "framework": "IT160"
+   "jobTitle": "Loss Control Manager",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "ERP Basis Consultant",
-    "framework": "IT160"
+   "jobTitle": "Loss Control Consultant, Senior",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "ERP BI Solution Engineer",
-    "framework": "IT160"
+   "jobTitle": "Loss Control Consultant",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "ERP Business Analyst",
-    "framework": "IT160"
+   "jobTitle": "Loss Control Supervisor",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "ERP Business Analyst, Senior",
-    "framework": "IT160"
+   "jobTitle": "Reinsurance Specialist",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "ERP Implementation Consultant",
-    "framework": "IT160"
+   "jobTitle": "Loss Control Representative",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "ERP Implementation Specialist",
-    "framework": "IT160"
+   "jobTitle": "Reinsurance Clerk",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "ERP Network Engineer",
-    "framework": "IT160"
+   "jobTitle": "Loss Control Trainee",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "ERP Presales Engineer",
-    "framework": "IT160"
+   "jobTitle": "Product Development Director - INS",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "ERP Programmer",
-    "framework": "IT160"
+   "jobTitle": "Product Development Manager - INS",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "ERP Programmer, Senior",
-    "framework": "IT160"
+   "jobTitle": "Product Development Actuarial Consultant",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "ERP Quality Engineer",
-    "framework": "IT160"
+   "jobTitle": "Product Development Marketing Consultant",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "ERP Solution Architect",
-    "framework": "IT160"
+   "jobTitle": "Product Development Actuarial Analyst",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "ERP Solution Architect, Senior",
-    "framework": "IT160"
+   "jobTitle": "Product Development Financial Analyst",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "ERP Specialist, Master",
-    "framework": "IT160"
+   "jobTitle": "Product Development Marketing Analyst",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "ERP Technical Consultant",
-    "framework": "IT160"
+   "jobTitle": "Product Development Financial Administrator",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "ERP Technical Quality Manager",
-    "framework": "IT160"
+   "jobTitle": "Provider Programs and Services Director",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "ERP Technical Support Specialist",
-    "framework": "IT160"
+   "jobTitle": "Provider Services Manager",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Output Services Supervisor",
-    "framework": "IT160"
+   "jobTitle": "Provider Programs Manager",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Outsourcing Manager",
-    "framework": "IT160"
+   "jobTitle": "Provider Contracting Manager",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "PC Specialist",
-    "framework": "IT160"
+   "jobTitle": "Provider Network Administration Manager",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Penetration Tester",
-    "framework": "IT160"
+   "jobTitle": "Provider Relations Representative, Senior",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Performance & Tuning Specialist",
-    "framework": "IT160"
+   "jobTitle": "Provider Network Administrator",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Performance & Tuning Specialist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Provider Relations Representative",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Peripheral Equipment Operator",
-    "framework": "IT160"
+   "jobTitle": "Provider Account Clerk",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Platform Architect",
-    "framework": "IT160"
+   "jobTitle": "Quality and Compliance Director",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Platform Architect, Senior",
-    "framework": "IT160"
+   "jobTitle": "Quality and Compliance Manager",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Problem Management Specialist",
-    "framework": "IT160"
+   "jobTitle": "Quality and Compliance Auditor",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Problem Manager",
-    "framework": "IT160"
+   "jobTitle": "Quality and Compliance Specialist, Senior",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Process Consultant",
-    "framework": "IT160"
+   "jobTitle": "Compliance Associate",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Process Manager",
-    "framework": "IT160"
+   "jobTitle": "Quality Specialist",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Product Manager - Cloud Computing",
-    "framework": "IT160"
+   "jobTitle": "Quality and Compliance Coordinator",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Product Manager - Service Platform Operations",
-    "framework": "IT160"
+   "jobTitle": "Chief Underwriting Officer",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Product Manager - User Operations",
-    "framework": "IT160"
+   "jobTitle": "Underwriting Director - Life and Health",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Product Specialist - Service Platform Operations",
-    "framework": "IT160"
+   "jobTitle": "Underwriting Director - Property and Casualty",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Product Specialist - User Operations",
-    "framework": "IT160"
+   "jobTitle": "Underwriting Line-of-Business Manager",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Production Administrator",
-    "framework": "IT160"
+   "jobTitle": "Metrics Consultant",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Production Support Manager",
-    "framework": "IT160"
+   "jobTitle": "Underwriting Manager - Property and Casualty",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Project Analyst",
-    "framework": "IT160"
+   "jobTitle": "Underwriting Consultant",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Project Lifecycle Specialist",
-    "framework": "IT160"
+   "jobTitle": "Underwriting Supervisor - Property and Casualty",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Project Management Program Manager",
-    "framework": "IT160"
+   "jobTitle": "Underwriter, Senior - Group",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Project Management Specialist",
-    "framework": "IT160"
+   "jobTitle": "Underwriter, Senior - Individual",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Project Management Specialist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Underwriter, Senior - Property and Casualty",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Project Manager",
-    "framework": "IT160"
+   "jobTitle": "Underwriting Supervisor",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Project Manager - Network Services",
-    "framework": "IT160"
+   "jobTitle": "Underwriter - Group",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Project Manager (AS)",
-    "framework": "IT160"
+   "jobTitle": "Underwriter - Individual",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Project Manager Generalist",
-    "framework": "IT160"
+   "jobTitle": "Underwriter - Property and Casualty",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Project Manager, Senior (OP)",
-    "framework": "IT160"
+   "jobTitle": "Underwriter, Account Assistant - Life and Health",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Project Office Director",
-    "framework": "IT160"
+   "jobTitle": "Underwriter, Junior - Group",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Project Team Leader (AS)",
-    "framework": "IT160"
+   "jobTitle": "Underwriter, Junior - Individual",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Quality Assurance Manager",
-    "framework": "IT160"
+   "jobTitle": "Underwriting, Account Assistant - Property and Casualty",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Quality Assurance Specialist",
-    "framework": "IT160"
+   "jobTitle": "Underwriter, Trainee - Property and Casualty",
+   "framework": "Insurance"
   },
   {
-    "jobTitle": "Quality Assurance Specialist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Engineering Program Manager - 3D printing",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Relationship Director- SNS",
-    "framework": "IT160"
+   "jobTitle": "Mechanical Engineer - 3D printing",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Relationship Manager",
-    "framework": "IT160"
+   "jobTitle": "Materials Engineer - 3D printing",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Relationship Manager - SNS",
-    "framework": "IT160"
+   "jobTitle": "Pre-Sales Application Engineer - 3D printing",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Release Manager (Applications)",
-    "framework": "IT160"
+   "jobTitle": "Service Engineer - 3D printing",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Risk & IT Compliance Manager - Cloud Computing",
-    "framework": "IT160"
+   "jobTitle": "Engineering Technician - 3D printing",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Sales & Marketing Director - SNS",
-    "framework": "IT160"
+   "jobTitle": "3D Product Designer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Sales Development Specialist - SNS",
-    "framework": "IT160"
+   "jobTitle": "3D Product Modeler",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Sales Director-Enterprise Information Management",
-    "framework": "IT160"
+   "jobTitle": "Production Repair Technician - 3D printing",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Scheduler",
-    "framework": "IT160"
+   "jobTitle": "Automation Design/Control Engineer, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Scrum Master",
-    "framework": "IT160"
+   "jobTitle": "Intelligent Manufacturing Program Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Scrum Product Owner",
-    "framework": "IT160"
+   "jobTitle": "Automation Design/Control Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Scrum Team Member",
-    "framework": "IT160"
+   "jobTitle": "Research Analyst - Advanced Electronics",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Security Administrator",
-    "framework": "IT160"
+   "jobTitle": "Cold Forming Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Security Administrator, Senior",
-    "framework": "IT160"
+   "jobTitle": "Digital Manufacturing Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Security Analyst, Distributed Systems",
-    "framework": "IT160"
+   "jobTitle": "Intelligent Manufacturing Solution Consultant",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Security Architect",
-    "framework": "IT160"
+   "jobTitle": "Robotics Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Service Analyst",
-    "framework": "IT160"
+   "jobTitle": "Robotics Software Engineer, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Service Assurance Manager",
-    "framework": "IT160"
+   "jobTitle": "Robotics Programmer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Service Capacity Manager",
-    "framework": "IT160"
+   "jobTitle": "Robotics Software Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Service Delivery Manager",
-    "framework": "IT160"
+   "jobTitle": "Sustainability Analyst",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Service Establishment Manager",
-    "framework": "IT160"
+   "jobTitle": "Nanotechnology Technician",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Service Management Consultant",
-    "framework": "IT160"
+   "jobTitle": "Engineering Director",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Service Management Director",
-    "framework": "IT160"
+   "jobTitle": "Provisioning Engineer Director",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Service Manager",
-    "framework": "IT160"
+   "jobTitle": "Chemical Engineer Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Service Strategy Manager",
-    "framework": "IT160"
+   "jobTitle": "Engineering Fellow",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Service Support Manager",
-    "framework": "IT160"
+   "jobTitle": "Engineering Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Site Manager",
-    "framework": "IT160"
+   "jobTitle": "Field Service Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Site Manager, Senior",
-    "framework": "IT160"
+   "jobTitle": "Industrial Engineer, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Site Operations Manager",
-    "framework": "IT160"
+   "jobTitle": "Manufacturing Engineer Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Site Reliability Engineer",
-    "framework": "IT160"
+   "jobTitle": "Mechanical Engineering Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Site Reliability Engineer, Senior",
-    "framework": "IT160"
+   "jobTitle": "Mechanical Engineer, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "SOA Architect",
-    "framework": "IT160"
+   "jobTitle": "Production Engineering Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "SOA Architect, Master",
-    "framework": "IT160"
+   "jobTitle": "Production Engineer, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Social Computing Administrator",
-    "framework": "IT160"
+   "jobTitle": "Engineering Project Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Social Computing Administrator, Senior",
-    "framework": "IT160"
+   "jobTitle": "Provisioning Engineer Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Social Computing Application Developer",
-    "framework": "IT160"
+   "jobTitle": "Provisioning Engineer, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Social Computing Application Developer, Senior",
-    "framework": "IT160"
+   "jobTitle": "Tool Design Engineering Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Social Computing Architect",
-    "framework": "IT160"
+   "jobTitle": "Ceramics Engineer, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Social Computing Director",
-    "framework": "IT160"
+   "jobTitle": "Chemical Engineer, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Social Computing Manager",
-    "framework": "IT160"
+   "jobTitle": "Electrical Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Social Computing Specialist, Master",
-    "framework": "IT160"
+   "jobTitle": "Tool/Die Design Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Social Computing Specialist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Human Factors Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Social Computing Support Specialist",
-    "framework": "IT160"
+   "jobTitle": "Electronics Engineer, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Social Computing Support Specialist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Certification Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Social Media Manager",
-    "framework": "IT160"
+   "jobTitle": "Environmental Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Social Media Producer",
-    "framework": "IT160"
+   "jobTitle": "Industrial Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Social Media Research Analyst",
-    "framework": "IT160"
+   "jobTitle": "Project Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Social Media Specialist",
-    "framework": "IT160"
+   "jobTitle": "Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Software Administrator",
-    "framework": "IT160"
+   "jobTitle": "Field Service Engineer, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Software Engineer",
-    "framework": "IT160"
+   "jobTitle": "Mechanical Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Software Engineer - Cloud Computing",
-    "framework": "IT160"
+   "jobTitle": "Mechanical Engineering Supervisor",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Software Engineer - Mobile Applications",
-    "framework": "IT160"
+   "jobTitle": "Mechanical Engineering Technician, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Software Engineer - php, ajax, web2.0",
-    "framework": "IT160"
+   "jobTitle": "Manufacturing Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Software Engineer - Relational Database Management System (RDBMS)",
-    "framework": "IT160"
+   "jobTitle": "Production Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Software Engineer - Web Applications",
-    "framework": "IT160"
+   "jobTitle": "Production Engineering Supervisor",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Software Engineer, Senior",
-    "framework": "IT160"
+   "jobTitle": "Provisioning Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Software Engineer, Senior - Cloud Computing",
-    "framework": "IT160"
+   "jobTitle": "Reliability Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Software Engineer, Senior - Mobile Applications",
-    "framework": "IT160"
+   "jobTitle": "Tool Design Engineer, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Software Engineer, Senior - php, ajax, web2.0",
-    "framework": "IT160"
+   "jobTitle": "Ceramics Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Software Engineer, Senior- Web Applications",
-    "framework": "IT160"
+   "jobTitle": "Chemical Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Software Specialist",
-    "framework": "IT160"
+   "jobTitle": "Electronics Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Software Specialist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Engineer, Junior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Software Systems Manager",
-    "framework": "IT160"
+   "jobTitle": "Field Service Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Software Tester",
-    "framework": "IT160"
+   "jobTitle": "Industrial Engineer, Junior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Solution Architect, Senior",
-    "framework": "IT160"
+   "jobTitle": "Mechanical Engineer, Junior - MFG",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "ETL Architect",
-    "framework": "IT160"
+   "jobTitle": "Manufacturing Engineer, Junior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "ETL Developer",
-    "framework": "IT160"
+   "jobTitle": "Mechanical Engineering Technician",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "ETL Developer, Senior",
-    "framework": "IT160"
+   "jobTitle": "Production Engineer, Junior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Field Engineer, Software",
-    "framework": "IT160"
+   "jobTitle": "Provisioning Engineer, Junior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Field Support Manager",
-    "framework": "IT160"
+   "jobTitle": "Tool Design Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Field Support Specialist, Junior",
-    "framework": "IT160"
+   "jobTitle": "Drafter",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Field Support Specialist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Electronics Engineer, Junior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Finance & Administration Manager",
-    "framework": "IT160"
+   "jobTitle": "Tool Design Engineer, Junior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Financial Manager - IT",
-    "framework": "IT160"
+   "jobTitle": "Mechanical Engineering Technician, Junior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Flash Developer - Games",
-    "framework": "IT160"
+   "jobTitle": "Facilities Director",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Group Application Manager",
-    "framework": "IT160"
+   "jobTitle": "Plant General Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Group Project Manager (AS)",
-    "framework": "IT160"
+   "jobTitle": "Emergency Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Hardware Service Technician",
-    "framework": "IT160"
+   "jobTitle": "Equipment Engineering Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Help Desk Manager",
-    "framework": "IT160"
+   "jobTitle": "Plant Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Help Desk Specialist",
-    "framework": "IT160"
+   "jobTitle": "Project Manager, New Plant",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Help Desk Specialist, Junior",
-    "framework": "IT160"
+   "jobTitle": "Plant Maintenance Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Identity and Access Administrator",
-    "framework": "IT160"
+   "jobTitle": "Plant Operations Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Identity and Access Manager",
-    "framework": "IT160"
+   "jobTitle": "Security Manager - MFG",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Identity and Access Specialist",
-    "framework": "IT160"
+   "jobTitle": "Electrical Engineering Supervisor",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Incident Manager",
-    "framework": "IT160"
+   "jobTitle": "Power Supply Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Information Analyst",
-    "framework": "IT160"
+   "jobTitle": "Equipment Maintenance Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Information Analyst, Junior",
-    "framework": "IT160"
+   "jobTitle": "Facility Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Information Architect",
-    "framework": "IT160"
+   "jobTitle": "Plant Supervisor",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Information Scientist",
-    "framework": "IT160"
+   "jobTitle": "Shift Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Information Security Administration Manager",
-    "framework": "IT160"
+   "jobTitle": "Electrical Specialist",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Information Security Administrator",
-    "framework": "IT160"
+   "jobTitle": "Emergency Response Coordinator",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Information Security Administrator, Senior",
-    "framework": "IT160"
+   "jobTitle": "Equipment Maintenance Specialist",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Information Security Architect, Master",
-    "framework": "IT160"
+   "jobTitle": "Security Specialist",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Information Security Assurance Specialist",
-    "framework": "IT160"
+   "jobTitle": "Electrician",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Information Security Risk Manager",
-    "framework": "IT160"
+   "jobTitle": "Facilities Support Technician",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Information Security Specialist",
-    "framework": "IT160"
+   "jobTitle": "General Laborer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Information Security Specialist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Chief Financial Officer - MFG",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Infrastructure Administrator",
-    "framework": "IT160"
+   "jobTitle": "Chief Legal Officer - MFG",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Infrastructure Architect, Master",
-    "framework": "IT160"
+   "jobTitle": "Human Resource Manager- MFG",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Infrastructure Configuration Manager",
-    "framework": "IT160"
+   "jobTitle": "General Counsel - MFG",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Internet Consultant",
-    "framework": "IT160"
+   "jobTitle": "Risk and Compliance Auditor, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Internet Specialist",
-    "framework": "IT160"
+   "jobTitle": "Internal Auditor - MFG",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "IT Administrative Assistant",
-    "framework": "IT160"
+   "jobTitle": "Intellectual Property Attorney - MFG",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "IT Audit Manager",
-    "framework": "IT160"
+   "jobTitle": "Risk and Compliance Auditor",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "IT Competency Program Administrator",
-    "framework": "IT160"
+   "jobTitle": "Contract Legal Analyst - MFG",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "IT Competency Program Manager",
-    "framework": "IT160"
+   "jobTitle": "Customer Service Representative - MFG",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "IT Generalist",
-    "framework": "IT160"
+   "jobTitle": "Financial Analyst - MFG",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "IT Generalist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Human Resource Specialist - MFG",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "IT Process Architect",
-    "framework": "IT160"
+   "jobTitle": "Human Resource Training Specialist - MFG",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "IT Product Manager",
-    "framework": "IT160"
+   "jobTitle": "Product Design Director",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "IT Production Support Specialist",
-    "framework": "IT160"
+   "jobTitle": "Director of Deployment",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "IT Production Support Specialist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Product Development Director",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "IT Program Manager",
-    "framework": "IT160"
+   "jobTitle": "Research & Development Director",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "IT Services Release Manager",
-    "framework": "IT160"
+   "jobTitle": "Design Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "IT Training Administrator",
-    "framework": "IT160"
+   "jobTitle": "Materials Engineer, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "IT Training Specialist",
-    "framework": "IT160"
+   "jobTitle": "Regulatory Affairs Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "ITIL Consultant, Senior",
-    "framework": "IT160"
+   "jobTitle": "Research & Development Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "ITIL Project Manager",
-    "framework": "IT160"
+   "jobTitle": "Strategic Product Planning Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "ITIL Service Management Director",
-    "framework": "IT160"
+   "jobTitle": "Design Engineer, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "ITIL Service Support Manager",
-    "framework": "IT160"
+   "jobTitle": "Materials Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "ITIL Specialist",
-    "framework": "IT160"
+   "jobTitle": "Product Engineer, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "ITIL Specialist, Junior",
-    "framework": "IT160"
+   "jobTitle": "Product Development Engineering Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Knowledge Engineering Consultant",
-    "framework": "IT160"
+   "jobTitle": "Product Development Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Knowledge Engineering Specialist",
-    "framework": "IT160"
+   "jobTitle": "Package Design Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "LAN Administrator",
-    "framework": "IT160"
+   "jobTitle": "Process Engineer, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "LAN Administrator, Junior",
-    "framework": "IT160"
+   "jobTitle": "Research and Development Supervisor",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Measurement Specialist",
-    "framework": "IT160"
+   "jobTitle": "Design Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Methods and Procedures Consultant",
-    "framework": "IT160"
+   "jobTitle": "Packaging Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Middleware Administration Manager",
-    "framework": "IT160"
+   "jobTitle": "Materials Engineer, Junior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Middleware Administrator",
-    "framework": "IT160"
+   "jobTitle": "Process Associate, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Middleware Specialist",
-    "framework": "IT160"
+   "jobTitle": "Process Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Mobile Application Developer",
-    "framework": "IT160"
+   "jobTitle": "Product Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Mobile Application Developer, Senior",
-    "framework": "IT160"
+   "jobTitle": "Product Development Supervisor",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Mobile Applications Manager, Group",
-    "framework": "IT160"
+   "jobTitle": "Testing Technician, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Mobile Applications Specialist, Master",
-    "framework": "IT160"
+   "jobTitle": "Process Associate",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Mobile Device (BYOD) Administrator",
-    "framework": "IT160"
+   "jobTitle": "Product Engineer, Junior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Mobile Device (BYOD) Support Specialist",
-    "framework": "IT160"
+   "jobTitle": "Testing Technician",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Mobile Security Specialist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Operations Director",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Mobile Services Director",
-    "framework": "IT160"
+   "jobTitle": "Manufacturing Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Mobile Technologies Specialist, Master",
-    "framework": "IT160"
+   "jobTitle": "Operations Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Mobile/BYOD Support Specialist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Process Research Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Network Administrator",
-    "framework": "IT160"
+   "jobTitle": "Process Manager - MFG",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Network Architect, Master",
-    "framework": "IT160"
+   "jobTitle": "Energy Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Network Engineer",
-    "framework": "IT160"
+   "jobTitle": "Electro-Mechanical Assembly Technician, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Network Manager",
-    "framework": "IT160"
+   "jobTitle": "Operations Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Network Manager, Senior",
-    "framework": "IT160"
+   "jobTitle": "Industrial Engineering Technician, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Network Operations Center Engineer",
-    "framework": "IT160"
+   "jobTitle": "Mechanical Assembly Technician, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Network Operator",
-    "framework": "IT160"
+   "jobTitle": "Manufacturing Technician, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Network Planning Analyst, Senior",
-    "framework": "IT160"
+   "jobTitle": "Production Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Network Planning Manager",
-    "framework": "IT160"
+   "jobTitle": "Process Specialist",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Network Services Coordinator",
-    "framework": "IT160"
+   "jobTitle": "Production Support Specialist, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Network Support Specialist",
-    "framework": "IT160"
+   "jobTitle": "Capacity Planner - MFG",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Network Technician",
-    "framework": "IT160"
+   "jobTitle": "Configuration Analyst",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Office Systems Manager",
-    "framework": "IT160"
+   "jobTitle": "Electro-Mechanical Assembly Technician Supervisor",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Office Systems Specialist",
-    "framework": "IT160"
+   "jobTitle": "Estimator, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Office Systems Specialist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Industrial Engineering Technician",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Online Advertising Manager",
-    "framework": "IT160"
+   "jobTitle": "Inspector",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Online Advertising Support / Sales Representative",
-    "framework": "IT160"
+   "jobTitle": "Mechanical Assembly Team Leader",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Online Marketing Manager",
-    "framework": "IT160"
+   "jobTitle": "Model Maker",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Online Marketing Specialist",
-    "framework": "IT160"
+   "jobTitle": "Manufacturing Technician, Junior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Operations Analyst",
-    "framework": "IT160"
+   "jobTitle": "Numerical Tool and Process Control Programmer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Operations Librarian",
-    "framework": "IT160"
+   "jobTitle": "Operations Research Analyst",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Output Services Manager",
-    "framework": "IT160"
+   "jobTitle": "Production Supervisor",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Output Services Specialist",
-    "framework": "IT160"
+   "jobTitle": "Production Support Specialist",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Output Services Specialist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Production Team Leader",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Solution Architecture Manager",
-    "framework": "IT160"
+   "jobTitle": "Production Trainer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Solution_Architect",
-    "framework": "IT160"
+   "jobTitle": "Robotics Technician",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Solutions Consultant - Media Solutions",
-    "framework": "IT160"
+   "jobTitle": "Shift Supervisor",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Staff Development Consultant",
-    "framework": "IT160"
+   "jobTitle": "Technical Communicator",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Standards and Procedures Specialist",
-    "framework": "IT160"
+   "jobTitle": "Tool and Die Maker",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Standards and Procedures Specialist, Junior",
-    "framework": "IT160"
+   "jobTitle": "Assembly Technician",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Storage Library Supervisor",
-    "framework": "IT160"
+   "jobTitle": "Electro-Mechanical Assembly Technician",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Strategic Planner",
-    "framework": "IT160"
+   "jobTitle": "Mechanical Assembly Technician",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "System Administrator - Big Data",
-    "framework": "IT160"
+   "jobTitle": "Machine Feeder and Offbearer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "System Engineer - Cloud Computing",
-    "framework": "IT160"
+   "jobTitle": "Machine Operator/Machinist",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "System Engineer, Senior - Cloud Computing",
-    "framework": "IT160"
+   "jobTitle": "Production Helper",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Systems & Network Administrator - Cloud Computing",
-    "framework": "IT160"
+   "jobTitle": "Punch Press Operator",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Systems Administrator",
-    "framework": "IT160"
+   "jobTitle": "Recycling and Reclamation Worker",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Systems Administrator, Senior",
-    "framework": "IT160"
+   "jobTitle": "Electronics Technician",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Systems Integrator",
-    "framework": "IT160"
+   "jobTitle": "Welder - MFG",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Technical Writer",
-    "framework": "IT160"
+   "jobTitle": "Quality Director",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Technology Architect",
-    "framework": "IT160"
+   "jobTitle": "Six Sigma Executive",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Technology Consultant",
-    "framework": "IT160"
+   "jobTitle": "Continuous Improvement Consultant",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Technology Development Manager",
-    "framework": "IT160"
+   "jobTitle": "Quality Control Systems Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Technology Development Specialist",
-    "framework": "IT160"
+   "jobTitle": "Quality Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Technology Development Specialist, Junior",
-    "framework": "IT160"
+   "jobTitle": "Test Engineering Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Technology Specialist",
-    "framework": "IT160"
+   "jobTitle": "Test Engineer, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Technology Specialist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Quality Assurance Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Technology Tools for Application Development",
-    "framework": "IT160"
+   "jobTitle": "Instrumentation/Calibration Technician, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Technology Tools for Data Center Operations",
-    "framework": "IT160"
+   "jobTitle": "Lean Manufacturing Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Technology Tools for Database Management",
-    "framework": "IT160"
+   "jobTitle": "Quality Technician, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Technology Tools for Miscellaneous Tasks",
-    "framework": "IT160"
+   "jobTitle": "Quality Analyst, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Technology Tools for Systems Hardware and Software Management",
-    "framework": "IT160"
+   "jobTitle": "Six Sigma Black Belt",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Technology Tools for Systems Project Management and Security",
-    "framework": "IT160"
+   "jobTitle": "Instrumentation/Calibration Technician",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Technology Tools for Telecommunications",
-    "framework": "IT160"
+   "jobTitle": "Lean Manufacturing Cost Accountant",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Telecommunications Consultant",
-    "framework": "IT160"
+   "jobTitle": "Lean Manufacturing Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Telecommunications Equipment Specialist",
-    "framework": "IT160"
+   "jobTitle": "Quality Technician",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Telecommunications Manager",
-    "framework": "IT160"
+   "jobTitle": "Quality Team Leader",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Telecommunications Specialist",
-    "framework": "IT160"
+   "jobTitle": "Quality Analyst",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Telecommunications Specialist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Supplier Quality Analyst",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Telephony Specialist",
-    "framework": "IT160"
+   "jobTitle": "Six Sigma Green Belt",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Testing Specialist",
-    "framework": "IT160"
+   "jobTitle": "Test Engineer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Testing Specialist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Quality Coordinator",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Training Manager (IT)",
-    "framework": "IT160"
+   "jobTitle": "Quality Analyst, Junior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Transportation Management Consultant",
-    "framework": "IT160"
+   "jobTitle": "Test Engineer, Junior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "User Interface (UI) Engineer",
-    "framework": "IT160"
+   "jobTitle": "Chief Privacy Officer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "User Interface (UI) Engineer, Senior",
-    "framework": "IT160"
+   "jobTitle": "Manufacturing Security Director",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "User Interface Specialist",
-    "framework": "IT160"
+   "jobTitle": "Safety Director",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "User Interface Specialist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Manufacturing Security Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "User Support and Operations Director",
-    "framework": "IT160"
+   "jobTitle": "Safety Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "User Support and Operations Specialist",
-    "framework": "IT160"
+   "jobTitle": "Dangerous Goods Safety Advisor",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Voice Networks Specialist",
-    "framework": "IT160"
+   "jobTitle": "Environment Protection Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Web Abuse Specialist",
-    "framework": "IT160"
+   "jobTitle": "Health and Safety Specialist",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Web Abuse Specialist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Materials Handling Specialist",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Web Application Architect",
-    "framework": "IT160"
+   "jobTitle": "Manufacturing Security Associate",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Web Application Developer",
-    "framework": "IT160"
+   "jobTitle": "Pollution Control Specialist",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Web Application Developer, Senior",
-    "framework": "IT160"
+   "jobTitle": "Safety Analyst",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Web Community Director",
-    "framework": "IT160"
+   "jobTitle": "Safety Administrator",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Web Community Leader",
-    "framework": "IT160"
+   "jobTitle": "Safety Technician",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Web Community Specialist",
-    "framework": "IT160"
+   "jobTitle": "Distribution Director",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Web Content Architect",
-    "framework": "IT160"
+   "jobTitle": "Logistics Management Director",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Web Content Developer",
-    "framework": "IT160"
+   "jobTitle": "Supply Chain Director",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Web Content Editor",
-    "framework": "IT160"
+   "jobTitle": "Distribution Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Web Content Manager",
-    "framework": "IT160"
+   "jobTitle": "Import/Export Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Web Content Producer",
-    "framework": "IT160"
+   "jobTitle": "Production Planning Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Web Content Specialist",
-    "framework": "IT160"
+   "jobTitle": "Supply Chain Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Web Content Specialist, Junior",
-    "framework": "IT160"
+   "jobTitle": "Supplier Quality Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Web Designer, Senior",
-    "framework": "IT160"
+   "jobTitle": "Transportation Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Web Developer - Applications",
-    "framework": "IT160"
+   "jobTitle": "Warehouse Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Web Developer - Data Services",
-    "framework": "IT160"
+   "jobTitle": "Inventory Manager - MFG",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Web Developer - Graphical User Interface",
-    "framework": "IT160"
+   "jobTitle": "Logistics Planning Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Web Executive",
-    "framework": "IT160"
+   "jobTitle": "Materials Planner",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Web Infrastructure Manager",
-    "framework": "IT160"
+   "jobTitle": "Supply Chain Specialist, Senior - MFG",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Web Systems Administrator",
-    "framework": "IT160"
+   "jobTitle": "Supply Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Web Technologist",
-    "framework": "IT160"
+   "jobTitle": "Distribution Center Supervisor - MFG",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Webmaster",
-    "framework": "IT160"
+   "jobTitle": "Logistics Analyst",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Website Content Specialist",
-    "framework": "IT160"
+   "jobTitle": "Materials Coordinator",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Website Manager",
-    "framework": "IT160"
+   "jobTitle": "Supply Chain Specialist",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Wireless Networks Specialist, Senior",
-    "framework": "IT160"
+   "jobTitle": "Traffic/Rate Analyst",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Workflow Architect",
-    "framework": "IT160"
+   "jobTitle": "Crater/Packer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Engineering Program Manager - 3D printing",
-    "framework": "MFG60"
+   "jobTitle": "Dispatcher",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Mechanical Engineer - 3D printing",
-    "framework": "MFG60"
+   "jobTitle": "Inventory Control Clerk",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Materials Engineer - 3D printing",
-    "framework": "MFG60"
+   "jobTitle": "Logistics Clerk",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Pre-Sales Application Engineer - 3D printing",
-    "framework": "MFG60"
+   "jobTitle": "Packaging Machine Operator",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Service Engineer - 3D printing",
-    "framework": "MFG60"
+   "jobTitle": "Shipping/Receiving Clerk - MFG",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Engineering Technician - 3D printing",
-    "framework": "MFG60"
+   "jobTitle": "Traffic Clerk",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "3D Product Designer",
-    "framework": "MFG60"
+   "jobTitle": "Truck and Tractor Operator",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "3D Product Modeler",
-    "framework": "MFG60"
+   "jobTitle": "Warehouse Worker",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Production Repair Technician - 3D printing",
-    "framework": "MFG60"
+   "jobTitle": "Global Sourcing Director",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Chief Financial Officer - MFG",
-    "framework": "MFG60"
+   "jobTitle": "Commodity Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Chief Legal Officer - MFG",
-    "framework": "MFG60"
+   "jobTitle": "Purchasing Manager",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Human Resource Manager- MFG",
-    "framework": "MFG60"
+   "jobTitle": "Purchasing Agent, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "General Counsel - MFG",
-    "framework": "MFG60"
+   "jobTitle": "Purchasing Agent, New Product",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Risk and Compliance Auditor, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Purchasing Supervisor",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Internal Auditor - MFG",
-    "framework": "MFG60"
+   "jobTitle": "Purchasing Associate",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Intellectual Property Attorney - MFG",
-    "framework": "MFG60"
+   "jobTitle": "Purchasing Clerk, Senior",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Risk and Compliance Auditor",
-    "framework": "MFG60"
+   "jobTitle": "Commodity Buyer",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Contract Legal Analyst - MFG",
-    "framework": "MFG60"
+   "jobTitle": "Purchasing Clerk",
+   "framework": "Manufacturing"
   },
   {
-    "jobTitle": "Customer Service Representative - MFG",
-    "framework": "MFG60"
+   "jobTitle": "Art Director",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Financial Analyst - MFG",
-    "framework": "MFG60"
+   "jobTitle": "Associate Creative Director",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Human Resource Specialist - MFG",
-    "framework": "MFG60"
+   "jobTitle": "Media Product Development Manager",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Human Resource Training Specialist - MFG",
-    "framework": "MFG60"
+   "jobTitle": "Account Manager - Advertising",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Automation Design/Control Engineer, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Art Services Supervisor",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Intelligent Manufacturing Program Manager",
-    "framework": "MFG60"
+   "jobTitle": "Media Design Manager",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Automation Design/Control Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Account Executive - Advertising",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Research Analyst - Advanced Electronics",
-    "framework": "MFG60"
+   "jobTitle": "Artist",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Cold Forming Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Copywriter II",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Digital Manufacturing Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Graphic Design Specialist",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Intelligent Manufacturing Solution Consultant",
-    "framework": "MFG60"
+   "jobTitle": "Media Buyer",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Robotics Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Media Planner",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Robotics Software Engineer, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Retoucher",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Robotics Programmer",
-    "framework": "MFG60"
+   "jobTitle": "Chief Engineer",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Robotics Software Engineer",
-    "framework": "MFG60"
+   "jobTitle": "News Director",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Sustainability Analyst",
-    "framework": "MFG60"
+   "jobTitle": "Media Operations Manager",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Nanotechnology Technician",
-    "framework": "MFG60"
+   "jobTitle": "Program Director - Media",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Engineering Director",
-    "framework": "MFG60"
+   "jobTitle": "Art Manager",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Provisioning Engineer Director",
-    "framework": "MFG60"
+   "jobTitle": "Producer-Broadcasting",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Chemical Engineer Manager",
-    "framework": "MFG60"
+   "jobTitle": "Audio and Video Equipment Technician",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Engineering Fellow",
-    "framework": "MFG60"
+   "jobTitle": "Broadcast Technician",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Engineering Manager",
-    "framework": "MFG60"
+   "jobTitle": "Multi-Media Artist and Animator",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Field Service Manager",
-    "framework": "MFG60"
+   "jobTitle": "News Anchor",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Industrial Engineer, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Reporter II",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Manufacturing Engineer Manager",
-    "framework": "MFG60"
+   "jobTitle": "Tape Editor",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Mechanical Engineering Manager",
-    "framework": "MFG60"
+   "jobTitle": "Videographer",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Mechanical Engineer, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Production Assistant - Broadcasting",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Production Engineering Manager",
-    "framework": "MFG60"
+   "jobTitle": "Editorial Director - Books",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Production Engineer, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Editor - Publications",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Engineering Project Manager",
-    "framework": "MFG60"
+   "jobTitle": "Managing Editor",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Provisioning Engineer Manager",
-    "framework": "MFG60"
+   "jobTitle": "Art and Design Manager - Books",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Provisioning Engineer, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Acquisitions Editor",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Tool Design Engineering Manager",
-    "framework": "MFG60"
+   "jobTitle": "Copy Editor - Publications",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Ceramics Engineer, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Designer - Books",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Chemical Engineer, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Editorial Assistant - Book",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Electrical Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Production Assistant - Books",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Tool/Die Design Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Proofreader",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Human Factors Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Executive Editor",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Electronics Engineer, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Advertising Sales Manager",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Certification Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Chief Copy Editor",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Environmental Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Circulation Sales Manager",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Industrial Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Print Production Manager",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Project Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Section Editor",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Journalist",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Field Service Engineer, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Press Photographer",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Mechanical Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Print Production Coordinator",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Mechanical Engineering Supervisor",
-    "framework": "MFG60"
+   "jobTitle": "Sales Representative - Print",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Mechanical Engineering Technician, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Art Director - Web",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Manufacturing Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Technical Writing Director",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Production Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Technical Writing Supervisor II",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Production Engineering Supervisor",
-    "framework": "MFG60"
+   "jobTitle": "Copy Editor - Web",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Provisioning Engineer",
-    "framework": "MFG60"
+   "jobTitle": "MultiMedia & Web Content Production Coordinator",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Reliability Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Media & Web Designer",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Tool Design Engineer, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Technical Writer II",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Ceramics Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Associate Editor - Web",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Chemical Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Technical Illustrator",
+   "framework": "Media and Publishing"
   },
   {
-    "jobTitle": "Electronics Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Manufacturing Operations Director - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Engineer, Junior",
-    "framework": "MFG60"
+   "jobTitle": "Manufacturing Safety Director - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Field Service Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Operations Manager - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Industrial Engineer, Junior",
-    "framework": "MFG60"
+   "jobTitle": "Plant Manager - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Mechanical Engineer, Junior - MFG",
-    "framework": "MFG60"
+   "jobTitle": "Process Manager, Senior - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Manufacturing Engineer, Junior",
-    "framework": "MFG60"
+   "jobTitle": "Manufacturing Safety Manager - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Mechanical Engineering Technician",
-    "framework": "MFG60"
+   "jobTitle": "Capacity Planner, Senior - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Production Engineer, Junior",
-    "framework": "MFG60"
+   "jobTitle": "Environment Protection Manager -PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Provisioning Engineer, Junior",
-    "framework": "MFG60"
+   "jobTitle": "Industrial Engineer - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Tool Design Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Materials Handling Specialist - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Drafter",
-    "framework": "MFG60"
+   "jobTitle": "Manufacturing Engineer - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Electronics Engineer, Junior",
-    "framework": "MFG60"
+   "jobTitle": "Production Planning Manager - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Tool Design Engineer, Junior",
-    "framework": "MFG60"
+   "jobTitle": "Production Manager - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Mechanical Engineering Technician, Junior",
-    "framework": "MFG60"
+   "jobTitle": "Manufacturing Process Specialist, Sr - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Facilities Director",
-    "framework": "MFG60"
+   "jobTitle": "Production Support Specialist, Senior - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Plant General Manager",
-    "framework": "MFG60"
+   "jobTitle": "Manufacturing Safety Specialist - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Emergency Manager",
-    "framework": "MFG60"
+   "jobTitle": "Capacity Planner - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Equipment Engineering Manager",
-    "framework": "MFG60"
+   "jobTitle": "Manufacturing Technician - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Plant Manager",
-    "framework": "MFG60"
+   "jobTitle": "Production Supervisor - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Project Manager, New Plant",
-    "framework": "MFG60"
+   "jobTitle": "Production Support Specialist - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Plant Maintenance Manager",
-    "framework": "MFG60"
+   "jobTitle": "Shift Supervisor - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Plant Operations Manager",
-    "framework": "MFG60"
+   "jobTitle": "Manufacturing Technician, Junior - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Security Manager - MFG",
-    "framework": "MFG60"
+   "jobTitle": "Machine Operator - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Electrical Engineering Supervisor",
-    "framework": "MFG60"
+   "jobTitle": "Medical Affairs Director - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Power Supply Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Medical Advisor, Senior - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Equipment Maintenance Manager",
-    "framework": "MFG60"
+   "jobTitle": "Medical Affairs Manager - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Facility Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Medical Education Manager - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Plant Supervisor",
-    "framework": "MFG60"
+   "jobTitle": "Medical Writing Manager, Senior - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Shift Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Medical Advisor - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Electrical Specialist",
-    "framework": "MFG60"
+   "jobTitle": "Medical Affairs Specialist, Senior - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Emergency Response Coordinator",
-    "framework": "MFG60"
+   "jobTitle": "Medical Education Specialist, Senior",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Equipment Maintenance Specialist",
-    "framework": "MFG60"
+   "jobTitle": "Instructor, Senior - Medical Training - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Security Specialist",
-    "framework": "MFG60"
+   "jobTitle": "Medical Writing Manager - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Electrician",
-    "framework": "MFG60"
+   "jobTitle": "Medical Writing Specialist, Senior - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Facilities Support Technician",
-    "framework": "MFG60"
+   "jobTitle": "Medical Liaison - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "General Laborer",
-    "framework": "MFG60"
+   "jobTitle": "Medical Affairs Specialist - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Operations Director",
-    "framework": "MFG60"
+   "jobTitle": "Instructor - Medical Training - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Manufacturing Manager",
-    "framework": "MFG60"
+   "jobTitle": "Drug Information and Safety Specialist - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Operations Manager",
-    "framework": "MFG60"
+   "jobTitle": "Medical Writing Specialist - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Process Research Manager",
-    "framework": "MFG60"
+   "jobTitle": "Administrative Assistant - Medical Affairs - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Process Manager - MFG",
-    "framework": "MFG60"
+   "jobTitle": "Medical Informatics Coordinator - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Energy Manager",
-    "framework": "MFG60"
+   "jobTitle": "Quality Director - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Electro-Mechanical Assembly Technician, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Quality Assurance Manager, Group - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Operations Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Quality Manager, Senior - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Industrial Engineering Technician, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Six Sigma Black Belt - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Mechanical Assembly Technician, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Compliance Specialist, Senior - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Manufacturing Technician, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Quality Engineer, Senior- PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Production Manager",
-    "framework": "MFG60"
+   "jobTitle": "Quality Assurance Manager - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Process Specialist",
-    "framework": "MFG60"
+   "jobTitle": "Quality Assurance Specialist, Senior - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Production Support Specialist, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Quality Management Specialist, Senior - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Capacity Planner - MFG",
-    "framework": "MFG60"
+   "jobTitle": "Quality Specialist, Senior - Regulatory Affairs - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Configuration Analyst",
-    "framework": "MFG60"
+   "jobTitle": "Six Sigma Green Belt - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Electro-Mechanical Assembly Technician Supervisor",
-    "framework": "MFG60"
+   "jobTitle": "Quality Assurance Specialist - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Estimator, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Quality Engineer - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Industrial Engineering Technician",
-    "framework": "MFG60"
+   "jobTitle": "Quality Control Specialist - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Inspector",
-    "framework": "MFG60"
+   "jobTitle": "Six Sigma Red Belt - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Mechanical Assembly Team Leader",
-    "framework": "MFG60"
+   "jobTitle": "Quality Assurance Specialist, Junior - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Model Maker",
-    "framework": "MFG60"
+   "jobTitle": "Quality Coordinator - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Manufacturing Technician, Junior",
-    "framework": "MFG60"
+   "jobTitle": "Global Procurement Director - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Numerical Tool and Process Control Programmer",
-    "framework": "MFG60"
+   "jobTitle": "Supply Chain Director - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Operations Research Analyst",
-    "framework": "MFG60"
+   "jobTitle": "Procurement Manager - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Production Supervisor",
-    "framework": "MFG60"
+   "jobTitle": "Supply Chain Manager, Senior - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Production Support Specialist",
-    "framework": "MFG60"
+   "jobTitle": "Supplier Quality Manager - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Production Team Leader",
-    "framework": "MFG60"
+   "jobTitle": "Warehouse Manager - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Production Trainer",
-    "framework": "MFG60"
+   "jobTitle": "Inventory Manager - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Robotics Technician",
-    "framework": "MFG60"
+   "jobTitle": "Logistics Planning Manager - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Shift Supervisor",
-    "framework": "MFG60"
+   "jobTitle": "Supply Chain Planner, Senior - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Technical Communicator",
-    "framework": "MFG60"
+   "jobTitle": "New Product Procurement Specialist, Senior - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Tool and Die Maker",
-    "framework": "MFG60"
+   "jobTitle": "Procurement Specialist, Senior - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Assembly Technician",
-    "framework": "MFG60"
+   "jobTitle": "Supply Chain Specialist, Senior - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Electro-Mechanical Assembly Technician",
-    "framework": "MFG60"
+   "jobTitle": "Supplier Quality Analyst - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Mechanical Assembly Technician",
-    "framework": "MFG60"
+   "jobTitle": "Supply Chain Manager - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Machine Feeder and Offbearer",
-    "framework": "MFG60"
+   "jobTitle": "Logistics Analyst - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Machine Operator/Machinist",
-    "framework": "MFG60"
+   "jobTitle": "Supply Chain Planner - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Production Helper",
-    "framework": "MFG60"
+   "jobTitle": "Procurement Specialist - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Punch Press Operator",
-    "framework": "MFG60"
+   "jobTitle": "Supply Chain Specialist - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Recycling and Reclamation Worker",
-    "framework": "MFG60"
+   "jobTitle": "Inventory Control Clerk - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Electronics Technician",
-    "framework": "MFG60"
+   "jobTitle": "Logistics Clerk - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Welder - MFG",
-    "framework": "MFG60"
+   "jobTitle": "Procurement Administrator -PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Product Design Director",
-    "framework": "MFG60"
+   "jobTitle": "Purchasing Clerk - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Director of Deployment",
-    "framework": "MFG60"
+   "jobTitle": "Traffic Clerk - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Product Development Director",
-    "framework": "MFG60"
+   "jobTitle": "Sales and Marketing Director - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Research & Development Director",
-    "framework": "MFG60"
+   "jobTitle": "Brand Manager - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Design Manager",
-    "framework": "MFG60"
+   "jobTitle": "Channel Marketing Manager - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Materials Engineer, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Marketing Manager, Group - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Regulatory Affairs Manager",
-    "framework": "MFG60"
+   "jobTitle": "Market Research Manager - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Research & Development Manager",
-    "framework": "MFG60"
+   "jobTitle": "Sales Manager, Region - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Strategic Product Planning Manager",
-    "framework": "MFG60"
+   "jobTitle": "Competitive Intelligence Analyst - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Design Engineer, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Product Manager -PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Materials Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Product Specialist, Senior - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Product Engineer, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Market Research Analyst, Senior - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Product Development Engineering Manager",
-    "framework": "MFG60"
+   "jobTitle": "Account Manager - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Product Development Manager",
-    "framework": "MFG60"
+   "jobTitle": "Sales Representative, Senior - Healthcare - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Package Design Manager",
-    "framework": "MFG60"
+   "jobTitle": "Sales Manager - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Process Engineer, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Sales Representative, Senior - Pharmaceuticals - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Research and Development Supervisor",
-    "framework": "MFG60"
+   "jobTitle": "Market Research Analyst - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Design Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Sales Representative - Healthcare - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Packaging Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Sales Representative - Pharmaceuticals - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Materials Engineer, Junior",
-    "framework": "MFG60"
+   "jobTitle": "Sales and Marketing Administrator - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Process Associate, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Market Research Analyst, Junior - PHA",
+   "framework": "Pharmaceutical"
   },
   {
-    "jobTitle": "Process Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Mortgage Quality Assurance Manager",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Product Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Real Estate Financial Analyst",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Product Development Supervisor",
-    "framework": "MFG60"
+   "jobTitle": "Commercial Real Estate Loan Officer II",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Testing Technician, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Mortgage Collector II",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Process Associate",
-    "framework": "MFG60"
+   "jobTitle": "Mortgage Loan Processor II",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Product Engineer, Junior",
-    "framework": "MFG60"
+   "jobTitle": "Mortgage Closer",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Testing Technician",
-    "framework": "MFG60"
+   "jobTitle": "Mortgage Credit Analyst II",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Quality Director",
-    "framework": "MFG60"
+   "jobTitle": "Appraisal Manager",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Six Sigma Executive",
-    "framework": "MFG60"
+   "jobTitle": "Valuations Manager",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Continuous Improvement Consultant",
-    "framework": "MFG60"
+   "jobTitle": "Commercial Real Estate Appraiser",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Quality Control Systems Manager",
-    "framework": "MFG60"
+   "jobTitle": "Residential Real Estate Appraiser",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Quality Manager",
-    "framework": "MFG60"
+   "jobTitle": "Valuations Auditor",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Test Engineering Manager",
-    "framework": "MFG60"
+   "jobTitle": "Property Acquisitions Manager",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Test Engineer, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Real Estate Portfolio Manager",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Quality Assurance Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Community Manager (Residential)",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Instrumentation/Calibration Technician, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Property Manager (Commercial & Residential)",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Lean Manufacturing Manager",
-    "framework": "MFG60"
+   "jobTitle": "Regional Property Operations Manager (Commercial)",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Quality Technician, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Service Manager (Commercial & Residential)",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Quality Analyst, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Maintenance Supervisor (Commercial & Residential)",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Six Sigma Black Belt",
-    "framework": "MFG60"
+   "jobTitle": "Top Retail Real Estate Executive",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Instrumentation/Calibration Technician",
-    "framework": "MFG60"
+   "jobTitle": "Real Estate Marketing Director",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Lean Manufacturing Cost Accountant",
-    "framework": "MFG60"
+   "jobTitle": "Leasing Administration Manager",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Lean Manufacturing Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Real Estate Broker",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Quality Technician",
-    "framework": "MFG60"
+   "jobTitle": "Real Estate Marketing Manager",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Quality Team Leader",
-    "framework": "MFG60"
+   "jobTitle": "Retail Real Estate Manager",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Quality Analyst",
-    "framework": "MFG60"
+   "jobTitle": "Real Estate Sales Agent",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Supplier Quality Analyst",
-    "framework": "MFG60"
+   "jobTitle": "Retail Real Estate Representative",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Six Sigma Green Belt",
-    "framework": "MFG60"
+   "jobTitle": "Lease Consultant",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Test Engineer",
-    "framework": "MFG60"
+   "jobTitle": "Real Estate Analyst",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Quality Coordinator",
-    "framework": "MFG60"
+   "jobTitle": "Director of Real Estate Development",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Quality Analyst, Junior",
-    "framework": "MFG60"
+   "jobTitle": "Real Estate Development Coordinator",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Test Engineer, Junior",
-    "framework": "MFG60"
+   "jobTitle": "Landscape Architect",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Chief Privacy Officer",
-    "framework": "MFG60"
+   "jobTitle": "Urban and Regional Planner - Real Estate",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Manufacturing Security Director",
-    "framework": "MFG60"
+   "jobTitle": "Environmental Engineer - Real Estate",
+   "framework": "Real Estate"
   },
   {
-    "jobTitle": "Safety Director",
-    "framework": "MFG60"
+   "jobTitle": "Purchasing Director",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Manufacturing Security Manager",
-    "framework": "MFG60"
+   "jobTitle": "Purchasing Manager - RET",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Safety Manager",
-    "framework": "MFG60"
+   "jobTitle": "Purchasing Specialist/ Agent, Senior",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Dangerous Goods Safety Advisor",
-    "framework": "MFG60"
+   "jobTitle": "Purchasing Supervisor - RET",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Environment Protection Manager",
-    "framework": "MFG60"
+   "jobTitle": "Buyer, Private Label",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Health and Safety Specialist",
-    "framework": "MFG60"
+   "jobTitle": "Buyer, Senior",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Materials Handling Specialist",
-    "framework": "MFG60"
+   "jobTitle": "Buyer",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Manufacturing Security Associate",
-    "framework": "MFG60"
+   "jobTitle": "Purchasing Clerk, Senior - RET",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Pollution Control Specialist",
-    "framework": "MFG60"
+   "jobTitle": "Buyer, Assistant",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Safety Analyst",
-    "framework": "MFG60"
+   "jobTitle": "Purchasing Clerk - RET",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Safety Administrator",
-    "framework": "MFG60"
+   "jobTitle": "Director of Business Development",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Safety Technician",
-    "framework": "MFG60"
+   "jobTitle": "Director of Market Planning & Development",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Global Sourcing Director",
-    "framework": "MFG60"
+   "jobTitle": "Retail Franchising Director",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Commodity Manager",
-    "framework": "MFG60"
+   "jobTitle": "Director of Retail Transformation",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Purchasing Manager",
-    "framework": "MFG60"
+   "jobTitle": "Market Development Manager",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Purchasing Agent, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Merchandise Manager - RET",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Purchasing Agent, New Product",
-    "framework": "MFG60"
+   "jobTitle": "Retail Franchising Manager",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Purchasing Supervisor",
-    "framework": "MFG60"
+   "jobTitle": "Retail Space Management Manager",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Purchasing Associate",
-    "framework": "MFG60"
+   "jobTitle": "Exhibit Display Manager",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Purchasing Clerk, Senior",
-    "framework": "MFG60"
+   "jobTitle": "Safety Analyst - RET",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Commodity Buyer",
-    "framework": "MFG60"
+   "jobTitle": "Market Development Specialist",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Purchasing Clerk",
-    "framework": "MFG60"
+   "jobTitle": "Merchandise Planner",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Distribution Director",
-    "framework": "MFG60"
+   "jobTitle": "Market Intelligence Specialist",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Logistics Management Director",
-    "framework": "MFG60"
+   "jobTitle": "Product Manager - RET",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Supply Chain Director",
-    "framework": "MFG60"
+   "jobTitle": "Exhibit Display Coordinator",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Distribution Manager",
-    "framework": "MFG60"
+   "jobTitle": "Exhibit Display Coordinator III",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Import/Export Manager",
-    "framework": "MFG60"
+   "jobTitle": "Floor Planning Analyst",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Production Planning Manager",
-    "framework": "MFG60"
+   "jobTitle": "Safety Administrator - RET",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Supply Chain Manager",
-    "framework": "MFG60"
+   "jobTitle": "Retail Analyst",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Supplier Quality Manager",
-    "framework": "MFG60"
+   "jobTitle": "Retail Franchising Coordinator",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Transportation Manager",
-    "framework": "MFG60"
+   "jobTitle": "Retail Space Management Coordinator",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Warehouse Manager",
-    "framework": "MFG60"
+   "jobTitle": "Exhibit Display Coordinator, Junior",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Inventory Manager - MFG",
-    "framework": "MFG60"
+   "jobTitle": "Market Development Associate",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Logistics Planning Manager",
-    "framework": "MFG60"
+   "jobTitle": "Field Services Manager",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Materials Planner",
-    "framework": "MFG60"
+   "jobTitle": "Retail Tire Service Manager",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Supply Chain Specialist, Senior - MFG",
-    "framework": "MFG60"
+   "jobTitle": "Field Services Supervisor",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Supply Manager",
-    "framework": "MFG60"
+   "jobTitle": "Field Service Technician",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Distribution Center Supervisor - MFG",
-    "framework": "MFG60"
+   "jobTitle": "Road Service Tire Technician",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Logistics Analyst",
-    "framework": "MFG60"
+   "jobTitle": "Loss Prevention Director",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Materials Coordinator",
-    "framework": "MFG60"
+   "jobTitle": "Loss Prevention Manager",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Supply Chain Specialist",
-    "framework": "MFG60"
+   "jobTitle": "Loss Prevention Associate",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Traffic/Rate Analyst",
-    "framework": "MFG60"
+   "jobTitle": "Director of Direct Sales",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Crater/Packer",
-    "framework": "MFG60"
+   "jobTitle": "Catalog Sales Manager",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Dispatcher",
-    "framework": "MFG60"
+   "jobTitle": "E-business Manager",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Inventory Control Clerk",
-    "framework": "MFG60"
+   "jobTitle": "Telemarketer",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Logistics Clerk",
-    "framework": "MFG60"
+   "jobTitle": "Call Center Director",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Packaging Machine Operator",
-    "framework": "MFG60"
+   "jobTitle": "Retail Operations Director",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Shipping/Receiving Clerk - MFG",
-    "framework": "MFG60"
+   "jobTitle": "Inventory Manager",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Traffic Clerk",
-    "framework": "MFG60"
+   "jobTitle": "Merchandise Manager",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Truck and Tractor Operator",
-    "framework": "MFG60"
+   "jobTitle": "Private Label Manager",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Warehouse Worker",
-    "framework": "MFG60"
+   "jobTitle": "Bakery Manager",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "",
-    "framework": ""
+   "jobTitle": "Deli Counter Manager",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Art Director",
-    "framework": "MPU 1.0"
+   "jobTitle": "Inventory Specialist",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Associate Creative Director",
-    "framework": "MPU 1.0"
+   "jobTitle": "Merchandise Specialist",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Media Product Development Manager",
-    "framework": "MPU 1.0"
+   "jobTitle": "Produce Manager",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Account Manager - Advertising",
-    "framework": "MPU 1.0"
+   "jobTitle": "Returns Manager",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Art Services Supervisor",
-    "framework": "MPU 1.0"
+   "jobTitle": "Credit Investigator",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Media Design Manager",
-    "framework": "MPU 1.0"
+   "jobTitle": "Pricing Coordinator - Grocery Store",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Account Executive - Advertising",
-    "framework": "MPU 1.0"
+   "jobTitle": "Returns Supervisor",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Artist",
-    "framework": "MPU 1.0"
+   "jobTitle": "Retail Pricing Analyst",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Copywriter II",
-    "framework": "MPU 1.0"
+   "jobTitle": "Retail Scanning Coordinator",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Graphic Design Specialist",
-    "framework": "MPU 1.0"
+   "jobTitle": "Retail Store Shift Supervisor",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Media Buyer",
-    "framework": "MPU 1.0"
+   "jobTitle": "Bakery Clerk",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Media Planner",
-    "framework": "MPU 1.0"
+   "jobTitle": "Combined Food Preparation and Service Worker",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Retoucher",
-    "framework": "MPU 1.0"
+   "jobTitle": "Counter Attendant",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Editorial Director - Books",
-    "framework": "MPU 1.0"
+   "jobTitle": "Courier/Messenger",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Editor - Publications",
-    "framework": "MPU 1.0"
+   "jobTitle": "Credit Checker",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Managing Editor",
-    "framework": "MPU 1.0"
+   "jobTitle": "Deli Counter Clerk",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Art and Design Manager - Books",
-    "framework": "MPU 1.0"
+   "jobTitle": "Order Clerk",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Acquisitions Editor",
-    "framework": "MPU 1.0"
+   "jobTitle": "Retail Tire Store Manager Assistant",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Copy Editor - Publications",
-    "framework": "MPU 1.0"
+   "jobTitle": "Online Retailing Director",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Designer - Books",
-    "framework": "MPU 1.0"
+   "jobTitle": "Online Marketing Manager - RET",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Editorial Assistant - Book",
-    "framework": "MPU 1.0"
+   "jobTitle": "Online Sales Manager - RET",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Production Assistant - Books",
-    "framework": "MPU 1.0"
+   "jobTitle": "Online Retailing Manager",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Proofreader",
-    "framework": "MPU 1.0"
+   "jobTitle": "Online Services Manager",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Chief Engineer",
-    "framework": "MPU 1.0"
+   "jobTitle": "Customer Services Supervisor - RET",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "News Director",
-    "framework": "MPU 1.0"
+   "jobTitle": "Data Analysis, Senior - RET",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Media Operations Manager",
-    "framework": "MPU 1.0"
+   "jobTitle": "Online Marketing Specialist - RET",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Program Director - Media",
-    "framework": "MPU 1.0"
+   "jobTitle": "Online Retailing Operation Specialist, Senior",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Art Manager",
-    "framework": "MPU 1.0"
+   "jobTitle": "Payment Instrument Specialist",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Producer-Broadcasting",
-    "framework": "MPU 1.0"
+   "jobTitle": "Customer Service Associate - RET",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Audio and Video Equipment Technician",
-    "framework": "MPU 1.0"
+   "jobTitle": "Data Analysis - RET",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Broadcast Technician",
-    "framework": "MPU 1.0"
+   "jobTitle": "Online Retailing Operation Specialist",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Multi-Media Artist and Animator",
-    "framework": "MPU 1.0"
+   "jobTitle": "Online Customer Service Clerk",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "News Anchor",
-    "framework": "MPU 1.0"
+   "jobTitle": "Supply Chain Director - RET",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Reporter II",
-    "framework": "MPU 1.0"
+   "jobTitle": "Supply Chain Manager - RET",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Tape Editor",
-    "framework": "MPU 1.0"
+   "jobTitle": "Supplier Quality Manager - RET",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Videographer",
-    "framework": "MPU 1.0"
+   "jobTitle": "Allocation and Planning Analyst",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Production Assistant - Broadcasting",
-    "framework": "MPU 1.0"
+   "jobTitle": "Distribution Center Supervisor",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Executive Editor",
-    "framework": "MPU 1.0"
+   "jobTitle": "Supply Chain Specialist, Senior",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Advertising Sales Manager",
-    "framework": "MPU 1.0"
+   "jobTitle": "Logistics Analyst - RET",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Chief Copy Editor",
-    "framework": "MPU 1.0"
+   "jobTitle": "Supply Chain Specialist - RET",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Circulation Sales Manager",
-    "framework": "MPU 1.0"
+   "jobTitle": "Inventory Control Clerk - RET",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Print Production Manager",
-    "framework": "MPU 1.0"
+   "jobTitle": "Shipping/Receiving Clerk - RET",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Section Editor",
-    "framework": "MPU 1.0"
+   "jobTitle": "Traffic Clerk - RET",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Journalist",
-    "framework": "MPU 1.0"
+   "jobTitle": "Retail Executive",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Press Photographer",
-    "framework": "MPU 1.0"
+   "jobTitle": "Regional Manager",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Print Production Coordinator",
-    "framework": "MPU 1.0"
+   "jobTitle": "Department Store Manager",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Sales Representative - Print",
-    "framework": "MPU 1.0"
+   "jobTitle": "Department Manager",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Art Director - Web",
-    "framework": "MPU 1.0"
+   "jobTitle": "Retail Tire Store Manager",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Technical Writing Director",
-    "framework": "MPU 1.0"
+   "jobTitle": "Sales Manager - RET",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Technical Writing Supervisor II",
-    "framework": "MPU 1.0"
+   "jobTitle": "Store Manager",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Copy Editor - Web",
-    "framework": "MPU 1.0"
+   "jobTitle": "Assistant Manager",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Media & Web Designer",
-    "framework": "MPU 1.0"
+   "jobTitle": "Salesperson, Senior",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "MultiMedia & Web Content Production Coordinator",
-    "framework": "MPU 1.0"
+   "jobTitle": "Sales Supervisor",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Technical Writer II",
-    "framework": "MPU 1.0"
+   "jobTitle": "Product Demonstrator",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Associate Editor - Web",
-    "framework": "MPU 1.0"
+   "jobTitle": "Salesperson",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Technical Illustrator",
-    "framework": "MPU 1.0"
+   "jobTitle": "Customer Service Clerk",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Medical Affairs Director - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Cashier",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Medical Advisor, Senior - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Greeter",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Medical Affairs Manager - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Retail Tire Sales Associate",
+   "framework": "Retail"
   },
   {
-    "jobTitle": "Medical Education Manager - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Software Distribution Director",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Medical Writing Manager, Senior - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Software Distribution Specialist, Master",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Instructor, Senior - Medical Training - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Software Distribution Manager",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Medical Advisor - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Software Distribution Specialist, Senior",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Medical Affairs Specialist, Senior - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Software Distribution Supervisor",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Medical Education Specialist, Senior",
-    "framework": "PHA 10"
+   "jobTitle": "Software Distribution Specialist",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Medical Writing Manager - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Software Distribution Specialist, Junior",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Medical Writing Specialist, Senior - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Technical Documentation Director",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Drug Information and Safety  Specialist - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Technical Documentation Specialist, Master",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Instructor - Medical Training - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Technical Documentation Manager",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Medical Affairs Specialist - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Technical Documentation Specialist, Senior",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Medical Liaison - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Technical Writer, Senior - HTS",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Medical Writing Specialist  - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Web Technical Producer",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Administrative Assistant - Medical Affairs - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Technical Documentation Supervisor",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Medical Informatics Coordinator - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Technical Documentation Specialist",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Manufacturing Operations Director - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Technical Librarian",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Manufacturing Safety Director - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Technical Writer - HTS",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Manufacturing Safety Manager - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Technical Documentation Specialist, Junior",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Operations Manager - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Software Development Director",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Plant Manager - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Software Engineer - Web Expert",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Process Manager, Senior - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Software Development Specialist, Master",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Capacity Planner, Senior - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Software Development Manager",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Environment Protection Manager -PHA",
-    "framework": "PHA 10"
+   "jobTitle": "User Interface Specialist, Senior - HTS",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Industrial Engineer - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Software Developer, Senior",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Manufacturing Engineer - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Application Programmer",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Manufacturing Process Specialist, Sr - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Integration Engineer",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Manufacturing Safety Specialist - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Java Developer",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Materials Handling Specialist - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Mainframe Programmer",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Production Manager - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Midrange Programmer",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Production Planning Manager - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Operating Systems Programmer",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Production Support Specialist, Senior - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Software Developer - Games",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Capacity Planner - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Mobile Applications Developer",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Manufacturing Technician - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Systems Engineer - Cloud Computing - HTS",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Production Supervisor - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "User Interface Specialist - HTS",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Production Support Specialist - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Software Developer",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Shift Supervisor - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Web Software Developer",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Machine Operator - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Software Developer, Junior",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Manufacturing Technician, Junior - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Client Services Director",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Quality Director - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Field Service Director",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Quality Assurance Manager, Group - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Software Product Support Director",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Quality Manager, Senior - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Customer Information Center Manager",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Six Sigma Black Belt - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Web Customer Service Manager",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Compliance Specialist, Senior - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Field Service Manager, Region",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Quality Assurance Manager - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Field Service Specialist, Master",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Quality Assurance Specialist, Senior - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Software Product Support Specialist, Master",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Quality Engineer, Senior- PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Customer Information Center Supervisor",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Quality Management Specialist, Senior - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Critical Situation Manager",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Quality Specialist, Senior - Regulatory Affairs - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Field Service Manager - HTS",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Six Sigma Green Belt - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Product Support Manager",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Quality Assurance Specialist - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Systems Consultant/Engineer - Pre & Post Sales - HTS",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Quality Control Specialist - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Field Service Specialist, Senior",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Quality Engineer - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Software Product Support Specialist, Senior",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Six Sigma Red Belt - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Field Service Supervisor",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Quality Assurance Specialist, Junior - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Field Service Specialist",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Quality Coordinator - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Product Support Specialist - HTS",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Global Procurement Director - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Client Technologies Technician",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Supply Chain Director - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Field Service Support Associate",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Procurement Manager - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Software Product Support Specialist, Junior",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Supplier Quality Manager - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Global Advertising Director",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Supply Chain Manager, Senior - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Channel Marketing Manager",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Warehouse Manager - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Content Publishing Manager",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Inventory Manager - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Digital Marketing Manager",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Logistics Planning Manager - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Marketing Manager",
+   "framework": "Software"
   },
   {
-    "jobTitle": "New Product Procurement Specialist, Senior - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Public Relations Manager - HTS",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Procurement Specialist, Senior - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Social Media Manager - HTS",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Supplier Quality Analyst - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Web Marketing Manager",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Supply Chain Manager - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Digital Analyst",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Supply Chain Planner, Senior - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Operations Engineer, Senior",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Supply Chain Specialist, Senior - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Systems Engineer, Senior",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Logistics Analyst - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Network Security Engineer",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Procurement Specialist - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Network Systems Engineer",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Supply Chain Planner - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Operations Engineer - HTS",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Supply Chain Specialist - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Systems Engineer",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Inventory Control Clerk - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Storage Engineering Specialist",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Logistics Clerk - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Quality Assurance Director",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Procurement Administrator -PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Testing Manager, Senior",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Purchasing Clerk - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Quality Assurance Architect",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Traffic Clerk - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Testing Specialist, Master",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Sales and Marketing Director - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Quality Assurance Manager - HTS",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Brand Manager - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Testing Manager",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Channel Marketing Manager - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Quality Assurance Specialist, Senior - HTS",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Market Research Manager - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Testing Specialist, Senior - HTS",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Marketing Manager, Group - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Quality Assurance Specialist - HTS",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Sales Manager, Region - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Testing Specialist - Mobile Applications - HTS",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Account Manager - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Testing Specialist - HTS",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Competitive Intelligence Analyst - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Quality Assurance Specialist, Junior",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Market Research Analyst, Senior - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Testing Specialist, Junior",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Product Manager -PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Software Product Management Director",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Product Specialist, Senior - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Software Product Manager - Cloud",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Sales Manager - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Software Product Manager - New Business Initiatives",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Sales Representative, Senior  - Healthcare - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Software Product Manager - Mobile Finances",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Sales Representative, Senior - Pharmaceuticals - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Software Product Manager - Web Analytics",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Market Research Analyst - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Software Product Specialist, Master",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Sales Representative - Healthcare - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Software Product Manager",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Sales Representative - Pharmaceuticals - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Software Architect",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Market Research Analyst, Junior - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Software Product Specialist, Senior",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Sales and Marketing Administrator - PHA",
-    "framework": "PHA 10"
+   "jobTitle": "Web Product Manager",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Mortgage Quality Assurance Manager",
-    "framework": "RE 1.0"
+   "jobTitle": "Software Product Specialist",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Real Estate Financial Analyst",
-    "framework": "RE 1.0"
+   "jobTitle": "Technical Sales Support Specialist",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Commercial Real Estate Loan Officer II",
-    "framework": "RE 1.0"
+   "jobTitle": "Software Product Specialist, Junior",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Mortgage Collector II",
-    "framework": "RE 1.0"
+   "jobTitle": "Data Management Director",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Mortgage Loan Processor II",
-    "framework": "RE 1.0"
+   "jobTitle": "Data Strategist",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Mortgage Closer",
-    "framework": "RE 1.0"
+   "jobTitle": "Database Consultant - HTS",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Mortgage Credit Analyst II",
-    "framework": "RE 1.0"
+   "jobTitle": "Data Warehouse Programming Specialist",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Appraisal Manager",
-    "framework": "RE 1.0"
+   "jobTitle": "Business Data Analyst",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Valuations Manager",
-    "framework": "RE 1.0"
+   "jobTitle": "Data Analyst",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Commercial Real Estate Appraiser",
-    "framework": "RE 1.0"
+   "jobTitle": "Data Warehouse Analyst",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Residential Real Estate Appraiser",
-    "framework": "RE 1.0"
+   "jobTitle": "Database Report Writer",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Valuations Auditor",
-    "framework": "RE 1.0"
+   "jobTitle": "Database Specialist",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Property Acquisitions Manager",
-    "framework": "RE 1.0"
+   "jobTitle": "Data Control Clerk",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Real Estate Portfolio Manager",
-    "framework": "RE 1.0"
+   "jobTitle": "Database Administrator - HTS",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Community Manager (Residential)",
-    "framework": "RE 1.0"
+   "jobTitle": "Software Security Consultant",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Property Manager (Commercial & Residential)",
-    "framework": "RE 1.0"
+   "jobTitle": "Software Security Engineer, Senior",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Regional Property Operations Manager (Commercial)",
-    "framework": "RE 1.0"
+   "jobTitle": "Virtualization and Storage Manager, Senior",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Service Manager (Commercial & Residential)",
-    "framework": "RE 1.0"
+   "jobTitle": "Disaster Recovery Analyst",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Maintenance Supervisor (Commercial & Residential)",
-    "framework": "RE 1.0"
+   "jobTitle": "Software Security Engineer",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Top Retail Real Estate Executive",
-    "framework": "RE 1.0"
+   "jobTitle": "IS Security Manager",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Real Estate Marketing Director",
-    "framework": "RE 1.0"
+   "jobTitle": "Software Security Specialist",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Leasing Administration Manager",
-    "framework": "RE 1.0"
+   "jobTitle": "Data Security Analyst",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Real Estate Broker",
-    "framework": "RE 1.0"
+   "jobTitle": "Storage Management Specialist",
+   "framework": "Software"
   },
   {
-    "jobTitle": "Real Estate Marketing Manager",
-    "framework": "RE 1.0"
+   "jobTitle": "Network Architecture Services Director",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Retail Real Estate Manager",
-    "framework": "RE 1.0"
+   "jobTitle": "Network Architecture Services Manager, Group",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Real Estate Sales Agent",
-    "framework": "RE 1.0"
+   "jobTitle": "Telecom Network Architect, Master",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Retail Real Estate Representative",
-    "framework": "RE 1.0"
+   "jobTitle": "Architecture Project Manager",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Lease Consultant",
-    "framework": "RE 1.0"
+   "jobTitle": "Network Architect, Senior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Real Estate Analyst",
-    "framework": "RE 1.0"
+   "jobTitle": "Network Technical Specialist, Senior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Director of Real Estate Development",
-    "framework": "RE 1.0"
+   "jobTitle": "Telecom Network Architect",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Urban and Regional Planner - Real Estate",
-    "framework": "RE 1.0"
+   "jobTitle": "Network Technical Specialist",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Environmental Engineer - Real Estate",
-    "framework": "RE 1.0"
+   "jobTitle": "Telecom Equipment Specialist",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Landscape Architect",
-    "framework": "RE 1.0"
+   "jobTitle": "Network Technical Specialist, Junior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Real Estate Development Coordinator",
-    "framework": "RE 1.0"
+   "jobTitle": "Telecom Additional Competencies",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "",
-    "framework": ""
+   "jobTitle": "Network Engineering Services Director",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Director of Direct Sales",
-    "framework": "RET40"
+   "jobTitle": "Network Engineering Services Manager, Group",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Catalog Sales Manager",
-    "framework": "RET40"
+   "jobTitle": "Network Engineer, Master",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "E-business Manager",
-    "framework": "RET40"
+   "jobTitle": "Network Engineering Project Manager",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Telemarketer",
-    "framework": "RET40"
+   "jobTitle": "Network Engineer, Senior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Online Retailing Director",
-    "framework": "RET40"
+   "jobTitle": "RF Engineer, Senior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Online Sales Manager - RET",
-    "framework": "RET40"
+   "jobTitle": "Network Infrastructure Specialist, Senior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Online Services Manager",
-    "framework": "RET40"
+   "jobTitle": "Telecom Network Engineer",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Customer Services Supervisor - RET",
-    "framework": "RET40"
+   "jobTitle": "RF Engineer",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Customer Service Associate - RET",
-    "framework": "RET40"
+   "jobTitle": "Network Infrastructure Specialist",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Online Customer Service Clerk",
-    "framework": "RET40"
+   "jobTitle": "RF Infrastructure Technician",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Field Services Manager",
-    "framework": "RET40"
+   "jobTitle": "Network Infrastructure Technician",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Retail Tire Service Manager",
-    "framework": "RET40"
+   "jobTitle": "Network Operations Executive",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Field Services Supervisor",
-    "framework": "RET40"
+   "jobTitle": "Network Operations Director",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Field Service Technician",
-    "framework": "RET40"
+   "jobTitle": "Capacity Planning Manager, Global",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Road Service Tire Technician",
-    "framework": "RET40"
+   "jobTitle": "Network Operations Manager, Group",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Loss Prevention Director",
-    "framework": "RET40"
+   "jobTitle": "Disaster Recovery Planning Manager, Global",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Loss Prevention Manager",
-    "framework": "RET40"
+   "jobTitle": "Network Operations Engineer, Master",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Loss Prevention Associate",
-    "framework": "RET40"
+   "jobTitle": "Network Operations Consultant, Master",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Online Marketing Manager - RET",
-    "framework": "RET40"
+   "jobTitle": "Network Operations Manager",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Online Retailing Manager",
-    "framework": "RET40"
+   "jobTitle": "Telecom Capacity Planner, Senior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Data Analysis, Senior - RET",
-    "framework": "RET40"
+   "jobTitle": "Network Operations Engineer, Senior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Online Marketing Specialist - RET",
-    "framework": "RET40"
+   "jobTitle": "Wireless Networks Engineer, Senior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Online Retailing Operation Specialist, Senior",
-    "framework": "RET40"
+   "jobTitle": "Disaster Recovery Planner, Senior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Payment Instrument Specialist",
-    "framework": "RET40"
+   "jobTitle": "Network Operations Consultant",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Data Analysis - RET",
-    "framework": "RET40"
+   "jobTitle": "Network Capacity Planner",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Online Retailing Operation Specialist",
-    "framework": "RET40"
+   "jobTitle": "Network Operator, Senior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Purchasing Director",
-    "framework": "RET40"
+   "jobTitle": "Telecom Network Technician",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Purchasing Manager - RET",
-    "framework": "RET40"
+   "jobTitle": "Telecom Network Administrator",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Purchasing Specialist/ Agent, Senior",
-    "framework": "RET40"
+   "jobTitle": "Telecom Network Operator",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Purchasing Supervisor - RET",
-    "framework": "RET40"
+   "jobTitle": "Quality Assurance and Compliance Director",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Buyer, Private Label",
-    "framework": "RET40"
+   "jobTitle": "Compliance Manager, Global",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Buyer, Senior",
-    "framework": "RET40"
+   "jobTitle": "Telecom Quality Assurance Manager, Group",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Buyer",
-    "framework": "RET40"
+   "jobTitle": "Supplier Quality Manager, Global",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Purchasing Clerk, Senior - RET",
-    "framework": "RET40"
+   "jobTitle": "Telecom Testing Manager",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Buyer, Assistant",
-    "framework": "RET40"
+   "jobTitle": "Telecom Compliance Specialist, Master",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Purchasing Clerk - RET",
-    "framework": "RET40"
+   "jobTitle": "Telecom Testing Specialist, Master",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Call Center Director",
-    "framework": "RET40"
+   "jobTitle": "Telecom Quality Assurance Manager",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Retail Operations Director",
-    "framework": "RET40"
+   "jobTitle": "Telecom Compliance Specialist, Senior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Inventory Manager",
-    "framework": "RET40"
+   "jobTitle": "Telecom Quality Assurance Specialist, Senior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Merchandise Manager",
-    "framework": "RET40"
+   "jobTitle": "Telecom Testing Specialist, Senior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Private Label Manager",
-    "framework": "RET40"
+   "jobTitle": "Supplier Quality Analyst, Senior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Bakery Manager",
-    "framework": "RET40"
+   "jobTitle": "Telecom Compliance Specialist",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Deli Counter Manager",
-    "framework": "RET40"
+   "jobTitle": "Telecom Quality Assurance Specialist",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Inventory Specialist",
-    "framework": "RET40"
+   "jobTitle": "Telecom Testing Specialist, Junior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Merchandise Specialist",
-    "framework": "RET40"
+   "jobTitle": "Telecom Supplier Quality Analyst",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Produce Manager",
-    "framework": "RET40"
+   "jobTitle": "Telecom Quality Assurance Administrator",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Returns Manager",
-    "framework": "RET40"
+   "jobTitle": "Telecom Testing Technician",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Credit Investigator",
-    "framework": "RET40"
+   "jobTitle": "Telecom Research and Development Director",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Pricing Coordinator - Grocery Store",
-    "framework": "RET40"
+   "jobTitle": "Telecom Product Development Manager, Group",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Returns Supervisor",
-    "framework": "RET40"
+   "jobTitle": "Telecom Research Manager, Group",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Retail Pricing Analyst",
-    "framework": "RET40"
+   "jobTitle": "Telecom Product Development Engineer, Master",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Retail Scanning Coordinator",
-    "framework": "RET40"
+   "jobTitle": "Telecom Research Engineer, Master",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Retail Store Shift Supervisor",
-    "framework": "RET40"
+   "jobTitle": "Telecom Product Development Team Leader",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Bakery Clerk",
-    "framework": "RET40"
+   "jobTitle": "Telecom Product Development Engineer, Senior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Combined Food Preparation and Service Worker",
-    "framework": "RET40"
+   "jobTitle": "Telecom Research Engineer, Senior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Counter Attendant",
-    "framework": "RET40"
+   "jobTitle": "Telecom Supply Chain Specialist, Senior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Courier/Messenger",
-    "framework": "RET40"
+   "jobTitle": "Telecom Technical Specialist, Senior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Credit Checker",
-    "framework": "RET40"
+   "jobTitle": "Telecom Product Development Engineer",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Deli Counter Clerk",
-    "framework": "RET40"
+   "jobTitle": "Telecom Research Engineer",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Order Clerk",
-    "framework": "RET40"
+   "jobTitle": "Telecom Supply Chain Specialist",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Retail Tire Store Manager Assistant",
-    "framework": "RET40"
+   "jobTitle": "Telecom Technical Specialist",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Director of Business Development",
-    "framework": "RET40"
+   "jobTitle": "Telecom Product Development Specialist, Junior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Director of Market Planning & Development",
-    "framework": "RET40"
+   "jobTitle": "Telecom Security Director",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Retail Franchising Director",
-    "framework": "RET40"
+   "jobTitle": "Network Security Manager, Global",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Director of Retail Transformation",
-    "framework": "RET40"
+   "jobTitle": "Network Security Architect, Master",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Market Development Manager",
-    "framework": "RET40"
+   "jobTitle": "Network Security Specialist, Master",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Merchandise Manager - RET",
-    "framework": "RET40"
+   "jobTitle": "Network Security Manager",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Retail Franchising Manager",
-    "framework": "RET40"
+   "jobTitle": "Cyber Threat Specialist",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Retail Space Management Manager",
-    "framework": "RET40"
+   "jobTitle": "Network Security Architect, Senior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Exhibit Display Manager",
-    "framework": "RET40"
+   "jobTitle": "Network Security Specialist, Senior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Safety Analyst - RET",
-    "framework": "RET40"
+   "jobTitle": "Network Security Administrator, Senior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Market Development Specialist",
-    "framework": "RET40"
+   "jobTitle": "Network Security Specialist",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Merchandise Planner",
-    "framework": "RET40"
+   "jobTitle": "Network Security Technology Specialist",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Market Intelligence Specialist",
-    "framework": "RET40"
+   "jobTitle": "Network Security Administrator",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Product Manager - RET",
-    "framework": "RET40"
+   "jobTitle": "Network Security Specialist, Junior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Exhibit Display Coordinator",
-    "framework": "RET40"
+   "jobTitle": "Telecom Customer Support Director",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Exhibit Display Coordinator III",
-    "framework": "RET40"
+   "jobTitle": "Telecom Customer Support Manager - Region",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Floor Planning Analyst",
-    "framework": "RET40"
+   "jobTitle": "Telecom Product Manager",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Safety Administrator - RET",
-    "framework": "RET40"
+   "jobTitle": "Telecom Customer Support Specialist, Master",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Retail Analyst",
-    "framework": "RET40"
+   "jobTitle": "Telecom Product Specialist, Master",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Retail Franchising Coordinator",
-    "framework": "RET40"
+   "jobTitle": "Telecom Customer Support Manager",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Retail Space Management Coordinator",
-    "framework": "RET40"
+   "jobTitle": "Telecom Customer Support Specialist, Senior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Exhibit Display Coordinator, Junior",
-    "framework": "RET40"
+   "jobTitle": "Telecom Field Support Specialist, Senior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Market Development Associate",
-    "framework": "RET40"
+   "jobTitle": "Telecom Product Specialist, Senior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Retail Executive",
-    "framework": "RET40"
+   "jobTitle": "Telecom Customer Support Specialist",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Regional Manager",
-    "framework": "RET40"
+   "jobTitle": "Telecom Field Support Specialist",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Department Store Manager",
-    "framework": "RET40"
+   "jobTitle": "Telecom Product Specialist",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Department Manager",
-    "framework": "RET40"
+   "jobTitle": "Telecom Customer Support Specialist, Junior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Retail Tire Store Manager",
-    "framework": "RET40"
+   "jobTitle": "Telecom Field Support Technician",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Sales Manager - RET",
-    "framework": "RET40"
+   "jobTitle": "Wireless Networks Engineer, Master",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Store Manager",
-    "framework": "RET40"
+   "jobTitle": "Wireless Networks Manager",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Assistant Manager",
-    "framework": "RET40"
+   "jobTitle": "Wireless Network Engineering Project Manager",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Salesperson, Senior",
-    "framework": "RET40"
+   "jobTitle": "Wireless Network Engineer, Senior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Sales Supervisor",
-    "framework": "RET40"
+   "jobTitle": "Wireless Network Performance Engineer",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Product Demonstrator",
-    "framework": "RET40"
+   "jobTitle": "Wireless Transport Engineer",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Salesperson",
-    "framework": "RET40"
+   "jobTitle": "Wireless Network Engineer",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Customer Service Clerk",
-    "framework": "RET40"
+   "jobTitle": "Cell Technician, Senior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Cashier",
-    "framework": "RET40"
+   "jobTitle": "Wireless Network Engineer, Junior",
+   "framework": "Telecommunications"
   },
   {
-    "jobTitle": "Greeter",
-    "framework": "RET40"
-  },
-  {
-    "jobTitle": "Retail Tire Sales Associate",
-    "framework": "RET40"
-  },
-  {
-    "jobTitle": "Supply Chain Director - RET",
-    "framework": "RET40"
-  },
-  {
-    "jobTitle": "Supply Chain Manager - RET",
-    "framework": "RET40"
-  },
-  {
-    "jobTitle": "Supplier Quality Manager - RET",
-    "framework": "RET40"
-  },
-  {
-    "jobTitle": "Allocation and Planning Analyst",
-    "framework": "RET40"
-  },
-  {
-    "jobTitle": "Distribution Center Supervisor",
-    "framework": "RET40"
-  },
-  {
-    "jobTitle": "Supply Chain Specialist, Senior",
-    "framework": "RET40"
-  },
-  {
-    "jobTitle": "Logistics Analyst - RET",
-    "framework": "RET40"
-  },
-  {
-    "jobTitle": "Supply Chain Specialist - RET",
-    "framework": "RET40"
-  },
-  {
-    "jobTitle": "Inventory Control Clerk - RET",
-    "framework": "RET40"
-  },
-  {
-    "jobTitle": "Shipping/Receiving Clerk - RET",
-    "framework": "RET40"
-  },
-  {
-    "jobTitle": "Traffic Clerk - RET",
-    "framework": "RET40"
+   "jobTitle": "Cell Technician",
+   "framework": "Telecommunications"
   }
 ]
